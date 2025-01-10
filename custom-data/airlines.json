@@ -5,5 +5,12 @@
     "callsign": "SIBERIAN AIRLINES",
     "country": "RUSSIAN FEDERATION",
     "virtual": false
+  },
+  {
+    "icao": "CAL",
+    "name": "CHINA AIRLINES",
+    "callsign": "DYNASTY",
+    "country": "TAIWAN",
+    "virtual": false
   }
 ]
