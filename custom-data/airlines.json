@@ -12,5 +12,26 @@
     "callsign": "DYNASTY",
     "country": "TAIWAN",
     "virtual": false
+  },
+  {
+    "icao": "MDA",
+    "name": "MANDARIN AIRLINES",
+    "callsign": "MANDARIN",
+    "country": "TAIWAN",
+    "virtual": false
+  },
+  {
+    "icao": "SJX",
+    "name": "STARLUX AIRLINES CO., LTD",
+    "callsign": "STARWALKER",
+    "country": "TAIWAN",
+    "virtual": false
+  },
+  {
+    "icao": "TTW",
+    "name": "TIGERAIR TAIWAN CO. LD.",
+    "callsign": "SMART CAT",
+    "country": "TAIWAN",
+    "virtual": false
   }
 ]
