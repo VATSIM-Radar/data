@@ -19,5 +19,12 @@
     "callsign":"SUNRISE",
     "country":"GERMANY",
     "virtual":true
+  },
+  {
+    "icao":"LIC",
+    "name":"AIR LINCE",
+    "callsign":"AIR LINCE",
+    "country":"SPAIN",
+    "virtual":true
   }
 ]
