@@ -19,5 +19,12 @@
     "callsign":"SUNRISE",
     "country":"GERMANY",
     "virtual":true
+  },
+  {
+    "icao":"MQT",
+    "name":"MUSKETEER VA",
+    "callsign":"MUSKETEER",
+    "country":"GERMANY",
+    "virtual":true
   }
 ]
