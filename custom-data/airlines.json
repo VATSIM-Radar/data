@@ -28,5 +28,11 @@
     "name": "NIGHT AIR CARGO",
     "callsign": "NIGHT DOG",
     "virtual": true
+  },
+{
+    "icao": "WAT",
+    "name": "WALKER AIR TRANSPORT",
+    "callsign": "WALKER",
+    "virtual": true
   }
 ]
