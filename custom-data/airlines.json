@@ -28,5 +28,17 @@
     "name": "NIGHT AIR CARGO",
     "callsign": "NIGHT DOG",
     "virtual": true
+  },
+{
+    "icao": "NWR",
+    "name": "NICKS AIR",
+    "callsign": "FABULOUS",
+    "virtual": true
+  },
+  {
+    "icao": "NWC",
+    "name": "NICHOLAS WILLIAM CARGO",
+    "callsign": "BIGLO",
+    "virtual": true
   }
 ]
