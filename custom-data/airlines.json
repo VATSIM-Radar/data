@@ -130,5 +130,11 @@
     "name": "Air Württemberg",
     "callsign": "EMBERG",
     "virtual": true
+  },
+  {
+    "icao": "UAE",
+    "name": "Emirates Virtual",
+    "callsign:" "EMIRATES",
+    "virtual": true
   }
 ]
