@@ -1837,6 +1837,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"exsolve@npm:^1.0.2":
+  version: 1.0.2
+  resolution: "exsolve@npm:1.0.2"
+  checksum: 10c0/1f9217c2096c2e5cf32b4326adc99caca272cd5ba7af35aaee22bdd11f8ebb64443f3288ab6034d3baa51ee51f30f92827db6946b4f51937925bd3eedb7eac50
+  languageName: node
+  linkType: hard
+
 "fast-deep-equal@npm:^3.1.1":
   version: 3.1.3
   resolution: "fast-deep-equal@npm:3.1.3"
@@ -2794,9 +2801,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nitropack@npm:^2.11.1":
-  version: 2.11.1
-  resolution: "nitropack@npm:2.11.1"
+"nitropack@npm:^2.11.2":
+  version: 2.11.2
+  resolution: "nitropack@npm:2.11.2"
   dependencies:
     "@cloudflare/kv-asset-handler": "npm:^0.3.4"
     "@netlify/functions": "npm:3.0.0"
@@ -2826,7 +2833,7 @@ __metadata:
     esbuild: "npm:^0.25.0"
     escape-string-regexp: "npm:^5.0.0"
     etag: "npm:^1.8.1"
-    exsolve: "npm:^1.0.1"
+    exsolve: "npm:^1.0.2"
     fs-extra: "npm:^11.3.0"
     globby: "npm:^14.1.0"
     gzip-size: "npm:^7.0.0"
@@ -2880,7 +2887,7 @@ __metadata:
   bin:
     nitro: dist/cli/index.mjs
     nitropack: dist/cli/index.mjs
-  checksum: 10c0/9b01fe2e4637b5f06a301cef2db581ec4019b84e99a9cecd8c83d499c6999b119068d28b496f72dc41e57558bf8083fa7ea40d15b1eb64fdf096a40608ad54cd
+  checksum: 10c0/84a4056d8fee9d372a61588f7bc86f21df2ff12e166c837db19e7b4492c408fc59c4d7d2f58bd172d2e1a3097f2bf957f76edb8d3c1ae14a048d5abb43a4169f
   languageName: node
   linkType: hard
 
@@ -4258,7 +4265,7 @@ __metadata:
   dependencies:
     "@types/node": "npm:^22.13.9"
     croner: "npm:^9.0.0"
-    nitropack: "npm:^2.11.1"
+    nitropack: "npm:^2.11.2"
   languageName: unknown
   linkType: soft
 
