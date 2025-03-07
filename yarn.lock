@@ -571,33 +571,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@poppinss/colors@npm:^4.1.4":
-  version: 4.1.4
-  resolution: "@poppinss/colors@npm:4.1.4"
-  dependencies:
-    kleur: "npm:^4.1.5"
-  checksum: 10c0/31d358a53cc2ecc138646365fc8e7df8596f74f8bd9f4d2fe03013e5adafaca38f701383d1b8f035a6f14f60492a05b9acbc2694b363785fe22e3caaa3e7e5fc
-  languageName: node
-  linkType: hard
-
-"@poppinss/dumper@npm:^0.6.2":
-  version: 0.6.2
-  resolution: "@poppinss/dumper@npm:0.6.2"
-  dependencies:
-    "@poppinss/colors": "npm:^4.1.4"
-    "@sindresorhus/is": "npm:^7.0.1"
-    supports-color: "npm:^10.0.0"
-  checksum: 10c0/48237b6db35cc2d5782a0db49231eccd8bd8eb514291fd6188321a354315cf65e33967b08fddc59a1f0cbf9cd6cb4cf3a4fdb17a6d5f002f2dc0e6ced49e6724
-  languageName: node
-  linkType: hard
-
-"@poppinss/exception@npm:^1.2.0":
-  version: 1.2.0
-  resolution: "@poppinss/exception@npm:1.2.0"
-  checksum: 10c0/47e0aabcf2167543c6c974abc462da6848e9f2a36d582c0fb78e1fc0ea4becf9a246d85497ee3420454c175900274b84a66fed98d6caabf4e544effbd58e09f5
-  languageName: node
-  linkType: hard
-
 "@redocly/ajv@npm:^8.11.2":
   version: 8.11.2
   resolution: "@redocly/ajv@npm:8.11.2"
@@ -894,24 +867,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sindresorhus/is@npm:^7.0.1":
-  version: 7.0.1
-  resolution: "@sindresorhus/is@npm:7.0.1"
-  checksum: 10c0/6d43a916d70d9b64066394c272883869b22faf21f4748aaf399c1b691ea704ea607d1668ff2eb5704e5be8809c4a7faafe16be048ce5e1a2ba6e8928b8e3461c
-  languageName: node
-  linkType: hard
-
 "@sindresorhus/merge-streams@npm:^2.1.0":
   version: 2.3.0
   resolution: "@sindresorhus/merge-streams@npm:2.3.0"
   checksum: 10c0/69ee906f3125fb2c6bb6ec5cdd84e8827d93b49b3892bce8b62267116cc7e197b5cccf20c160a1d32c26014ecd14470a72a5e3ee37a58f1d6dadc0db1ccf3894
-  languageName: node
-  linkType: hard
-
-"@speed-highlight/core@npm:^1.2.7":
-  version: 1.2.7
-  resolution: "@speed-highlight/core@npm:1.2.7"
-  checksum: 10c0/33905da58b7e0f0857f3ec7c60a4d2e7bd7e25573dd8676de2dab555057e9873084fd2bb1d97c4629131a990f7e230cb7068045370a15c77c4412527776791d4
   languageName: node
   linkType: hard
 
@@ -1394,13 +1353,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cookie@npm:^1.0.2":
-  version: 1.0.2
-  resolution: "cookie@npm:1.0.2"
-  checksum: 10c0/fd25fe79e8fbcfcaf6aa61cd081c55d144eeeba755206c058682257cb38c4bd6795c6620de3f064c740695bb65b7949ebb1db7a95e4636efb8357a335ad3f54b
-  languageName: node
-  linkType: hard
-
 "core-util-is@npm:~1.0.0":
   version: 1.0.3
   resolution: "core-util-is@npm:1.0.3"
@@ -1652,13 +1604,6 @@ __metadata:
   version: 2.0.3
   resolution: "err-code@npm:2.0.3"
   checksum: 10c0/b642f7b4dd4a376e954947550a3065a9ece6733ab8e51ad80db727aaae0817c2e99b02a97a3d6cecc648a97848305e728289cf312d09af395403a90c9d4d8a66
-  languageName: node
-  linkType: hard
-
-"error-stack-parser-es@npm:^0.1.5":
-  version: 0.1.5
-  resolution: "error-stack-parser-es@npm:0.1.5"
-  checksum: 10c0/60331183269d5d5f2d80ce01be58387e7f7ef86ec821db7bba3e7aad201174b3f1b561973c678af7ec945542de8f2d1d23d5152ff8adf6154080eff02cd0e0b5
   languageName: node
   linkType: hard
 
@@ -2462,13 +2407,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"kleur@npm:^4.1.5":
-  version: 4.1.5
-  resolution: "kleur@npm:4.1.5"
-  checksum: 10c0/e9de6cb49657b6fa70ba2d1448fd3d691a5c4370d8f7bbf1c2f64c24d461270f2117e1b0afe8cb3114f13bbd8e51de158c2a224953960331904e636a5e4c0f2a
-  languageName: node
-  linkType: hard
-
 "klona@npm:^2.0.6":
   version: 2.0.6
   resolution: "klona@npm:2.0.6"
@@ -2801,9 +2739,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nitropack@npm:^2.11.3":
-  version: 2.11.3
-  resolution: "nitropack@npm:2.11.3"
+"nitropack@npm:^2.11.4":
+  version: 2.11.4
+  resolution: "nitropack@npm:2.11.4"
   dependencies:
     "@cloudflare/kv-asset-handler": "npm:^0.3.4"
     "@netlify/functions": "npm:3.0.0"
@@ -2877,8 +2815,7 @@ __metadata:
     unstorage: "npm:^1.15.0"
     untyped: "npm:^2.0.0"
     unwasm: "npm:^0.3.9"
-    youch: "npm:4.1.0-beta.5"
-    youch-core: "npm:^0.3.1"
+    youch-redist: "npm:4.1.0-beta.5-1"
   peerDependencies:
     xml2js: ^0.6.2
   peerDependenciesMeta:
@@ -2887,7 +2824,7 @@ __metadata:
   bin:
     nitro: dist/cli/index.mjs
     nitropack: dist/cli/index.mjs
-  checksum: 10c0/b18476d709ed776ae30d3c1cb30cc3f93a4aa4f2aa15ed1a366a2134b7951ef7df9de29c6ca749b502c8fc2c2c546b4d6bf31cb8ac23882d2ad8847172c96fc0
+  checksum: 10c0/715d03ef33991e34ddf5fe68612cabe814c7f297ef4d300a058d13a4a37d074b708338c077bc0a5985f5b7ccaa5c3953d55021f72eef85ba9966458abfd5e258
   languageName: node
   linkType: hard
 
@@ -3857,13 +3794,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"supports-color@npm:^10.0.0":
-  version: 10.0.0
-  resolution: "supports-color@npm:10.0.0"
-  checksum: 10c0/0e7884dfd02a07b3c6e0b235346f58c19f0201f1e44f7807583581761b354688c8577378785b5a4e3b03110809786c4c808e0e086cd91911f7b8bc59132703a8
-  languageName: node
-  linkType: hard
-
 "supports-color@npm:^9.4.0":
   version: 9.4.0
   resolution: "supports-color@npm:9.4.0"
@@ -4265,7 +4195,7 @@ __metadata:
   dependencies:
     "@types/node": "npm:^22.13.9"
     croner: "npm:^9.0.0"
-    nitropack: "npm:^2.11.3"
+    nitropack: "npm:^2.11.4"
   languageName: unknown
   linkType: soft
 
@@ -4387,25 +4317,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"youch-core@npm:^0.3.1":
-  version: 0.3.1
-  resolution: "youch-core@npm:0.3.1"
-  dependencies:
-    "@poppinss/exception": "npm:^1.2.0"
-    error-stack-parser-es: "npm:^0.1.5"
-  checksum: 10c0/730f5e31a92e005312a5a242a60b16f8c5e0f84d9b1eee6fbec7d30d7d3270e379917325fe007b49fa3800851ab047488f78f65cd1062cd7d83049468d712b27
-  languageName: node
-  linkType: hard
-
-"youch@npm:4.1.0-beta.5":
-  version: 4.1.0-beta.5
-  resolution: "youch@npm:4.1.0-beta.5"
-  dependencies:
-    "@poppinss/dumper": "npm:^0.6.2"
-    "@speed-highlight/core": "npm:^1.2.7"
-    cookie: "npm:^1.0.2"
-    youch-core: "npm:^0.3.1"
-  checksum: 10c0/c2f9b4020779edd238e796b0c81e49fca2f9f751f558e461a674ea45ce96d059b09824836f3d02a998879b5725c374f1f2cd91a0d1732bdc4850b479b45f4ad1
+"youch-redist@npm:4.1.0-beta.5-1":
+  version: 4.1.0-beta.5-1
+  resolution: "youch-redist@npm:4.1.0-beta.5-1"
+  checksum: 10c0/c8055c756c15f19ae423ce2968b3a89291d695a94345dba03f3a8a9c08cc2932866d77407fbd6e1a968bb771fcf06a3c44ac7899948e28523d0815cbaf1e95e5
   languageName: node
   linkType: hard
 
