@@ -190,5 +190,35 @@
     "name": "vJBU",
     "callsign": "JetBlue",
     "virtual": true
-  }
+  },
+  {
+  "icao": "ABY",
+  "name": "vABY",
+  "callsign": "ARABIA",
+  "virtual": true
+},
+{
+  "icao": "ADY",
+  "name": "vABY",
+  "callsign": "NAWRAS",
+  "virtual": true
+},
+{
+  "icao": "RBG",
+  "name": "vABY",
+  "callsign": "ARABIA EGYPT",
+  "virtual": true
+},
+{
+  "icao": "MAC",
+  "name": "vABY",
+  "callsign": "ARABIA MAROC",
+  "virtual": true
+},
+{
+  "icao": "FJL",
+  "name": "vABY",
+  "callsign": "OKAAB",
+  "virtual": true
+}
 ]
