@@ -190,5 +190,17 @@
     "name": "vJBU",
     "callsign": "JetBlue",
     "virtual": true
+  },
+  {
+    "icao": "SWR",
+    "name": "vSWR",
+    "callsign": "SWISS",
+    "virtual": true
+  },
+  {
+    "icao": "AUA",
+    "name": "Austrian Virtual",
+    "callsign": "Austrian",
+    "virtual": true
   }
 ]
