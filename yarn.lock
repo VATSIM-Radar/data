@@ -335,18 +335,18 @@ __metadata:
   linkType: hard
 
 "@netlify/functions@npm:^3.0.2":
-  version: 3.0.2
-  resolution: "@netlify/functions@npm:3.0.2"
+  version: 3.0.4
+  resolution: "@netlify/functions@npm:3.0.4"
   dependencies:
-    "@netlify/serverless-functions-api": "npm:1.35.0"
-  checksum: 10c0/23c8aad62c77e01d9e7954ab0747c90787ba0f93354d92bf1353a798655fc4da0bc19c3bd39144ecb4039685ad20d532430fccb713daa605f92ce73e5ced96da
+    "@netlify/serverless-functions-api": "npm:1.36.0"
+  checksum: 10c0/6f82cec3552eed46152fef6151c1c49cd0fbcf7033166dddb3cb630f7f8b9e9ab9db485b84d4926178d2261bd141fc5d2d88dd07f2d50a31483f302e6e8bd16b
   languageName: node
   linkType: hard
 
-"@netlify/serverless-functions-api@npm:1.35.0":
-  version: 1.35.0
-  resolution: "@netlify/serverless-functions-api@npm:1.35.0"
-  checksum: 10c0/2a4121df3f8467b9999d78cf1083af345f58ea95859b10a0176ba6037a7ffe0eeba118d09fee49a0f3eb7d2021e2b56fb34bd9a038402e4dd1c84cffa3f5690d
+"@netlify/serverless-functions-api@npm:1.36.0":
+  version: 1.36.0
+  resolution: "@netlify/serverless-functions-api@npm:1.36.0"
+  checksum: 10c0/e7f55f3f91485227c598010a47c87da78fb1c12e129021a6a48f68db40a189ac7ed7b68d48b7aaa32c0241e631255a45328df1161032302702ca35d1c2361a11
   languageName: node
   linkType: hard
 
@@ -608,8 +608,8 @@ __metadata:
   linkType: hard
 
 "@redocly/openapi-core@npm:^1.28.0":
-  version: 1.33.1
-  resolution: "@redocly/openapi-core@npm:1.33.1"
+  version: 1.34.0
+  resolution: "@redocly/openapi-core@npm:1.34.0"
   dependencies:
     "@redocly/ajv": "npm:^8.11.2"
     "@redocly/config": "npm:^0.22.0"
@@ -620,7 +620,7 @@ __metadata:
     minimatch: "npm:^5.0.1"
     pluralize: "npm:^8.0.0"
     yaml-ast-parser: "npm:0.0.43"
-  checksum: 10c0/906bb8f6c299fcfd310433024d4b902f9ee296a0e9c1587a6d369990e5aff3b81154d20bd3c5c7a750ddee7d4f0ab598f0a286da367f0a287c476c02b02257a0
+  checksum: 10c0/e069c26dc64d67ddf88939fce6d6d37d366a70ea8eb58bcdf8c09db44f271148d169a0e2c7f8540bb3d947ee95ab3907441f5efb11b93fe56e5039f5b7ce902f
   languageName: node
   linkType: hard
 
@@ -975,7 +975,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"acorn@npm:^8.14.0, acorn@npm:^8.6.0, acorn@npm:^8.8.2":
+"acorn@npm:^8.14.0, acorn@npm:^8.14.1, acorn@npm:^8.6.0, acorn@npm:^8.8.2":
   version: 8.14.1
   resolution: "acorn@npm:8.14.1"
   bin:
@@ -1345,14 +1345,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"consola@npm:^3.2.3, consola@npm:^3.4.0":
-  version: 3.4.0
-  resolution: "consola@npm:3.4.0"
-  checksum: 10c0/bc7f7ad46514375109a80f3ae8330097eb1e5d89232a24eb830f3ac383e22036a62c53d33561cd73d7cda4b3691fba85e3dcf35229ef7721b324aae291ceb40c
-  languageName: node
-  linkType: hard
-
-"consola@npm:^3.4.2":
+"consola@npm:^3.2.3, consola@npm:^3.4.0, consola@npm:^3.4.2":
   version: 3.4.2
   resolution: "consola@npm:3.4.2"
   checksum: 10c0/7cebe57ecf646ba74b300bcce23bff43034ed6fbec9f7e39c27cee1dc00df8a21cd336b466ad32e304ea70fba04ec9e890c200270de9a526ce021ba8a7e4c11a
@@ -3199,9 +3192,9 @@ __metadata:
   linkType: hard
 
 "quansync@npm:^0.2.8":
-  version: 0.2.8
-  resolution: "quansync@npm:0.2.8"
-  checksum: 10c0/7dae50c11dab2f94ae841183dd79a920a085e01961f9aeb594dd4793ad7b2e6e39ae106051c91f7175c5897de98800cfd52fe6836e32670c3c220fad2ec4598d
+  version: 0.2.10
+  resolution: "quansync@npm:0.2.10"
+  checksum: 10c0/f86f1d644f812a3a7c42de79eb401c47a5a67af82a9adff8a8afb159325e03e00f77cebbf42af6340a0bd47bd0c1fbe999e7caf7e1bbb30d7acb00c8729b7530
   languageName: node
   linkType: hard
 
@@ -4040,12 +4033,12 @@ __metadata:
   linkType: hard
 
 "unplugin@npm:^2.1.0, unplugin@npm:^2.2.0":
-  version: 2.2.0
-  resolution: "unplugin@npm:2.2.0"
+  version: 2.2.1
+  resolution: "unplugin@npm:2.2.1"
   dependencies:
-    acorn: "npm:^8.14.0"
+    acorn: "npm:^8.14.1"
     webpack-virtual-modules: "npm:^0.6.2"
-  checksum: 10c0/265896fb541ffaad9da7e8f73e24aaa5d0d1f8161cb66445caf0962d2c357de0f17d208020b59b0fb1c68843e6307966f91706fba34ccaba30480881f37887ae
+  checksum: 10c0/7e4d4d34f04f1598d860bd39497d33b07f148b36cb5228c4a990b409a78f736118a721c73292630ef63fcda488ddc5942c23ce3329cc064b7c8a89554f08bcd8
   languageName: node
   linkType: hard
 
