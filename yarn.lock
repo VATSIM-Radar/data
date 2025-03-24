@@ -912,12 +912,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^22.13.12":
-  version: 22.13.12
-  resolution: "@types/node@npm:22.13.12"
+"@types/node@npm:^22.13.13":
+  version: 22.13.13
+  resolution: "@types/node@npm:22.13.13"
   dependencies:
     undici-types: "npm:~6.20.0"
-  checksum: 10c0/c360ee830faf6e5de0a77459c06f5320d166d8d981547bb0e2d921057e3b71ce44bc8c0ede25ee69c7575445d424121c158bc2a059da3c80f0275a1ca4ab4a00
+  checksum: 10c0/daf792ba5dcff1316abf4b33680f94b792f8d54d6ae495efc8929531e0ba1284a248d29aab117d2259f9280284d986ad5799b193b0516e2b926d713aab835f7d
   languageName: node
   linkType: hard
 
@@ -4181,7 +4181,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "vatsim-radar-data@workspace:."
   dependencies:
-    "@types/node": "npm:^22.13.12"
+    "@types/node": "npm:^22.13.13"
     croner: "npm:^9.0.0"
     nitropack: "npm:^2.11.7"
   languageName: unknown
