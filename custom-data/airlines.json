@@ -250,5 +250,11 @@
     "name": "Pacific Northwest Airways",
     "callsign": "Timberline",
     "virtual": true
+  },
+    {
+    "icao": "ASL",
+    "name": "Air Serbia Virtual",
+    "callsign": "AIR SERBIA",
+    "virtual": true
   }
 ]
