@@ -250,5 +250,11 @@
     "name": "Pacific Northwest Airways",
     "callsign": "Timberline",
     "virtual": true
+  },
+    {
+    "icao": "WAL",
+    "name": "Willow Airlines",
+    "callsign": "Willow",
+    "virtual": true
   }
 ]
