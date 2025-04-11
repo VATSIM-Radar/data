@@ -911,9 +911,9 @@ __metadata:
   linkType: hard
 
 "abbrev@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "abbrev@npm:3.0.0"
-  checksum: 10c0/049704186396f571650eb7b22ed3627b77a5aedf98bb83caf2eac81ca2a3e25e795394b0464cfb2d6076df3db6a5312139eac5b6a126ca296ac53c5008069c28
+  version: 3.0.1
+  resolution: "abbrev@npm:3.0.1"
+  checksum: 10c0/21ba8f574ea57a3106d6d35623f2c4a9111d9ee3e9a5be47baed46ec2457d2eac46e07a5c4a60186f88cb98abbe3e24f2d4cca70bc2b12f1692523e2209a9ccf
   languageName: node
   linkType: hard
 
@@ -1465,9 +1465,9 @@ __metadata:
   linkType: hard
 
 "dotenv@npm:^16.4.7":
-  version: 16.4.7
-  resolution: "dotenv@npm:16.4.7"
-  checksum: 10c0/be9f597e36a8daf834452daa1f4cc30e5375a5968f98f46d89b16b983c567398a330580c88395069a77473943c06b877d1ca25b4afafcdd6d4adb549e8293462
+  version: 16.5.0
+  resolution: "dotenv@npm:16.5.0"
+  checksum: 10c0/5bc94c919fbd955bf0ba44d33922a1e93d1078e64a1db5c30faeded1d996e7a83c55332cb8ea4fae5a9ca4d0be44cbceb95c5811e70f9f095298df09d1997dd9
   languageName: node
   linkType: hard
 
@@ -3706,14 +3706,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ufo@npm:^1.5.4":
-  version: 1.5.4
-  resolution: "ufo@npm:1.5.4"
-  checksum: 10c0/b5dc4dc435c49c9ef8890f1b280a19ee4d0954d1d6f9ab66ce62ce64dd04c7be476781531f952a07c678d51638d02ad4b98e16237be29149295b0f7c09cda765
-  languageName: node
-  linkType: hard
-
-"ufo@npm:^1.6.1":
+"ufo@npm:^1.5.4, ufo@npm:^1.6.1":
   version: 1.6.1
   resolution: "ufo@npm:1.6.1"
   checksum: 10c0/5a9f041e5945fba7c189d5410508cbcbefef80b253ed29aa2e1f8a2b86f4bd51af44ee18d4485e6d3468c92be9bf4a42e3a2b72dcaf27ce39ce947ec994f1e6b
@@ -3834,12 +3827,13 @@ __metadata:
   linkType: hard
 
 "unplugin@npm:^2.1.0, unplugin@npm:^2.2.2":
-  version: 2.2.2
-  resolution: "unplugin@npm:2.2.2"
+  version: 2.3.1
+  resolution: "unplugin@npm:2.3.1"
   dependencies:
     acorn: "npm:^8.14.1"
+    picomatch: "npm:^4.0.2"
     webpack-virtual-modules: "npm:^0.6.2"
-  checksum: 10c0/76ba320f0c5d18c31c6efab0bcf1f487e900193da7d9a63d50ccb87ea3c50bc9952111caee4ec5017bdcb53445dce275b994c6aeca6b92567db283ec5d9fc01b
+  checksum: 10c0/4fe79736ba9e7a25a2483f89b6136f5a7aa2c957ec003cfcb2738519f172308f89fe3f346bd8ab15e5189461f475ca910ccc2acbbbb83a0e4a93fe17d223b286
   languageName: node
   linkType: hard
 
