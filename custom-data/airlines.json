@@ -274,5 +274,11 @@
     "name": "Willow Airlines",
     "callsign": "Willow",
     "virtual": true
+  },
+  {
+    "icao": "OCI",
+    "name": "Air Oceanic",
+    "callsign": "OCEANIC",
+    "virtual": true
   }
 ]
