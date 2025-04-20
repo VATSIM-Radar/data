@@ -274,5 +274,11 @@
     "name": "Willow Airlines",
     "callsign": "Willow",
     "virtual": true
+  },
+  {
+    "icao": "DLH",
+    "name": "vDLH",
+    "callsign": "Lufthansa",
+    "virtual": true
   }
 ]
