@@ -274,5 +274,11 @@
     "name": "Willow Airlines",
     "callsign": "Willow",
     "virtual": true
+  },
+  {
+    "icao": "CAL",
+    "name": "China Airlines Virtual",
+    "callsign": "DYNASTY",
+    "virtual": true
   }
 ]
