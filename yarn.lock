@@ -591,7 +591,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@netlify/functions@npm:^3.0.4":
+"@netlify/functions@npm:^3.1.2":
   version: 3.1.2
   resolution: "@netlify/functions@npm:3.1.2"
   dependencies:
@@ -2062,7 +2062,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"db0@npm:^0.3.1":
+"db0@npm:^0.3.2":
   version: 0.3.2
   resolution: "db0@npm:0.3.2"
   peerDependencies:
@@ -2499,7 +2499,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"esbuild@npm:^0.25.2":
+"esbuild@npm:^0.25.3":
   version: 0.25.3
   resolution: "esbuild@npm:0.25.3"
   dependencies:
@@ -2733,7 +2733,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"exsolve@npm:^1.0.1, exsolve@npm:^1.0.4":
+"exsolve@npm:^1.0.1, exsolve@npm:^1.0.4, exsolve@npm:^1.0.5":
   version: 1.0.5
   resolution: "exsolve@npm:1.0.5"
   checksum: 10c0/0e845843951e8e7f190d26648259b3d584990933ea68a3c8ec984e826d4fb3731681f7f2569252b4fe619db1d67b0859abe0ef694cb2edb454343bd44bcdce59
@@ -3181,7 +3181,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"h3@npm:^1.12.0, h3@npm:^1.15.0, h3@npm:^1.15.1":
+"h3@npm:^1.12.0":
   version: 1.15.1
   resolution: "h3@npm:1.15.1"
   dependencies:
@@ -3195,6 +3195,23 @@ __metadata:
     ufo: "npm:^1.5.4"
     uncrypto: "npm:^0.1.3"
   checksum: 10c0/dce2a610acb1c2ff9fddba83f23d4fac3702e292a684a60515928cd03df15032e683e4924fa78b6c00822c70ca8a3182700ecc69a76ddc27f1aa5595f14f4474
+  languageName: node
+  linkType: hard
+
+"h3@npm:^1.15.2":
+  version: 1.15.2
+  resolution: "h3@npm:1.15.2"
+  dependencies:
+    cookie-es: "npm:^1.2.2"
+    crossws: "npm:^0.3.4"
+    defu: "npm:^6.1.4"
+    destr: "npm:^2.0.5"
+    iron-webcrypto: "npm:^1.2.1"
+    node-mock-http: "npm:^1.0.0"
+    radix3: "npm:^1.1.2"
+    ufo: "npm:^1.6.1"
+    uncrypto: "npm:^0.1.3"
+  checksum: 10c0/7e0ab6168cc869407da8122a3056e0a4576d3841dbf924cf1e4e1fcadda6064637bb13218a85a55b25f827aee3e0434e0c782b517953706d5aec2291e355d1c6
   languageName: node
   linkType: hard
 
@@ -3376,7 +3393,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ioredis@npm:^5.6.0":
+"ioredis@npm:^5.6.1":
   version: 5.6.1
   resolution: "ioredis@npm:5.6.1"
   dependencies:
@@ -4182,12 +4199,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nitropack@npm:^2.11.9":
-  version: 2.11.9
-  resolution: "nitropack@npm:2.11.9"
+"nitropack@npm:^2.11.10":
+  version: 2.11.10
+  resolution: "nitropack@npm:2.11.10"
   dependencies:
     "@cloudflare/kv-asset-handler": "npm:^0.4.0"
-    "@netlify/functions": "npm:^3.0.4"
+    "@netlify/functions": "npm:^3.1.2"
     "@rollup/plugin-alias": "npm:^5.1.1"
     "@rollup/plugin-commonjs": "npm:^28.0.3"
     "@rollup/plugin-inject": "npm:^5.0.5"
@@ -4206,20 +4223,20 @@ __metadata:
     cookie-es: "npm:^2.0.0"
     croner: "npm:^9.0.0"
     crossws: "npm:^0.3.4"
-    db0: "npm:^0.3.1"
+    db0: "npm:^0.3.2"
     defu: "npm:^6.1.4"
     destr: "npm:^2.0.5"
     dot-prop: "npm:^9.0.0"
-    esbuild: "npm:^0.25.2"
+    esbuild: "npm:^0.25.3"
     escape-string-regexp: "npm:^5.0.0"
     etag: "npm:^1.8.1"
-    exsolve: "npm:^1.0.4"
+    exsolve: "npm:^1.0.5"
     globby: "npm:^14.1.0"
     gzip-size: "npm:^7.0.0"
-    h3: "npm:^1.15.1"
+    h3: "npm:^1.15.2"
     hookable: "npm:^5.5.3"
     httpxy: "npm:^0.1.7"
-    ioredis: "npm:^5.6.0"
+    ioredis: "npm:^5.6.1"
     jiti: "npm:^2.4.2"
     klona: "npm:^2.0.6"
     knitwork: "npm:^1.2.0"
@@ -4237,7 +4254,7 @@ __metadata:
     pkg-types: "npm:^2.1.0"
     pretty-bytes: "npm:^6.1.1"
     radix3: "npm:^1.1.2"
-    rollup: "npm:^4.39.0"
+    rollup: "npm:^4.40.0"
     rollup-plugin-visualizer: "npm:^5.14.0"
     scule: "npm:^1.3.0"
     semver: "npm:^7.7.1"
@@ -4252,7 +4269,7 @@ __metadata:
     unenv: "npm:^2.0.0-rc.15"
     unimport: "npm:^5.0.0"
     unplugin-utils: "npm:^0.2.4"
-    unstorage: "npm:^1.15.0"
+    unstorage: "npm:^1.16.0"
     untyped: "npm:^2.0.0"
     unwasm: "npm:^0.3.9"
     youch: "npm:^4.1.0-beta.7"
@@ -4265,7 +4282,7 @@ __metadata:
   bin:
     nitro: dist/cli/index.mjs
     nitropack: dist/cli/index.mjs
-  checksum: 10c0/3e90e8a044466dc18f3cc59dd8c9cdb009fac10777277cee25ec9885133641b2fb7665bc6a5f371918c4e615fe47a563f8f24614ba974425d519bbdf07ee11be
+  checksum: 10c0/daf17a9183877bf0db4ce866620510d822695b2f07953374624fa46107d852ab5301719dabbcbc0079eb265e5120eb6865404e7aafb0a15c3230be4c80c71bf7
   languageName: node
   linkType: hard
 
@@ -5126,7 +5143,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:^4.39.0":
+"rollup@npm:^4.40.0":
   version: 4.40.0
   resolution: "rollup@npm:4.40.0"
   dependencies:
@@ -6018,18 +6035,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unstorage@npm:^1.15.0":
-  version: 1.15.0
-  resolution: "unstorage@npm:1.15.0"
+"unstorage@npm:^1.16.0":
+  version: 1.16.0
+  resolution: "unstorage@npm:1.16.0"
   dependencies:
     anymatch: "npm:^3.1.3"
     chokidar: "npm:^4.0.3"
-    destr: "npm:^2.0.3"
-    h3: "npm:^1.15.0"
+    destr: "npm:^2.0.5"
+    h3: "npm:^1.15.2"
     lru-cache: "npm:^10.4.3"
     node-fetch-native: "npm:^1.6.6"
     ofetch: "npm:^1.4.1"
-    ufo: "npm:^1.5.4"
+    ufo: "npm:^1.6.1"
   peerDependencies:
     "@azure/app-configuration": ^1.8.0
     "@azure/cosmos": ^4.2.0
@@ -6037,7 +6054,7 @@ __metadata:
     "@azure/identity": ^4.6.0
     "@azure/keyvault-secrets": ^4.9.0
     "@azure/storage-blob": ^12.26.0
-    "@capacitor/preferences": ^6.0.3
+    "@capacitor/preferences": ^6.0.3 || ^7.0.0
     "@deno/kv": ">=0.9.0"
     "@netlify/blobs": ^6.5.0 || ^7.0.0 || ^8.1.0
     "@planetscale/database": ^1.19.0
@@ -6086,7 +6103,7 @@ __metadata:
       optional: true
     uploadthing:
       optional: true
-  checksum: 10c0/c1946d04068bde76bf25bd4772645e932dcff16b4aecfd077b349c8b8185ee36add467e4884ceeabfd6dbfa68771d9e49c3222306a0d2c76299d33a8c7eb4bda
+  checksum: 10c0/f719a6483fd71d0a6d4f2e98ec29721c352618c4f3641f96d0c703866dc13cda071e8afda5a68bac4e7d3880c8eece0edb2057e96ce0ac4fb649998611430a09
   languageName: node
   linkType: hard
 
@@ -6185,7 +6202,7 @@ __metadata:
   dependencies:
     "@types/node": "npm:^22.15.2"
     croner: "npm:^9.0.0"
-    nitropack: "npm:^2.11.9"
+    nitropack: "npm:^2.11.10"
   languageName: unknown
   linkType: soft
 
