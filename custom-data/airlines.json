@@ -274,5 +274,11 @@
     "name": "Willow Airlines",
     "callsign": "Willow",
     "virtual": true
+  },
+  {
+    "icao": "NOB",
+    "name": "Noble Aviation",
+    "callsign": "NOBLE",
+    "virtual": true
   }
 ]
