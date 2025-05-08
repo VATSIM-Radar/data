@@ -274,5 +274,11 @@
     "name": "Willow Airlines",
     "callsign": "Willow",
     "virtual": true
+  },
+  {
+    "icao": "RCL",
+    "name": "Chair Services Virtual",
+    "Callsign": "Recliner",
+    "virtual": true
   }
 ]
