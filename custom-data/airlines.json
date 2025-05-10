@@ -274,5 +274,10 @@
     "name": "Willow Airlines",
     "callsign": "Willow",
     "virtual": true
-  }
+  },
+    "icao": "PUG",
+    "name": "PugAir"
+    "callsign": "PugAir"
+    "virtual": true
+}
 ]
