@@ -275,4 +275,10 @@
     "callsign": "Willow",
     "virtual": true
   }
+    {
+    "icao": "CET",
+    "name": "CETAN - FLY UK GROUP",
+    "callsign": "CETAN",
+    "virtual": true
+  }
 ]
