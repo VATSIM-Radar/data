@@ -274,5 +274,11 @@
     "name": "Willow Airlines",
     "callsign": "Willow",
     "virtual": true
+  },
+  {
+    "icao": "LNR",
+    "name": "Lun'Air VA",
+    "callsign": "Lun'Air",
+    "virtual": true
   }
 ]
