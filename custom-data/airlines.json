@@ -275,4 +275,10 @@
     "callsign": "Willow",
     "virtual": true
   }
+  {
+    "icao": "AAL",
+    "name": "American Virtual",
+    "callsign": "American",
+    "virtual": true
+  }
 ]
