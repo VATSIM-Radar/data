@@ -276,6 +276,12 @@
     "virtual": true
   },
   {
+    "icao": "CAL",
+    "name": "China Airlines Virtual",
+    "callsign": "DYNASTY",
+    "virtual": true
+  },
+  {
     "icao": "DLH",
     "name": "vDLH",
     "callsign": "Lufthansa",
