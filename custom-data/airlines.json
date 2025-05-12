@@ -276,6 +276,18 @@
     "virtual": true
   },
   {
+    "icao": "FXY",
+    "name": "Flexy",
+    "callsign": "FLEXY",
+    "virtual": true
+  },
+  {
+    "icao": "FXC",
+    "name": "Flexy Cargo",
+    "callsign": "FLEXCARGO",
+     "virtual": true
+  },
+  {
     "icao": "CAL",
     "name": "China Airlines Virtual",
     "callsign": "DYNASTY",
