@@ -276,6 +276,12 @@
     "virtual": true
   },
   {
+    "icao": "RCL",
+    "name": "Chair Services Virtual",
+    "callsign": "Recliner",
+    "virtual": true
+  },
+  {
     "icao": "FXY",
     "name": "Flexy",
     "callsign": "FLEXY",
