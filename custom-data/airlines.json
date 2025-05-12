@@ -280,5 +280,29 @@
     "name": "vDLH",
     "callsign": "Lufthansa",
     "virtual": true
+  },
+  {
+    "icao": "OCI",
+    "name": "Air Oceanic",
+    "callsign": "OCEANIC",
+    "virtual": true
+  },
+  {
+    "icao": "SIA",
+    "name": "Singapore Virtual",
+    "callsign": "Singapore",
+    "virtual": true
+  },
+  {
+    "icao": "TGW",
+    "name": "Singapore Virtual",
+    "callsign": "Scooter",
+    "virtual": true
+  },
+  {
+    "icao": "EVA",
+    "name": "EVA Air Virtual",
+    "callsign": "Eva",
+    "virtual": true
   }
 ]
