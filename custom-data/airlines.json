@@ -278,7 +278,55 @@
   {
     "icao": "RCL",
     "name": "Chair Services Virtual",
-    "Callsign": "Recliner",
+    "callsign": "Recliner",
+    "virtual": true
+  },
+  {
+    "icao": "FXY",
+    "name": "Flexy",
+    "callsign": "FLEXY",
+    "virtual": true
+  },
+  {
+    "icao": "FXC",
+    "name": "Flexy Cargo",
+    "callsign": "FLEXCARGO",
+     "virtual": true
+  },
+  {
+    "icao": "CAL",
+    "name": "China Airlines Virtual",
+    "callsign": "DYNASTY",
+    "virtual": true
+  },
+  {
+    "icao": "DLH",
+    "name": "vDLH",
+    "callsign": "Lufthansa",
+    "virtual": true
+  },
+  {
+    "icao": "OCI",
+    "name": "Air Oceanic",
+    "callsign": "OCEANIC",
+    "virtual": true
+  },
+  {
+    "icao": "SIA",
+    "name": "Singapore Virtual",
+    "callsign": "Singapore",
+    "virtual": true
+  },
+  {
+    "icao": "TGW",
+    "name": "Singapore Virtual",
+    "callsign": "Scooter",
+    "virtual": true
+  },
+  {
+    "icao": "EVA",
+    "name": "EVA Air Virtual",
+    "callsign": "Eva",
     "virtual": true
   }
 ]
