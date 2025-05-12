@@ -276,6 +276,12 @@
     "virtual": true
   },
   {
+    "icao": "DLH",
+    "name": "vDLH",
+    "callsign": "Lufthansa",
+    "virtual": true
+  },
+  {
     "icao": "OCI",
     "name": "Air Oceanic",
     "callsign": "OCEANIC",
