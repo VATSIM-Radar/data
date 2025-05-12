@@ -276,6 +276,12 @@
     "virtual": true
   },
   {
+    "icao": "OCI",
+    "name": "Air Oceanic",
+    "callsign": "OCEANIC",
+    "virtual": true
+  },
+  {
     "icao": "SIA",
     "name": "Singapore Virtual",
     "callsign": "Singapore",
