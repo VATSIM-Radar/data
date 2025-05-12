@@ -328,5 +328,11 @@
     "name": "EVA Air Virtual",
     "callsign": "Eva",
     "virtual": true
+  },
+  {
+    "icao": "AAL",
+    "name": "American Virtual",
+    "callsign": "American",
+    "virtual": true
   }
 ]
