@@ -244,5 +244,11 @@
     "name": "Austrian Virtual",
     "callsign": "Austrian",
     "virtual": true
+  },
+  {
+    "icao": "CET",
+    "name": "CETAN",
+    "callsign": "CETAN",
+    "virtual": true
   }
 ]
