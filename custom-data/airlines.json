@@ -244,5 +244,11 @@
     "name": "Austrian Virtual",
     "callsign": "Austrian",
     "virtual": true
+  },
+  {
+    "icao": "XSN",
+    "name": "AIR SPAIN",
+    "callsign": "AIR SPAIN",
+    "virtual": true
   }
 ]
