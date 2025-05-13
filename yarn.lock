@@ -395,19 +395,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@netlify/blobs@npm:^9.0.1":
-  version: 9.1.0
-  resolution: "@netlify/blobs@npm:9.1.0"
+"@netlify/blobs@npm:^9.1.1":
+  version: 9.1.1
+  resolution: "@netlify/blobs@npm:9.1.1"
   dependencies:
-    "@netlify/dev-utils": "npm:2.1.0"
-    "@netlify/runtime-utils": "npm:1.3.0"
-  checksum: 10c0/4154b5b60046c5f4c656aff96a25f449d4b75589d0d4163347169d8a66be23e9a522e7a1c88b1656c2eddbf7f68c6dbafce08190158343afa9747b0554ce4264
+    "@netlify/dev-utils": "npm:2.1.1"
+    "@netlify/runtime-utils": "npm:1.3.1"
+  checksum: 10c0/84add8925e1507067718184fef3f61c125af2aaca17fd468f0979cd247839e2c624560cb0e9f8f2d2b2c1838b4f4cd2193fbe8444fbc177e248c93a20a9808d6
   languageName: node
   linkType: hard
 
-"@netlify/dev-utils@npm:2.1.0":
-  version: 2.1.0
-  resolution: "@netlify/dev-utils@npm:2.1.0"
+"@netlify/dev-utils@npm:2.1.1":
+  version: 2.1.1
+  resolution: "@netlify/dev-utils@npm:2.1.1"
   dependencies:
     "@whatwg-node/server": "npm:^0.9.60"
     chokidar: "npm:^4.0.1"
@@ -416,22 +416,22 @@ __metadata:
     env-paths: "npm:^3.0.0"
     find-up: "npm:7.0.0"
     lodash.debounce: "npm:^4.0.8"
-    netlify: "npm:^13.3.4"
+    netlify: "npm:^13.3.5"
     parse-gitignore: "npm:^2.0.0"
     uuid: "npm:^11.1.0"
     write-file-atomic: "npm:^6.0.0"
-  checksum: 10c0/06689f4b8ad370804533f8c0bef4f2724c27683fd71223b76e04c66b7d7f615069ae6c466a187c548b42c4e9ba5f9b7713584a93743d37a92af2ec45265012c5
+  checksum: 10c0/f2435fd68abc946197e2e56a849d09a1624b451c0a7e86ed3b33f1d2ae57b23204193844e502b91b92a83e2027a8da40d7563623b257add2bb8dfcbe71ed5886
   languageName: node
   linkType: hard
 
-"@netlify/functions@npm:^3.1.2":
-  version: 3.1.5
-  resolution: "@netlify/functions@npm:3.1.5"
+"@netlify/functions@npm:^3.1.8":
+  version: 3.1.8
+  resolution: "@netlify/functions@npm:3.1.8"
   dependencies:
-    "@netlify/blobs": "npm:^9.0.1"
-    "@netlify/dev-utils": "npm:2.1.0"
-    "@netlify/serverless-functions-api": "npm:1.38.0"
-    "@netlify/zip-it-and-ship-it": "npm:^10.0.7"
+    "@netlify/blobs": "npm:^9.1.1"
+    "@netlify/dev-utils": "npm:2.1.1"
+    "@netlify/serverless-functions-api": "npm:1.41.1"
+    "@netlify/zip-it-and-ship-it": "npm:^10.1.1"
     cron-parser: "npm:^4.9.0"
     decache: "npm:^4.6.2"
     extract-zip: "npm:^2.0.1"
@@ -440,7 +440,7 @@ __metadata:
     lambda-local: "npm:^2.2.0"
     read-package-up: "npm:^11.0.0"
     source-map-support: "npm:^0.5.21"
-  checksum: 10c0/ae49032068035ef9b75c8cac76808b62eb9ac4a89757bbbfa6700f86fdd7b557e537dc3717a99851f92a8da81dcf3a872ae8d8fc837ec90ab8f5fde5130235d7
+  checksum: 10c0/20ecde7357a244df6691a2a21f627c628a69972db883dd205558b3ae39c29564045afc9a327eca383af4edcde786d5aa572d9f330a34850b8021b0e9019d7ffc
   languageName: node
   linkType: hard
 
@@ -451,35 +451,28 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@netlify/runtime-utils@npm:1.3.0":
-  version: 1.3.0
-  resolution: "@netlify/runtime-utils@npm:1.3.0"
-  checksum: 10c0/6a49fd6de72ca2a25538e370eca0b5914e5b1a9426a3bd0226429f5bff460da08a7a7ebe6d7b98f74eb8d9c4297774ee5dbf8f78e637f2e067e6919cd4170d2c
+"@netlify/runtime-utils@npm:1.3.1":
+  version: 1.3.1
+  resolution: "@netlify/runtime-utils@npm:1.3.1"
+  checksum: 10c0/95a9a3fb81c35d01a9f6e3466c82a7270dcdc4bbac8fda56e71454347ba8989a8aa833551c9897ed15773e63a10b9019d5f061478e83060654fcc90b01406717
   languageName: node
   linkType: hard
 
-"@netlify/serverless-functions-api@npm:1.38.0":
-  version: 1.38.0
-  resolution: "@netlify/serverless-functions-api@npm:1.38.0"
-  checksum: 10c0/ea1a376d1ec0ae363084b9727420621aa1a601346817c6018f7a82ea70f21913b110e38a80380d11e92fafd3dcf75c4da0c0a7759114d4c771d6eed2a6570ccf
+"@netlify/serverless-functions-api@npm:1.41.1, @netlify/serverless-functions-api@npm:^1.41.1":
+  version: 1.41.1
+  resolution: "@netlify/serverless-functions-api@npm:1.41.1"
+  checksum: 10c0/7a285c34015743c436491103d978ba3e920e5e1c5560ffde83d0580e59d10fbf1999a69eefa5c787f4372f87f19ab0363bd92895bae98fdf6f2e2e818a9097e1
   languageName: node
   linkType: hard
 
-"@netlify/serverless-functions-api@npm:^1.40.0":
-  version: 1.41.0
-  resolution: "@netlify/serverless-functions-api@npm:1.41.0"
-  checksum: 10c0/9c9de94e62666f32fc4015be2b125a186b3b78937a88b8bf932046709278dc73d1e1cfa5d45329b05c4a322ae88de788b264ed71f2eda076bb65b77d4cad0d67
-  languageName: node
-  linkType: hard
-
-"@netlify/zip-it-and-ship-it@npm:^10.0.7":
-  version: 10.1.0
-  resolution: "@netlify/zip-it-and-ship-it@npm:10.1.0"
+"@netlify/zip-it-and-ship-it@npm:^10.1.1":
+  version: 10.1.1
+  resolution: "@netlify/zip-it-and-ship-it@npm:10.1.1"
   dependencies:
     "@babel/parser": "npm:^7.22.5"
     "@babel/types": "npm:7.27.1"
     "@netlify/binary-info": "npm:^1.0.0"
-    "@netlify/serverless-functions-api": "npm:^1.40.0"
+    "@netlify/serverless-functions-api": "npm:^1.41.1"
     "@vercel/nft": "npm:0.27.7"
     archiver: "npm:^5.3.1"
     common-path-prefix: "npm:^3.0.0"
@@ -512,7 +505,7 @@ __metadata:
     zod: "npm:^3.23.8"
   bin:
     zip-it-and-ship-it: bin.js
-  checksum: 10c0/c0cca3a5e6c4ea52ee223ef09165fa4c817b97ad1afa5ea88f4507d064197d8f6b62a5d17ea33abd48cf87a49a6a21084d1d61e37eb1a74303ff756655e1a7b9
+  checksum: 10c0/db472f9ae1f1dc04600242eff19de11d0bbcd9e459c3e2e717989cbb88a57749a9b31bfaa25c0387a6b11e795dcc10732f6024406b0b5b1de831687468128ff8
   languageName: node
   linkType: hard
 
@@ -1961,7 +1954,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"crossws@npm:>=0.2.0 <0.4.0, crossws@npm:^0.3.4":
+"crossws@npm:>=0.2.0 <0.4.0, crossws@npm:^0.3.4, crossws@npm:^0.3.5":
   version: 0.3.5
   resolution: "crossws@npm:0.3.5"
   dependencies:
@@ -2334,7 +2327,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"esbuild@npm:0.25.4, esbuild@npm:^0.25.3":
+"esbuild@npm:0.25.4, esbuild@npm:^0.25.4":
   version: 0.25.4
   resolution: "esbuild@npm:0.25.4"
   dependencies:
@@ -4038,7 +4031,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"netlify@npm:^13.3.4":
+"netlify@npm:^13.3.5":
   version: 13.3.5
   resolution: "netlify@npm:13.3.5"
   dependencies:
@@ -4052,12 +4045,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nitropack@npm:^2.11.11":
-  version: 2.11.11
-  resolution: "nitropack@npm:2.11.11"
+"nitropack@npm:^2.11.12":
+  version: 2.11.12
+  resolution: "nitropack@npm:2.11.12"
   dependencies:
     "@cloudflare/kv-asset-handler": "npm:^0.4.0"
-    "@netlify/functions": "npm:^3.1.2"
+    "@netlify/functions": "npm:^3.1.8"
     "@rollup/plugin-alias": "npm:^5.1.1"
     "@rollup/plugin-commonjs": "npm:^28.0.3"
     "@rollup/plugin-inject": "npm:^5.0.5"
@@ -4075,12 +4068,12 @@ __metadata:
     consola: "npm:^3.4.2"
     cookie-es: "npm:^2.0.0"
     croner: "npm:^9.0.0"
-    crossws: "npm:^0.3.4"
+    crossws: "npm:^0.3.5"
     db0: "npm:^0.3.2"
     defu: "npm:^6.1.4"
     destr: "npm:^2.0.5"
     dot-prop: "npm:^9.0.0"
-    esbuild: "npm:^0.25.3"
+    esbuild: "npm:^0.25.4"
     escape-string-regexp: "npm:^5.0.0"
     etag: "npm:^1.8.1"
     exsolve: "npm:^1.0.5"
@@ -4107,10 +4100,10 @@ __metadata:
     pkg-types: "npm:^2.1.0"
     pretty-bytes: "npm:^6.1.1"
     radix3: "npm:^1.1.2"
-    rollup: "npm:^4.40.0"
+    rollup: "npm:^4.40.2"
     rollup-plugin-visualizer: "npm:^5.14.0"
     scule: "npm:^1.3.0"
-    semver: "npm:^7.7.1"
+    semver: "npm:^7.7.2"
     serve-placeholder: "npm:^2.0.2"
     serve-static: "npm:^2.2.0"
     source-map: "npm:^0.7.4"
@@ -4119,8 +4112,8 @@ __metadata:
     ultrahtml: "npm:^1.6.0"
     uncrypto: "npm:^0.1.3"
     unctx: "npm:^2.4.1"
-    unenv: "npm:^2.0.0-rc.15"
-    unimport: "npm:^5.0.0"
+    unenv: "npm:^2.0.0-rc.17"
+    unimport: "npm:^5.0.1"
     unplugin-utils: "npm:^0.2.4"
     unstorage: "npm:^1.16.0"
     untyped: "npm:^2.0.0"
@@ -4135,7 +4128,7 @@ __metadata:
   bin:
     nitro: dist/cli/index.mjs
     nitropack: dist/cli/index.mjs
-  checksum: 10c0/f899c5f0caa233105dda3fc6adb61b433bb640ac44f54e68ec660c92598cb673ae2b2aa99f6893c4fa58e169911ffaec46f3701b8bcf28e096974df4449ae2e2
+  checksum: 10c0/7ba46d599a6abcf2c535159afc01c3afbd2b019b697e280659ff59bbb28414c2939437cef21bc02719db54e2f2bb4f43cde0026cee7e4c8f44d0913c2d819a81
   languageName: node
   linkType: hard
 
@@ -5003,7 +4996,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:^4.40.0":
+"rollup@npm:^4.40.2":
   version: 4.40.2
   resolution: "rollup@npm:4.40.2"
   dependencies:
@@ -5131,12 +5124,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semver@npm:^7.3.5, semver@npm:^7.3.7, semver@npm:^7.3.8, semver@npm:^7.5.3, semver@npm:^7.7.1":
+"semver@npm:^7.3.5, semver@npm:^7.3.7, semver@npm:^7.3.8, semver@npm:^7.5.3":
   version: 7.7.1
   resolution: "semver@npm:7.7.1"
   bin:
     semver: bin/semver.js
   checksum: 10c0/fd603a6fb9c399c6054015433051bdbe7b99a940a8fb44b85c2b524c4004b023d7928d47cb22154f8d054ea7ee8597f586605e05b52047f048278e4ac56ae958
+  languageName: node
+  linkType: hard
+
+"semver@npm:^7.7.2":
+  version: 7.7.2
+  resolution: "semver@npm:7.7.2"
+  bin:
+    semver: bin/semver.js
+  checksum: 10c0/aca305edfbf2383c22571cb7714f48cadc7ac95371b4b52362fb8eeffdfbc0de0669368b82b2b15978f8848f01d7114da65697e56cd8c37b0dab8c58e543f9ea
   languageName: node
   linkType: hard
 
@@ -5801,16 +5803,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unenv@npm:^2.0.0-rc.15":
-  version: 2.0.0-rc.15
-  resolution: "unenv@npm:2.0.0-rc.15"
+"unenv@npm:^2.0.0-rc.17":
+  version: 2.0.0-rc.17
+  resolution: "unenv@npm:2.0.0-rc.17"
   dependencies:
     defu: "npm:^6.1.4"
     exsolve: "npm:^1.0.4"
     ohash: "npm:^2.0.11"
     pathe: "npm:^2.0.3"
-    ufo: "npm:^1.5.4"
-  checksum: 10c0/502ebfe01b8131e722173b4cf033dbabae3e76fbe0dee093dc53d40a43028e07c59f2cb1eb96c1ed82fe04b9eb75553a8e33d243f5ef8828bde71e6a818e1a8a
+    ufo: "npm:^1.6.1"
+  checksum: 10c0/029ae051cf2f79d3946976b32010a6aaaa87c8783a01dc088046247e34cb40962e19d96b465df5728e6ed262da89df342c1db1d05c2c28851825a74b93b90039
   languageName: node
   linkType: hard
 
@@ -5828,7 +5830,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unimport@npm:^5.0.0":
+"unimport@npm:^5.0.1":
   version: 5.0.1
   resolution: "unimport@npm:5.0.1"
   dependencies:
@@ -6075,7 +6077,7 @@ __metadata:
   dependencies:
     "@types/node": "npm:^22.15.17"
     croner: "npm:^9.0.0"
-    nitropack: "npm:^2.11.11"
+    nitropack: "npm:^2.11.12"
   languageName: unknown
   linkType: soft
 
