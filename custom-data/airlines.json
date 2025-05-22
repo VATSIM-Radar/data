@@ -334,5 +334,11 @@
     "name": "American Virtual",
     "callsign": "American",
     "virtual": true
+  },
+  {
+    "icao": "HEC",
+    "name": "Hermann Cargo",
+    "callsign": "Hermann Cargo",
+    "virtual": true
   }
 ]
