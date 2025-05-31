@@ -246,6 +246,42 @@
     "virtual": true
   },
   {
+    "icao": "XSN",
+    "name": "AIR SPAIN",
+    "callsign": "AIR SPAIN",
+    "virtual": true
+  },
+  {
+    "icao": "CET",
+    "name": "CETAN",
+    "callsign": "CETAN",
+    "virtual": true
+  },
+  {
+    "icao": "MXB",
+    "name": "MOCKINGBIRD",
+    "callsign": "MOCKINGBIRD",
+    "virtual": true
+  },
+  {
+    "icao": "HXB",
+    "name": "KOLIBRI",
+    "callsign": "KOLIBRI",
+    "virtual": true
+  },
+  {
+    "icao": "MBC",
+    "name": "CARGOBIRD",
+    "callsign": "CARGOBIRD",
+    "virtual": true
+  },
+  {
+    "icao": "SKS",
+    "name": "SkySuisse",
+    "callsign": "SkySuisse",
+    "virtual": true
+  },
+  {
     "icao": "PNW",
     "name": "Pacific Northwest Airways",
     "callsign": "Timberline",
@@ -345,6 +381,12 @@
     "icao": "GEC",
     "name": "vDLH",
     "callsign": "Lufthansa Cargo",
+     "virtual": true
+  },
+  {
+    "icao": "HEC",
+    "name": "Hermann Cargo",
+    "callsign": "Hermann Cargo",
     "virtual": true
   }
 ]
