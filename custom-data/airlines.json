@@ -246,6 +246,24 @@
     "virtual": true
   },
   {
+    "icao": "MXB",
+    "name": "MOCKINGBIRD",
+    "callsign": "MOCKINGBIRD",
+    "virtual": true
+  },
+  {
+    "icao": "HXB",
+    "name": "KOLIBRI",
+    "callsign": "KOLIBRI",
+    "virtual": true
+  },
+  {
+    "icao": "MBC",
+    "name": "CARGOBIRD",
+    "callsign": "CARGOBIRD",
+    "virtual": true
+  },
+  {
     "icao": "SKS",
     "name": "SkySuisse",
     "callsign": "SkySuisse",
