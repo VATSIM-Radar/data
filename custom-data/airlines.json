@@ -250,5 +250,125 @@
     "name": "AIR SPAIN",
     "callsign": "AIR SPAIN",
     "virtual": true
+  },
+  {
+    "icao": "CET",
+    "name": "CETAN",
+    "callsign": "CETAN",
+    "virtual": true
+  },
+  {
+    "icao": "MXB",
+    "name": "MOCKINGBIRD",
+    "callsign": "MOCKINGBIRD",
+    "virtual": true
+  },
+  {
+    "icao": "HXB",
+    "name": "KOLIBRI",
+    "callsign": "KOLIBRI",
+    "virtual": true
+  },
+  {
+    "icao": "MBC",
+    "name": "CARGOBIRD",
+    "callsign": "CARGOBIRD",
+    "virtual": true
+  },
+  {
+    "icao": "SKS",
+    "name": "SkySuisse",
+    "callsign": "SkySuisse",
+    "virtual": true
+  },
+  {
+    "icao": "PNW",
+    "name": "Pacific Northwest Airways",
+    "callsign": "Timberline",
+    "virtual": true
+  },
+  {
+    "icao": "IGO",
+    "name": "Indigo Virtual",
+    "callsign": "IFLY",
+ "virtual": true
+  },
+  {
+    "icao": "BEL",
+    "name": "vBrussels",
+    "callsign": "BEELINE",
+    "virtual": true
+  },
+    {
+    "icao": "ASL",
+    "name": "Air Serbia Virtual",
+    "callsign": "AIR SERBIA",
+      "virtual": true
+    },
+  {
+    "icao": "WAL",
+    "name": "Willow Airlines",
+    "callsign": "Willow",
+    "virtual": true
+  },
+  {
+    "icao": "RCL",
+    "name": "Chair Services Virtual",
+    "callsign": "Recliner",
+    "virtual": true
+  },
+  {
+    "icao": "FXY",
+    "name": "Flexy",
+    "callsign": "FLEXY",
+    "virtual": true
+  },
+  {
+    "icao": "FXC",
+    "name": "Flexy Cargo",
+    "callsign": "FLEXCARGO",
+     "virtual": true
+  },
+  {
+    "icao": "CAL",
+    "name": "China Airlines Virtual",
+    "callsign": "DYNASTY",
+    "virtual": true
+  },
+  {
+    "icao": "DLH",
+    "name": "vDLH",
+    "callsign": "Lufthansa",
+    "virtual": true
+  },
+  {
+    "icao": "OCI",
+    "name": "Air Oceanic",
+    "callsign": "OCEANIC",
+    "virtual": true
+  },
+  {
+    "icao": "SIA",
+    "name": "Singapore Virtual",
+    "callsign": "Singapore",
+    "virtual": true
+  },
+  {
+    "icao": "TGW",
+    "name": "Singapore Virtual",
+    "callsign": "Scooter",
+    "virtual": true
+  },
+  {
+    "icao": "EVA",
+    "name": "EVA Air Virtual",
+    "callsign": "Eva",
+    "virtual": true
+  },
+  {
+    "icao": "AAL",
+    "name": "American Virtual",
+    "callsign": "American",
+    "virtual": true
   }
 ]
