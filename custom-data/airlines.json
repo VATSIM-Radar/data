@@ -372,6 +372,18 @@
     "virtual": true
   },
   {
+    "icao": "BOX",
+    "name": "vDLH",
+    "callsign": "German Cargo",
+    "virtual": true
+  },
+  {
+    "icao": "GEC",
+    "name": "vDLH",
+    "callsign": "Lufthansa Cargo",
+     "virtual": true
+  },
+  {
     "icao": "HEC",
     "name": "Hermann Cargo",
     "callsign": "Hermann Cargo",
