@@ -246,6 +246,12 @@
     "virtual": true
   },
   {
+    "icao": "CET",
+    "name": "CETAN",
+    "callsign": "CETAN",
+    "virtual": true
+  },
+  {
     "icao": "MXB",
     "name": "MOCKINGBIRD",
     "callsign": "MOCKINGBIRD",
