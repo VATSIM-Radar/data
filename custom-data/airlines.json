@@ -246,6 +246,12 @@
     "virtual": true
   },
   {
+    "icao": "XSN",
+    "name": "AIR SPAIN",
+    "callsign": "AIR SPAIN",
+    "virtual": true
+  },
+  {
     "icao": "CET",
     "name": "CETAN",
     "callsign": "CETAN",
