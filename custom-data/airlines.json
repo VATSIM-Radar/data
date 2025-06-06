@@ -392,7 +392,7 @@
   {
     "icao": "IBE",
     "name": "vIBE",
-    "callsign": "Iberia Virtual",
+    "callsign": "Iberia",
     "virtual": true
   }
 ]
