@@ -1837,6 +1837,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"croner@npm:^9.1.0":
+  version: 9.1.0
+  resolution: "croner@npm:9.1.0"
+  checksum: 10c0/7debd8d171e84b2519a2adfe6a4ed6f761890da3d15239511de87f16f46ae040b1a5d89a40ad58bb89f0e4546d3a9bf093a5a65ce0484a89451d97de139ad64a
+  languageName: node
+  linkType: hard
+
 "cross-spawn@npm:^7.0.3, cross-spawn@npm:^7.0.6":
   version: 7.0.6
   resolution: "cross-spawn@npm:7.0.6"
@@ -5618,7 +5625,7 @@ __metadata:
   resolution: "vatsim-radar-data@workspace:."
   dependencies:
     "@types/node": "npm:^24.0.3"
-    croner: "npm:^9.0.0"
+    croner: "npm:^9.1.0"
     nitropack: "npm:^2.11.12"
   languageName: unknown
   linkType: soft
