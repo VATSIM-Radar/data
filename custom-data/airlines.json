@@ -389,9 +389,9 @@
     "callsign": "Hermann Cargo",
     "virtual": true
   },
-    {
+  {
     "icao": "FRS",
-    "name": "Friesenflieger",
+    "name": "FriesenFlieger",
     "callsign": "Friese",
     "virtual": true
   }
