@@ -388,5 +388,77 @@
     "name": "Hermann Cargo",
     "callsign": "Hermann Cargo",
     "virtual": true
-  }
+  }，
+  {
+    "icao": "ANA",
+    "name": "All Nippon Airways",
+    "callsign": "ALL NIPPON",
+    "virtual": true
+  }，
+  {
+    "icao": "APJ",
+    "name": "Peach Aviation",
+    "callsign": "AIR PEACH",
+    "virtual": true
+  }，
+  {
+    "icao": "AJX",
+    "name": "Air Japan",
+    "callsign": "AIR JAPAN",
+    "virtual": true
+  }，
+  {
+    "icao": "SFJ",
+    "name": "Starflyer",
+    "callsign": "STARFLYER",
+    "virtual": true
+  }，
+  {
+    "icao": "SNJ",
+    "name": "Solaseed Air",
+    "callsign": "NEWSKY",
+    "virtual": true
+  }，
+  {
+    "icao": "IBX",
+    "name": "Ibex Airlines",
+    "callsign": "IBEX",
+    "virtual": true
+  }，
+  {
+    "icao": "ADO",
+    "name": "Air Do",
+    "callsign": "AIR DO",
+    "virtual": true
+  }，
+  {
+    "icao": "FDA",
+    "name": "Fuji Dream Airlines",
+    "callsign": "FUJI DREAM",
+    "virtual": true
+  }，
+  {
+    "icao": "SKY",
+    "name": "Skymark",
+    "callsign": "SKYMARK",
+    "virtual": true
+  }，
+  {
+    "icao": "ORC",
+    "name": "Oriental Bridge Air",
+    "callsign": "ORIENTAL BRIDGE",
+    "virtual": true
+  }，
+  {
+    "icao": "ORC",
+    "name": "Oriental Air Bridge",
+    "callsign": "ORIENTAL BRIDGE",
+    "virtual": true
+  }，
+  {
+    "icao": "HVN",
+    "name": "Vietnam Airlines",
+    "callsign": "VIETNAM",
+    "virtual": true
+  }，
 ]
