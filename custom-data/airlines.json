@@ -390,6 +390,12 @@
      "virtual": true
   },
   {
+    "icao": "RYR",
+    "name": "vRYR",
+    "callsign": "RYANAIR",
+     "virtual": true
+  },
+  {
     "icao": "HEC",
     "name": "Hermann Cargo",
     "callsign": "Hermann Cargo",
