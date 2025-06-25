@@ -1,6 +1,5 @@
 name: Airline Change
 description: Request an airline data change
-labels: ["airline", "pending triage"]
 assignees: ["daniluk4000"]
 body:
   - type: markdown
