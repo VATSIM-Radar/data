@@ -405,7 +405,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@netlify/functions@npm:^3.1.8":
+"@netlify/functions@npm:^3.1.10":
   version: 3.1.10
   resolution: "@netlify/functions@npm:3.1.10"
   dependencies:
@@ -746,7 +746,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rollup/plugin-commonjs@npm:^28.0.3":
+"@rollup/plugin-commonjs@npm:^28.0.6":
   version: 28.0.6
   resolution: "@rollup/plugin-commonjs@npm:28.0.6"
   dependencies:
@@ -1136,7 +1136,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vercel/nft@npm:0.29.4, @vercel/nft@npm:^0.29.2":
+"@vercel/nft@npm:0.29.4, @vercel/nft@npm:^0.29.4":
   version: 0.29.4
   resolution: "@vercel/nft@npm:0.29.4"
   dependencies:
@@ -1493,7 +1493,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"c12@npm:^3.0.3":
+"c12@npm:^3.0.4":
   version: 3.0.4
   resolution: "c12@npm:3.0.4"
   dependencies:
@@ -1823,7 +1823,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"croner@npm:^9.0.0, croner@npm:^9.1.0":
+"croner@npm:^9.1.0":
   version: 9.1.0
   resolution: "croner@npm:9.1.0"
   checksum: 10c0/7debd8d171e84b2519a2adfe6a4ed6f761890da3d15239511de87f16f46ae040b1a5d89a40ad58bb89f0e4546d3a9bf093a5a65ce0484a89451d97de139ad64a
@@ -2224,7 +2224,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"esbuild@npm:0.25.5, esbuild@npm:^0.25.4":
+"esbuild@npm:0.25.5, esbuild@npm:^0.25.5":
   version: 0.25.5
   resolution: "esbuild@npm:0.25.5"
   dependencies:
@@ -2441,10 +2441,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"exsolve@npm:^1.0.1, exsolve@npm:^1.0.4, exsolve@npm:^1.0.5":
+"exsolve@npm:^1.0.1, exsolve@npm:^1.0.5":
   version: 1.0.6
   resolution: "exsolve@npm:1.0.6"
   checksum: 10c0/b18d99dbfc1c0aa15b1709361126714acb153862d43dcf5cab77d82b6ffabcd63a657b0ef7064bb87ccdf7d847cc08f787d91e040bf18296a23665f0a9e548fd
+  languageName: node
+  linkType: hard
+
+"exsolve@npm:^1.0.7":
+  version: 1.0.7
+  resolution: "exsolve@npm:1.0.7"
+  checksum: 10c0/4479369d0bd84bb7e0b4f5d9bc18d26a89b6dbbbccd73f9d383d14892ef78ddbe159e01781055342f83dc00ebe90044036daf17ddf55cc21e2cac6609aa15631
   languageName: node
   linkType: hard
 
@@ -3707,38 +3714,38 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nitropack@npm:^2.11.12":
-  version: 2.11.12
-  resolution: "nitropack@npm:2.11.12"
+"nitropack@npm:^2.11.13":
+  version: 2.11.13
+  resolution: "nitropack@npm:2.11.13"
   dependencies:
     "@cloudflare/kv-asset-handler": "npm:^0.4.0"
-    "@netlify/functions": "npm:^3.1.8"
+    "@netlify/functions": "npm:^3.1.10"
     "@rollup/plugin-alias": "npm:^5.1.1"
-    "@rollup/plugin-commonjs": "npm:^28.0.3"
+    "@rollup/plugin-commonjs": "npm:^28.0.6"
     "@rollup/plugin-inject": "npm:^5.0.5"
     "@rollup/plugin-json": "npm:^6.1.0"
     "@rollup/plugin-node-resolve": "npm:^16.0.1"
     "@rollup/plugin-replace": "npm:^6.0.2"
     "@rollup/plugin-terser": "npm:^0.4.4"
-    "@vercel/nft": "npm:^0.29.2"
+    "@vercel/nft": "npm:^0.29.4"
     archiver: "npm:^7.0.1"
-    c12: "npm:^3.0.3"
+    c12: "npm:^3.0.4"
     chokidar: "npm:^4.0.3"
     citty: "npm:^0.1.6"
     compatx: "npm:^0.2.0"
     confbox: "npm:^0.2.2"
     consola: "npm:^3.4.2"
     cookie-es: "npm:^2.0.0"
-    croner: "npm:^9.0.0"
+    croner: "npm:^9.1.0"
     crossws: "npm:^0.3.5"
     db0: "npm:^0.3.2"
     defu: "npm:^6.1.4"
     destr: "npm:^2.0.5"
     dot-prop: "npm:^9.0.0"
-    esbuild: "npm:^0.25.4"
+    esbuild: "npm:^0.25.5"
     escape-string-regexp: "npm:^5.0.0"
     etag: "npm:^1.8.1"
-    exsolve: "npm:^1.0.5"
+    exsolve: "npm:^1.0.7"
     globby: "npm:^14.1.0"
     gzip-size: "npm:^7.0.0"
     h3: "npm:^1.15.3"
@@ -3754,7 +3761,7 @@ __metadata:
     mime: "npm:^4.0.7"
     mlly: "npm:^1.7.4"
     node-fetch-native: "npm:^1.6.6"
-    node-mock-http: "npm:^1.0.0"
+    node-mock-http: "npm:^1.0.1"
     ofetch: "npm:^1.4.1"
     ohash: "npm:^2.0.11"
     pathe: "npm:^2.0.3"
@@ -3762,8 +3769,8 @@ __metadata:
     pkg-types: "npm:^2.1.0"
     pretty-bytes: "npm:^6.1.1"
     radix3: "npm:^1.1.2"
-    rollup: "npm:^4.40.2"
-    rollup-plugin-visualizer: "npm:^5.14.0"
+    rollup: "npm:^4.44.0"
+    rollup-plugin-visualizer: "npm:^6.0.3"
     scule: "npm:^1.3.0"
     semver: "npm:^7.7.2"
     serve-placeholder: "npm:^2.0.2"
@@ -3774,13 +3781,13 @@ __metadata:
     ultrahtml: "npm:^1.6.0"
     uncrypto: "npm:^0.1.3"
     unctx: "npm:^2.4.1"
-    unenv: "npm:^2.0.0-rc.17"
+    unenv: "npm:^2.0.0-rc.18"
     unimport: "npm:^5.0.1"
     unplugin-utils: "npm:^0.2.4"
     unstorage: "npm:^1.16.0"
     untyped: "npm:^2.0.0"
     unwasm: "npm:^0.3.9"
-    youch: "npm:^4.1.0-beta.7"
+    youch: "npm:4.1.0-beta.8"
     youch-core: "npm:^0.3.2"
   peerDependencies:
     xml2js: ^0.6.2
@@ -3790,7 +3797,7 @@ __metadata:
   bin:
     nitro: dist/cli/index.mjs
     nitropack: dist/cli/index.mjs
-  checksum: 10c0/7ba46d599a6abcf2c535159afc01c3afbd2b019b697e280659ff59bbb28414c2939437cef21bc02719db54e2f2bb4f43cde0026cee7e4c8f44d0913c2d819a81
+  checksum: 10c0/51ba568b4faf3884c0d3026ee9dd9333298630c6933f52d7e7e399e625a234179a3248a1748992ccf3f5b0f106f3fe9ce9d3e5b1b5c7186ea9609a786d9e5f5f
   languageName: node
   linkType: hard
 
@@ -3884,6 +3891,13 @@ __metadata:
   version: 1.0.0
   resolution: "node-mock-http@npm:1.0.0"
   checksum: 10c0/cb3fd7c17e7043b87a8d7a9ef1dcd4e2cde312cd224716c5fb3a4b56b48607c257a2e7356e73262db60ebf9e17e23b7a9c5230785f630c6a437090bfd26dd242
+  languageName: node
+  linkType: hard
+
+"node-mock-http@npm:^1.0.1":
+  version: 1.0.1
+  resolution: "node-mock-http@npm:1.0.1"
+  checksum: 10c0/16f2a4cc295177dd6a44ec74d3e2b02f820531d2b0c54d816600bfcad96029be1efe706be79fe112dc70b7fc6cad0b245e5a7601a63111d43835574a00a15d48
   languageName: node
   linkType: hard
 
@@ -4019,7 +4033,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"open@npm:^8.4.0":
+"open@npm:^8.0.0":
   version: 8.4.2
   resolution: "open@npm:8.4.2"
   dependencies:
@@ -4577,16 +4591,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup-plugin-visualizer@npm:^5.14.0":
-  version: 5.14.0
-  resolution: "rollup-plugin-visualizer@npm:5.14.0"
+"rollup-plugin-visualizer@npm:^6.0.3":
+  version: 6.0.3
+  resolution: "rollup-plugin-visualizer@npm:6.0.3"
   dependencies:
-    open: "npm:^8.4.0"
+    open: "npm:^8.0.0"
     picomatch: "npm:^4.0.2"
     source-map: "npm:^0.7.4"
     yargs: "npm:^17.5.1"
   peerDependencies:
-    rolldown: 1.x
+    rolldown: 1.x || ^1.0.0-beta
     rollup: 2.x || 3.x || 4.x
   peerDependenciesMeta:
     rolldown:
@@ -4595,11 +4609,11 @@ __metadata:
       optional: true
   bin:
     rollup-plugin-visualizer: dist/bin/cli.js
-  checksum: 10c0/ec6ca9ed125bce9994ba49a340bda730661d8e8dc5c5dc014dc757185182e1eda49c6708f990cb059095e71a3741a5248f1e6ba0ced7056020692888e06b1ddf
+  checksum: 10c0/595d68936a6338744e8facd165fceedf7f2ebedc44863e640e725198001ed62948cc4a5d8403aa74e679de92957e4def3b1dffc4a9f8de71e4245929566553a3
   languageName: node
   linkType: hard
 
-"rollup@npm:^4.40.2":
+"rollup@npm:^4.44.0":
   version: 4.44.0
   resolution: "rollup@npm:4.44.0"
   dependencies:
@@ -5338,16 +5352,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unenv@npm:^2.0.0-rc.17":
-  version: 2.0.0-rc.17
-  resolution: "unenv@npm:2.0.0-rc.17"
+"unenv@npm:^2.0.0-rc.18":
+  version: 2.0.0-rc.18
+  resolution: "unenv@npm:2.0.0-rc.18"
   dependencies:
     defu: "npm:^6.1.4"
-    exsolve: "npm:^1.0.4"
+    exsolve: "npm:^1.0.7"
     ohash: "npm:^2.0.11"
     pathe: "npm:^2.0.3"
     ufo: "npm:^1.6.1"
-  checksum: 10c0/029ae051cf2f79d3946976b32010a6aaaa87c8783a01dc088046247e34cb40962e19d96b465df5728e6ed262da89df342c1db1d05c2c28851825a74b93b90039
+  checksum: 10c0/5fc44b61b0b25562927be4189dc8b896624d574ad3ff9dc187474bc035325f79a67644aa05b634bbb0ba69b0656744ee6ac67c753eca1c13b974e9eac154dd2e
   languageName: node
   linkType: hard
 
@@ -5612,7 +5626,7 @@ __metadata:
   dependencies:
     "@types/node": "npm:^24.0.4"
     croner: "npm:^9.1.0"
-    nitropack: "npm:^2.11.12"
+    nitropack: "npm:^2.11.13"
   languageName: unknown
   linkType: soft
 
@@ -5808,7 +5822,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"youch@npm:^4.1.0-beta.7":
+"youch@npm:4.1.0-beta.8":
   version: 4.1.0-beta.8
   resolution: "youch@npm:4.1.0-beta.8"
   dependencies:
