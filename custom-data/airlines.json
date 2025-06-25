@@ -395,6 +395,12 @@
     "callsign": "Hermann Cargo",
     "virtual": true
   },
+    {
+    "icao": "CZN",
+    "name": "Cruizing Air",
+    "callsign": "Cruizing",
+      "virtual": true
+    },
   {
     "icao": "IBE",
     "name": "vIBE",
