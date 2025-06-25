@@ -1,5 +1,11 @@
 [
   {
+    "icao": "PHP",
+    "name": "Phantom Airways",
+    "callsign": "Phantom Air",
+    "virtual": true
+  },
+  {
     "icao": "SBI",
     "name": "S7 AIRLINES",
     "callsign": "SIBERIAN AIRLINES",
