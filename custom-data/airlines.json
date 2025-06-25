@@ -1,5 +1,11 @@
 [
   {
+    "icao": "PHP",
+    "name": "Phantom Airways",
+    "callsign": "Phantom Air",
+    "virtual": true
+  },
+  {
     "icao": "SBI",
     "name": "S7 AIRLINES",
     "callsign": "SIBERIAN AIRLINES",
@@ -393,6 +399,18 @@
     "icao": "HEC",
     "name": "Hermann Cargo",
     "callsign": "Hermann Cargo",
+    "virtual": true
+  },
+    {
+    "icao": "CZN",
+    "name": "Cruizing Air",
+    "callsign": "Cruizing",
+      "virtual": true
+    },
+  {
+    "icao": "IBE",
+    "name": "vIBE",
+    "callsign": "Iberia",
     "virtual": true
   }
 ]
