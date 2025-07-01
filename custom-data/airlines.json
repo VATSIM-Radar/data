@@ -418,5 +418,71 @@
     "name": "Aeroflot",
     "callsign": "AEROFLOT",
     "virtual": true
+  },
+  {
+    "icao": "WZZ",
+    "name": "WIZZva",
+    "callsign": "WIZZAIR",
+    "virtual": true
+  },
+  {
+    "icao": "WZZ",
+    "name": "WIZZva",
+    "callsign": "WIZZAIR",
+    "virtual": true
+  },
+  {
+    "icao": "WUK",
+    "name": "WIZZva",
+    "callsign": "WIZZ GO",
+    "virtual": true
+  },
+  {
+    "icao": "WAZ",
+    "name": "WIZZva",
+    "callsign": "WIZZ SKY",
+    "virtual": true
+  },
+  {
+    "icao": "WMT",
+    "name": "WIZZva",
+    "callsign": "WIZZ MALTA",
+    "virtual": true
+  },
+  {
+    "icao": "LOT",
+    "name": "LOTva",
+    "callsign": "LOT",
+    "virtual": true
+  },
+  {
+    "icao": "ENT",
+    "name": "vENT",
+    "callsign": "ENTER AIR",
+    "virtual": true
+  },
+  {
+    "icao": "IGA",
+    "name": "vIGA",
+    "callsign": "IGUANA",
+    "virtual": true
+  },
+  {
+    "icao": "JDI",
+    "name": "JetStory Virtual",
+    "callsign": "JEDI",
+    "virtual": true
+  },
+  {
+    "icao": "SRN",
+    "name": "Sprintair Virtual",
+    "callsign": "SPRINTAIR",
+    "virtual": true
+  },
+  {
+    "icao": "SAR",
+    "name": "Sprintair Virtual",
+    "callsign": "SPRINTAIR CARGO",
+    "virtual": true
   }
 ]
