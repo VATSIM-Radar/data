@@ -418,5 +418,17 @@
     "name": "Aeroflot",
     "callsign": "AEROFLOT",
     "virtual": true
+  },
+  {
+    "icao": "ACL"
+    "name": "Air California"
+    "callsign": "AirCal"
+    "virtual": true
+  },
+  {
+    "icao": "PSA"
+    "name": "Pacific Southwest Airlines"
+    "callsign" "PSA"
+    "virtual": true
   }
 ]
