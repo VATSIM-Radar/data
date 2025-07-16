@@ -3970,9 +3970,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nitropack@npm:^2.12.0":
-  version: 2.12.0
-  resolution: "nitropack@npm:2.12.0"
+"nitropack@npm:^2.12.1":
+  version: 2.12.1
+  resolution: "nitropack@npm:2.12.1"
   dependencies:
     "@cloudflare/kv-asset-handler": "npm:^0.4.0"
     "@netlify/functions": "npm:^3.1.10"
@@ -4053,7 +4053,7 @@ __metadata:
   bin:
     nitro: dist/cli/index.mjs
     nitropack: dist/cli/index.mjs
-  checksum: 10c0/0cdcd6852ac3de5e681c4549a84089d097066ef1559b0da7360383c8b0244cd7481e3aae2fda9bb57032cbd4c4166652289d524eb203fe8c088c819c5fb6a616
+  checksum: 10c0/53c32a497c14e869cc00754f0caa1e6b49ebfc02f7a762c07ef07c6764d3592d15e716128c3defdfbefc538dd9acfe04a33674fd72f4c801578c42f5fa77a973
   languageName: node
   linkType: hard
 
@@ -5875,7 +5875,7 @@ __metadata:
   dependencies:
     "@types/node": "npm:^24.0.14"
     croner: "npm:^9.1.0"
-    nitropack: "npm:^2.12.0"
+    nitropack: "npm:^2.12.1"
   languageName: unknown
   linkType: soft
 
