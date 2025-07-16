@@ -419,4 +419,10 @@
     "callsign": "AEROFLOT",
     "virtual": true
   }
+  {
+    "icao": "PBD",
+    "name": "POBEDA",
+    "callsign": "POBEDA",
+    "virtual": true
+  }
 ]
