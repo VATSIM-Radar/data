@@ -418,5 +418,11 @@
     "name": "Aeroflot",
     "callsign": "AEROFLOT",
     "virtual": true
+  },
+  {
+    "icao": "QTR",
+    "name": "Virtual Qatar",
+    "callsign": "Qatari",
+    "virtual": true
   }
 ]
