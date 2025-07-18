@@ -412,5 +412,11 @@
     "name": "vIBE",
     "callsign": "Iberia",
     "virtual": true
+  },
+  {
+    "icao": "AFL",
+    "name": "Aeroflot",
+    "callsign": "AEROFLOT",
+    "virtual": true
   }
 ]
