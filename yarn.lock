@@ -1212,12 +1212,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^24.0.14":
-  version: 24.0.14
-  resolution: "@types/node@npm:24.0.14"
+"@types/node@npm:^24.0.15":
+  version: 24.0.15
+  resolution: "@types/node@npm:24.0.15"
   dependencies:
     undici-types: "npm:~7.8.0"
-  checksum: 10c0/536b5a816554ad1522e9e0c1d517b317f8478798bd76a332d83690aa42b19b5b263eb295ee25f9d0badb430ee6e36412ee9070cb5e3359f6bdcf7e08f94302f1
+  checksum: 10c0/39ead0c0ff25dde29357630b5eaa7dd73cf3af796dbd0f01ed439a8af01cbddfa6b68aa9d67fb3243962836170a4463ff856c47fa822250c585987f707eb42b3
   languageName: node
   linkType: hard
 
@@ -3970,9 +3970,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nitropack@npm:^2.12.1":
-  version: 2.12.1
-  resolution: "nitropack@npm:2.12.1"
+"nitropack@npm:^2.12.3":
+  version: 2.12.3
+  resolution: "nitropack@npm:2.12.3"
   dependencies:
     "@cloudflare/kv-asset-handler": "npm:^0.4.0"
     "@netlify/functions": "npm:^3.1.10"
@@ -4053,7 +4053,7 @@ __metadata:
   bin:
     nitro: dist/cli/index.mjs
     nitropack: dist/cli/index.mjs
-  checksum: 10c0/53c32a497c14e869cc00754f0caa1e6b49ebfc02f7a762c07ef07c6764d3592d15e716128c3defdfbefc538dd9acfe04a33674fd72f4c801578c42f5fa77a973
+  checksum: 10c0/336508e6805577d9f2f3f18deff579e5fbb0d1973b1a5cd4740e649232b75119248f02e5ff823f674d7b238184cd6b2858ee0bef92fc51ae247a4da3217f7014
   languageName: node
   linkType: hard
 
@@ -5873,9 +5873,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "vatsim-radar-data@workspace:."
   dependencies:
-    "@types/node": "npm:^24.0.14"
+    "@types/node": "npm:^24.0.15"
     croner: "npm:^9.1.0"
-    nitropack: "npm:^2.12.1"
+    nitropack: "npm:^2.12.3"
   languageName: unknown
   linkType: soft
 

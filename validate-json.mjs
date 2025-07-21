@@ -1,4 +1,23 @@
 import {readFileSync} from "node:fs";
 import {join} from "path";
 
-JSON.parse(readFileSync(join(import.meta.dirname, 'custom-data', 'airlines.json'), 'utf-8'));
+const json = JSON.parse(readFileSync(join(import.meta.dirname, 'custom-data', 'airlines.json'), 'utf-8'));
+
+const airlines = (await (await fetch(`https://gng.aero-nav.com/AERONAV/icao_fhairlines?action=get&oper=grid&_search=false&nd=${Date.now()}&rows=10000&page=1&sidx=icao&sord=asc`, {
+    responseType: 'json'
+})).json()).rows
+
+const allowed = [
+    'WTB',
+    'MXB',
+    'HXB',
+    'MBC',
+    'SKS',
+    'HEC'
+]
+
+for(let i = 0; i < json.length; i++){
+    const airline = json[i]
+    if (airlines.some(x => x.icao === airline.icao) && (!allowed.includes(airline.icao) || json.some((x, index) => x.icao === airline.icao && index !== i))) throw new Error(`${airline.icao} virtual airline already exists`)
+    airlines.push(airline)
+}
