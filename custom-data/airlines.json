@@ -421,42 +421,42 @@
   },
   {
     "icao": "DLH",
-    "name": "LH-Virtual.com",
+    "name": "LH-Virtual",
     "callsign": "LUFTHANSA",
     "virtual": true
   },
   {
     "icao": "OCN",
-    "name": "LH-Virtual.com",
+    "name": "LH-Virtual",
     "callsign": "OCEAN",
     "virtual": true
   },
   {
     "icao": "LHX",
-    "name": "LH-Virtual.com",
+    "name": "LH-Virtual",
     "callsign": "CITYAIR",
     "virtual": true
   },
   {
     "icao": "GEC",
-    "name": "LH-Virtual.com",
+    "name": "LH-Virtual",
     "callsign": "LUFTHANSA CARGO",
     "virtual": true
   },
   {
     "icao": "BOX",
-    "name": "BOX-Virtual.com",
+    "name": "BOX-Virtual",
     "callsign": "GERMAN CARGO",
     "virtual": true
   {
     "icao": "SWR",
-    "name": "LX-Virtual.com",
+    "name": "LX-Virtual",
     "callsign": "SWISS",
     "virtual": true
   },
   {
     "icao": "EDL",
-    "name": "LX-Virtual.com",
+    "name": "LX-Virtual",
     "callsign": "EDELWEISS",
     "virtual": true
   },
