@@ -784,5 +784,216 @@
     "name": "POBEDA",
     "callsign": "POBEDA",
     "virtual": true
+  },
+ [
+  {
+    "icao": "DLH",
+    "name": "Deutsche Lufthansa AG",
+    "callsign": "LUFTHANSA",
+    "virtual": false
+  },
+  {
+    "icao": "GEC",
+    "name": "Lufthansa Cargo AG",
+    "callsign": "LUFTHANSA CARGO",
+    "virtual": false
+  },
+  {
+    "icao": "CLH",
+    "name": "Lufthansa CityLine GmbH",
+    "callsign": "HANSALINE",
+    "virtual": false
+  },
+  {
+    "icao": "LHX",
+    "name": "Lufthansa City Airlines GmbH",
+    "callsign": "CITYAIR",
+    "virtual": false
+  },
+  {
+    "icao": "EWG",
+    "name": "Eurowings GmbH",
+    "callsign": "EUROWINGS",
+    "virtual": false
+  },
+  {
+    "icao": "OCN",
+    "name": "Discover Airlines GmbH",
+    "callsign": "OCEAN",
+    "virtual": false
+  },
+  {
+    "icao": "SDR",
+    "name": "Sundair GmbH",
+    "callsign": "SUNDAIR",
+    "virtual": false
+  },
+  {
+    "icao": "BOX",
+    "name": "AeroLogic GmbH",
+    "callsign": "GERMAN CARGO",
+    "virtual": false
+  },
+  {
+    "icao": "BCS",
+    "name": "European Air Transport Leipzig GmbH",
+    "callsign": "POSTMAN",
+    "virtual": false
+  },
+  {
+    "icao": "CFG",
+    "name": "Condor Flugdienst GmbH",
+    "callsign": "CONDOR",
+    "virtual": false
+  },
+  {
+    "icao": "GER",
+    "name": "German Airways GmbH & Co. KG",
+    "callsign": "GERMAN EAGLE",
+    "virtual": false
+  },
+  {
+    "icao": "WDL",
+    "name": "WDL Aviation GmbH & Co. KG",
+    "callsign": "WDL",
+    "virtual": false
+  },
+  {
+    "icao": "GFD",
+    "name": "GFD Gesellschaft für Flugzieldarstellung GmbH",
+    "callsign": "KITE",
+    "virtual": false
+  },
+  {
+    "icao": "ADN",
+    "name": "Aero‑Dienst GmbH & Co. KG",
+    "callsign": "AERODIENST",
+    "virtual": false
+  },
+  {
+    "icao": "BVR",
+    "name": "ACM Air Charter GmbH",
+    "callsign": "BAVARIAN",
+    "virtual": false
+  },
+  {
+    "icao": "JTV",
+    "name": "Air Independence GmbH",
+    "callsign": "JUNIOR",
+    "virtual": false
+  },
+  {
+    "icao": "AHO",
+    "name": "Air Hamburg GmbH",
+    "callsign": "AIR HAMBURG",
+    "virtual": false
+  },
+  {
+    "icao": "TWG",
+    "name": "air‑taxi europe GmbH",
+    "callsign": "TWIN GOOSE",
+    "virtual": false
+  },
+  {
+    "icao": "AZE",
+    "name": "Arcus‑Air GmbH & Co. KG",
+    "callsign": "ARCUS AIR",
+    "virtual": false
+  },
+  {
+    "icao": "ATV",
+    "name": "Avanti Air GmbH & Co. KG",
+    "callsign": "AVANTI AIR",
+    "virtual": false
+  },
+  {
+    "icao": "JMP",
+    "name": "Businesswings GmbH",
+    "callsign": "JUMP RUN",
+    "virtual": false
+  },
+  {
+    "icao": "DCS",
+    "name": "DC Aviation GmbH",
+    "callsign": "TWIN STAR",
+    "virtual": false
+  },
+  {
+    "icao": "IFA",
+    "name": "FAI rent‑a‑jet GmbH",
+    "callsign": "RED ANGEL",
+    "virtual": false
+  },
+  {
+    "icao": "PWF",
+    "name": "Private Wings Flugcharter GmbH",
+    "callsign": "PRIVATE WINGS",
+    "virtual": false
+  },
+  {
+    "icao": "RWL",
+    "name": "RWL Luftfahrtgesellschaft GmbH (RWL German Flight Academy)",
+    "callsign": "RHEINTRAINER",
+    "virtual": false
+  },
+  {
+    "icao": "AMB",
+    "name": "DRF Luftrettung (DRF‑Stiftung Luftrettung)",
+    "callsign": "CIVIL AIR AMBULANCE",
+    "virtual": false
+  },
+  {
+    "icao": "BMW",
+    "name": "BMW Flugdienst",
+    "callsign": "BMW‑FLIGHT",
+    "virtual": false
+  },
+  {
+    "icao": "FNK",
+    "name": "IAS Itzehoer Airservice GmbH",
+    "callsign": "FUNKY",
+    "virtual": false
+  },
+  {
+    "icao": "NGN",
+    "name": "LEAV Aviation GmbH",
+    "callsign": "YODA",
+    "virtual": false
+  },
+  {
+    "icao": "HR",
+    "name": "Hahn Air Lines GmbH",
+    "callsign": "ROOSTER",
+    "virtual": false
+  },
+  {
+    "icao": "EFD",
+    "name": "Eisele Flugdienst GmbH",
+    "callsign": "EVERFLIGHT",
+    "virtual": false
+  },
+  {
+    "icao": "FCK",
+    "name": "FCS Flight Calibration Services GmbH",
+    "callsign": "NAV CHECKER",
+    "virtual": false
+  },
+  {
+    "icao": "BPO",
+    "name": "Bundespolizei‑Fliegergruppe",
+    "callsign": "PIROL",
+    "virtual": false
+  },
+  {
+    "icao": "GAF",
+    "name": "German Air Force (Luftwaffe)",
+    "callsign": "GERMAN AIR FORCE",
+    "virtual": false
+  },
+  {
+    "icao": "GAH",
+    "name": "Flugbereitschaft BMVg (Regierungsflieger)",
+    "callsign": "GERMAN AIR FORCE ONE",
+    "virtual": false
   }
 ]
