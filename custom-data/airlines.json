@@ -408,6 +408,12 @@
     "virtual": false
   },
   {
+    "icao": "FWAY",
+    "name": "Royal Australian Air Force",
+    "callsign": "Fairway",
+    "virtual": false
+  },
+  {
     "icao": "ROLR",
     "name": "Royal Australian Air Force Trainee",
     "callsign": "Roller",
@@ -426,6 +432,30 @@
     "virtual": false
   },
   {
+    "icao": "AVON",
+    "name": "Royal Australian Air Force",
+    "callsign": "Avon",
+    "virtual": false
+  },
+  {
+    "icao": "GART",
+    "name": "Royal Australian Air Force",
+    "callsign": "Garret",
+    "virtual": false
+  },
+  {
+    "icao": "GYPS",
+    "name": "Royal Australian Air Force",
+    "callsign": "Gypsy",
+    "virtual": false
+  },
+  {
+    "icao": "MERL",
+    "name": "Royal Australian Air Force",
+    "callsign": "Merlin",
+    "virtual": false
+  },
+  {
     "icao": "EMBR",
     "name": "Royal Australian Air Force",
     "callsign": "Ember",
@@ -438,15 +468,51 @@
     "virtual": false
   },
   {
+    "icao": "FLGT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Flashlight",
+    "virtual": false
+  },
+  {
+    "icao": "LTRN",
+    "name": "Royal Australian Air Force",
+    "callsign": "Lantern",
+    "virtual": false
+  },
+  {
     "icao": "RPLC",
     "name": "Royal Australian Air Force",
     "callsign": "Republic",
     "virtual": false
   },
   {
+    "icao": "ERKA",
+    "name": "Royal Australian Air Force",
+    "callsign": "Eureka",
+    "virtual": false
+  },
+  {
+    "icao": "STKD",
+    "name": "Royal Australian Air Force",
+    "callsign": "Stockade",
+    "virtual": false
+  },
+  {
     "icao": "EMPR",
     "name": "Royal Australian Air Force",
     "callsign": "Empire",
+    "virtual": false
+  },
+  {
+    "icao": "HTFT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Hotfoot",
+    "virtual": false
+  },
+  {
+    "icao": "SRCH",
+    "name": "Royal Australian Air Force",
+    "callsign": "Searcher",
     "virtual": false
   },
   {
@@ -459,6 +525,24 @@
     "icao": "RAMD",
     "name": "Royal Australian Air Force",
     "callsign": "Ramrod",
+    "virtual": false
+  },
+  {
+    "icao": "DEMN",
+    "name": "Royal Australian Air Force",
+    "callsign": "Demon",
+    "virtual": false
+  },
+  {
+    "icao": "SONC",
+    "name": "Royal Australian Air Force",
+    "callsign": "Sonic",
+    "virtual": false
+  },
+  {
+    "icao": "SWRD",
+    "name": "Royal Australian Air Force",
+    "callsign": "Sword",
     "virtual": false
   },
   {
@@ -486,6 +570,36 @@
     "virtual": false
   },
   {
+    "icao": "CANN",
+    "name": "Royal Australian Air Force",
+    "callsign": "Cannon",
+    "virtual": false
+  },
+  {
+    "icao": "CARB",
+    "name": "Royal Australian Air Force",
+    "callsign": "Carbine",
+    "virtual": false
+  },
+  {
+    "icao": "CRNG",
+    "name": "Royal Australian Air Force",
+    "callsign": "Carnage",
+    "virtual": false
+  },
+  {
+    "icao": "COLT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Colt",
+    "virtual": false
+  },
+  {
+    "icao": "PSTL",
+    "name": "Royal Australian Air Force",
+    "callsign": "Pistol",
+    "virtual": false
+  },
+  {
     "icao": "VIPR",
     "name": "Royal Australian Air Force Trainee",
     "callsign": "Viper",
@@ -498,15 +612,213 @@
     "virtual": false
   },
   {
+    "icao": "DUGT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Dugite",
+    "virtual": false
+  },
+  {
+    "icao": "SBOT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Sabot",
+    "virtual": false
+  },
+  {
+    "icao": "SLVO",
+    "name": "Royal Australian Air Force",
+    "callsign": "Salvo",
+    "virtual": false
+  },
+  {
+    "icao": "SAMB",
+    "name": "Royal Australian Air Force",
+    "callsign": "Samba",
+    "virtual": false
+  },
+  {
+    "icao": "SLNG",
+    "name": "Royal Australian Air Force",
+    "callsign": "Slingshot",
+    "virtual": false
+  },
+  {
+    "icao": "SNKE",
+    "name": "Royal Australian Air Force",
+    "callsign": "Snake Eye",
+    "virtual": false
+  },
+  {
+    "icao": "STGR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Stinger",
+    "virtual": false
+  },
+  {
+    "icao": "VAMP",
+    "name": "Royal Australian Air Force",
+    "callsign": "Vampire",
+    "virtual": false
+  },
+  {
+    "icao": "VODO",
+    "name": "Royal Australian Air Force",
+    "callsign": "Voodoo",
+    "virtual": false
+  },
+  {
+    "icao": "VORT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Vortex",
+    "virtual": false
+  },
+  {
+    "icao": "VULC",
+    "name": "Royal Australian Air Force",
+    "callsign": "Vulcan",
+    "virtual": false
+  },
+  {
+    "icao": "VALT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Valiant",
+    "virtual": false
+  },
+  {
+    "icao": "VNGD",
+    "name": "Royal Australian Air Force",
+    "callsign": "Vanguard",
+    "virtual": false
+  },
+  {
+    "icao": "VANT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Vantage",
+    "virtual": false
+  },
+  {
+    "icao": "VENG",
+    "name": "Royal Australian Air Force",
+    "callsign": "Vengeance",
+    "virtual": false
+  },
+  {
+    "icao": "VIXN",
+    "name": "Royal Australian Air Force",
+    "callsign": "Vixen",
+    "virtual": false
+  },
+  {
     "icao": "TANG",
     "name": "Royal Australian Air Force",
     "callsign": "Tango",
     "virtual": false
   },
   {
+    "icao": "TATT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Tattler",
+    "virtual": false
+  },
+  {
+    "icao": "TWNY",
+    "name": "Royal Australian Air Force",
+    "callsign": "Tawny",
+    "virtual": false
+  },
+  {
+    "icao": "TEAL",
+    "name": "Royal Australian Air Force",
+    "callsign": "Teal",
+    "virtual": false
+  },
+  {
+    "icao": "TREK",
+    "name": "Royal Australian Air Force",
+    "callsign": "Terek",
+    "virtual": false
+  },
+  {
+    "icao": "TRIL",
+    "name": "Royal Australian Air Force",
+    "callsign": "Triller",
+    "virtual": false
+  },
+  {
     "icao": "MAPL",
     "name": "Royal Australian Air Force",
     "callsign": "Maple",
+    "virtual": false
+  },
+  {
+    "icao": "ABSH",
+    "name": "Royal Australian Air Force",
+    "callsign": "Ambush",
+    "virtual": false
+  },
+  {
+    "icao": "HEYE",
+    "name": "Royal Australian Air Force",
+    "callsign": "Hawkeye",
+    "virtual": false
+  },
+  {
+    "icao": "HPST",
+    "name": "Royal Australian Air Force",
+    "callsign": "Hipshot",
+    "virtual": false
+  },
+  {
+    "icao": "HOBG",
+    "name": "Royal Australian Air Force",
+    "callsign": "Homberg",
+    "virtual": false
+  },
+  {
+    "icao": "HDDO",
+    "name": "Royal Australian Air Force",
+    "callsign": "Hoodoo",
+    "virtual": false
+  },
+  {
+    "icao": "HORN",
+    "name": "Royal Australian Air Force",
+    "callsign": "Hornet",
+    "virtual": false
+  },
+  {
+    "icao": "HUTR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Hunter",
+    "virtual": false
+  },
+  {
+    "icao": "HYDT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Hydrant",
+    "virtual": false
+  },
+  {
+    "icao": "STRE",
+    "name": "Royal Australian Air Force",
+    "callsign": "Streak",
+    "virtual": false
+  },
+  {
+    "icao": "TALN",
+    "name": "Royal Australian Air Force",
+    "callsign": "Talon",
+    "virtual": false
+  },
+  {
+    "icao": "TOXN",
+    "name": "Royal Australian Air Force",
+    "callsign": "Toxin",
+    "virtual": false
+  },
+  {
+    "icao": "TRPD",
+    "name": "Royal Australian Air Force",
+    "callsign": "Tripod",
     "virtual": false
   },
   {
@@ -552,15 +864,105 @@
     "virtual": false
   },
   {
+    "icao": "APCH",
+    "name": "Royal Australian Air Force",
+    "callsign": "Apache",
+    "virtual": false
+  },
+  {
+    "icao": "CBRA",
+    "name": "Royal Australian Air Force",
+    "callsign": "Cobra",
+    "virtual": false
+  },
+  {
+    "icao": "LNCR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Lancer",
+    "virtual": false
+  },
+  {
+    "icao": "RADR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Raider",
+    "virtual": false
+  },
+  {
+    "icao": "ADDR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Adder",
+    "virtual": false
+  },
+  {
+    "icao": "MAMB",
+    "name": "Royal Australian Air Force",
+    "callsign": "Mamba",
+    "virtual": false
+  },
+  {
+    "icao": "ZULU",
+    "name": "Royal Australian Air Force",
+    "callsign": "Zulu",
+    "virtual": false
+  },
+  {
     "icao": "RAVN",
     "name": "Royal Australian Air Force",
     "callsign": "Raven",
     "virtual": false
   },
   {
+    "icao": "MYHM",
+    "name": "Royal Australian Air Force",
+    "callsign": "Mayhem",
+    "virtual": false
+  },
+  {
+    "icao": "RAKE",
+    "name": "Royal Australian Air Force",
+    "callsign": "Rake",
+    "virtual": false
+  },
+  {
+    "icao": "REPR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Reaper",
+    "virtual": false
+  },
+  {
+    "icao": "SNPY",
+    "name": "Royal Australian Air Force",
+    "callsign": "Snoopy",
+    "virtual": false
+  },
+  {
     "icao": "WOLF",
     "name": "Royal Australian Air Force",
     "callsign": "Wolf",
+    "virtual": false
+  },
+  {
+    "icao": "BRUT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Brutal",
+    "virtual": false
+  },
+  {
+    "icao": "RUTH",
+    "name": "Royal Australian Air Force",
+    "callsign": "Ruthless",
+    "virtual": false
+  },
+  {
+    "icao": "SABR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Sabre",
+    "virtual": false
+  },
+  {
+    "icao": "SAVG",
+    "name": "Royal Australian Air Force",
+    "callsign": "Savage",
     "virtual": false
   },
   {
@@ -606,6 +1008,24 @@
     "virtual": false
   },
   {
+    "icao": "DRAG",
+    "name": "Royal Australian Air Force",
+    "callsign": "Draggie",
+    "virtual": false
+  },
+  {
+    "icao": "HLTE",
+    "name": "Royal Australian Air Force",
+    "callsign": "Howlette",
+    "virtual": false
+  },
+  {
+    "icao": "TRBO",
+    "name": "Royal Australian Air Force",
+    "callsign": "Turbo",
+    "virtual": false
+  },
+  {
     "icao": "DRGN",
     "name": "Royal Australian Air Force",
     "callsign": "Dragon",
@@ -621,6 +1041,24 @@
     "icao": "WNSR",
     "name": "Royal Australian Air Force",
     "callsign": "Windsor",
+    "virtual": false
+  },
+  {
+    "icao": "BRIM",
+    "name": "Royal Australian Air Force",
+    "callsign": "Brimstone",
+    "virtual": false
+  },
+  {
+    "icao": "THUM",
+    "name": "Royal Australian Air Force",
+    "callsign": "Thumper",
+    "virtual": false
+  },
+  {
+    "icao": "EVY",
+    "name": "Royal Australian Air Force",
+    "callsign": "Envoy",
     "virtual": false
   },
   {
@@ -654,9 +1092,51 @@
     "virtual": false
   },
   {
+    "icao": "MNGL",
+    "name": "Royal Australian Air Force",
+    "callsign": "Mongrel",
+    "virtual": false
+  },
+  {
+    "icao": "SMRI",
+    "name": "Royal Australian Air Force",
+    "callsign": "Samurai",
+    "virtual": false
+  },
+  {
+    "icao": "WLRD",
+    "name": "Royal Australian Air Force",
+    "callsign": "Warlord",
+    "virtual": false
+  },
+  {
     "icao": "STAL",
     "name": "Royal Australian Air Force",
     "callsign": "Stallion",
+    "virtual": false
+  },
+  {
+    "icao": "CANT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Canter",
+    "virtual": false
+  },
+  {
+    "icao": "CHGR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Charger",
+    "virtual": false
+  },
+  {
+    "icao": "PACR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Pacer",
+    "virtual": false
+  },
+  {
+    "icao": "TNDR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Thunder",
     "virtual": false
   },
   {
@@ -666,9 +1146,63 @@
     "virtual": false
   },
   {
+    "icao": "ACHR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Archer",
+    "virtual": false
+  },
+  {
+    "icao": "ARRW",
+    "name": "Royal Australian Air Force",
+    "callsign": "Arrow",
+    "virtual": false
+  },
+  {
+    "icao": "ODSY",
+    "name": "Royal Australian Air Force",
+    "callsign": "Odyssey",
+    "virtual": false
+  },
+  {
+    "icao": "WARR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Warrior",
+    "virtual": false
+  },
+  {
     "icao": "CLAS",
     "name": "Royal Australian Air Force",
     "callsign": "Classic",
+    "virtual": false
+  },
+  {
+    "icao": "BKBD",
+    "name": "Royal Australian Air Force",
+    "callsign": "Blackbird",
+    "virtual": false
+  },
+  {
+    "icao": "BZRD",
+    "name": "Royal Australian Air Force",
+    "callsign": "Buzzard",
+    "virtual": false
+  },
+  {
+    "icao": "CNDR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Condor",
+    "virtual": false
+  },
+  {
+    "icao": "MPIE",
+    "name": "Royal Australian Air Force",
+    "callsign": "Magpie",
+    "virtual": false
+  },
+  {
+    "icao": "SPRW",
+    "name": "Royal Australian Air Force",
+    "callsign": "Sparrow",
     "virtual": false
   },
   {
@@ -678,15 +1212,129 @@
     "virtual": false
   },
   {
+    "icao": "BBCT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Bobcat",
+    "virtual": false
+  },
+  {
+    "icao": "CHET",
+    "name": "Royal Australian Air Force",
+    "callsign": "Cheetah",
+    "virtual": false
+  },
+  {
+    "icao": "COGR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Cougar",
+    "virtual": false
+  },
+  {
+    "icao": "LEPD",
+    "name": "Royal Australian Air Force",
+    "callsign": "Leopard",
+    "virtual": false
+  },
+  {
+    "icao": "LYNX",
+    "name": "Royal Australian Air Force",
+    "callsign": "Lynx",
+    "virtual": false
+  },
+  {
+    "icao": "PUMA",
+    "name": "Royal Australian Air Force",
+    "callsign": "Puma",
+    "virtual": false
+  },
+  {
+    "icao": "TIGR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Tiger",
+    "virtual": false
+  },
+  {
     "icao": "DPOT",
     "name": "Royal Australian Air Force",
     "callsign": "Despot",
     "virtual": false
   },
   {
+    "icao": "ODIN",
+    "name": "Royal Australian Air Force",
+    "callsign": "Odin",
+    "virtual": false
+  },
+  {
+    "icao": "PRTE",
+    "name": "Royal Australian Air Force",
+    "callsign": "Pirate",
+    "virtual": false
+  },
+  {
+    "icao": "SHOG",
+    "name": "Royal Australian Air Force",
+    "callsign": "Shogun",
+    "virtual": false
+  },
+  {
+    "icao": "SPCT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Spectre",
+    "virtual": false
+  },
+  {
+    "icao": "TRNT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Tyrant",
+    "virtual": false
+  },
+  {
+    "icao": "VIKG",
+    "name": "Royal Australian Air Force",
+    "callsign": "Viking",
+    "virtual": false
+  },
+  {
+    "icao": "WRLK",
+    "name": "Royal Australian Air Force",
+    "callsign": "Warlock",
+    "virtual": false
+  },
+  {
     "icao": "PHNX",
     "name": "Royal Australian Air Force",
     "callsign": "Phoenix",
+    "virtual": false
+  },
+  {
+    "icao": "DEVL",
+    "name": "Royal Australian Air Force",
+    "callsign": "Devil",
+    "virtual": false
+  },
+  {
+    "icao": "FURY",
+    "name": "Royal Australian Air Force",
+    "callsign": "Fury",
+    "virtual": false
+  },
+  {
+    "icao": "GHST",
+    "name": "Royal Australian Air Force",
+    "callsign": "Ghost",
+    "virtual": false
+  },
+  {
+    "icao": "PHTM",
+    "name": "Royal Australian Air Force",
+    "callsign": "Phantom",
+    "virtual": false
+  },
+  {
+    "icao": "RAPT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Raptor",
     "virtual": false
   },
   {
@@ -708,20 +1356,68 @@
     "virtual": false
   },
   {
+    "icao": "KNGO",
+    "name": "Royal Australian Air Force",
+    "callsign": "Kongo",
+    "virtual": false
+  },
+  {
+    "icao": "WZRD",
+    "name": "Royal Australian Air Force",
+    "callsign": "Wizard",
+    "virtual": false
+  },
+  {
     "icao": "MRNR",
     "name": "Royal Australian Air Force",
     "callsign": "Mariner",
     "virtual": false
   },
   {
+    "icao": "TEST",
+    "name": "Royal Australian Air Force",
+    "callsign": "Tester",
+    "virtual": false
+  },
+  {
+    "icao": "DLTA",
+    "name": "Royal Australian Air Force",
+    "callsign": "Delta",
+    "virtual": false
+  },
+  {
+    "icao": "LMDA",
+    "name": "Royal Australian Air Force",
+    "callsign": "Lambda",
+    "virtual": false
+  },
+  {
+    "icao": "OMGA",
+    "name": "Royal Australian Air Force",
+    "callsign": "Omega",
+    "virtual": false
+  },
+  {
+    "icao": "SGMA",
+    "name": "Royal Australian Air Force",
+    "callsign": "Sigma",
+    "virtual": false
+  },
+  {
+    "icao": "THAT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Theta",
+    "virtual": false
+  },
+  {
     "icao": "JOEY",
-    "name": "RAAF Cadet Flight",
+    "name": "Australian Air Force Cadets",
     "callsign": "Joey",
     "virtual": false
   },
   {
     "icao": "ASTR",
-    "name": "RAAF Cadet Flight",
+    "name": "Australian Air Force Cadets",
     "callsign": "Astra",
     "virtual": false
   },
@@ -732,51 +1428,195 @@
     "virtual": false
   },
   {
+    "icao": "BRCT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Bearcat",
+    "virtual": false
+  },
+  {
+    "icao": "MUST",
+    "name": "Royal Australian Air Force",
+    "callsign": "Mustang",
+    "virtual": false
+  },
+  {
+    "icao": "SPIT",
+    "name": "Royal Australian Air Force",
+    "callsign": "Spitfire",
+    "virtual": false
+  },
+  {
+    "icao": "TMPS",
+    "name": "Royal Australian Air Force",
+    "callsign": "Tempest",
+    "virtual": false
+  },
+  {
+    "icao": "TYPN",
+    "name": "Royal Australian Air Force",
+    "callsign": "Typhoon",
+    "virtual": false
+  },
+  {
+    "icao": "RLTS",
+    "name": "Royal Australian Air Force",
+    "callsign": "Roulettes",
+    "virtual": false
+  },
+  {
+    "icao": "RLTK",
+    "name": "Royal Australian Air Force",
+    "callsign": "Roulettes Black",
+    "virtual": false
+  },
+  {
+    "icao": "RLTU",
+    "name": "Royal Australian Air Force",
+    "callsign": "Roulettes Blue",
+    "virtual": false
+  },
+  {
+    "icao": "RLTR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Roulettes Red",
+    "virtual": false
+  },
+  {
+    "icao": "RLTW",
+    "name": "Royal Australian Air Force",
+    "callsign": "Roulettes White",
+    "virtual": false
+  },
+  {
     "icao": "CTRL",
     "name": "Royal Australian Air Force",
     "callsign": "Central",
     "virtual": false
   },
   {
+    "icao": "CAML",
+    "name": "Royal Australian Air Force",
+    "callsign": "Camel",
+    "virtual": false
+  },
+  {
+    "icao": "COSR",
+    "name": "Royal Australian Air Force",
+    "callsign": "Corsair",
+    "virtual": false
+  },
+  {
+    "icao": "OXFD",
+    "name": "Royal Australian Air Force",
+    "callsign": "Oxford",
+    "virtual": false
+  },
+  {
     "icao": "ASY",
-    "name": "RAAF International Mission",
+    "name": "Royal Australian Air Force",
     "callsign": "Aussie",
     "virtual": false
   },
   {
     "icao": "HARR",
-    "name": "Royal Australian Air Force",
+    "name": "Royal Singaporean Air Force",
     "callsign": "Harrier",
     "virtual": false
   },
   {
     "icao": "RHWK",
-    "name": "Royal Australian Air Force",
+    "name": "Royal Singaporean Air Force",
     "callsign": "Redhawk",
     "virtual": false
   },
   {
+    "icao": "ASPN",
+    "name": "Royal Singaporean Air Force",
+    "callsign": "Aspen",
+    "virtual": false
+  },
+  {
     "icao": "STRL",
-    "name": "Royal Australian Air Force",
+    "name": "Royal Singaporean Air Force",
     "callsign": "Starling",
     "virtual": false
   },
   {
+    "icao": "OPAL",
+    "name": "Royal Singaporean Air Force",
+    "callsign": "Opal",
+    "virtual": false
+  },
+  {
+    "icao": "TOPZ",
+    "name": "Royal Singaporean Air Force",
+    "callsign": "Topaz",
+    "virtual": false
+  },
+  {
     "icao": "CYCP",
-    "name": "Royal Australian Air Force",
+    "name": "Royal Singaporean Air Force",
     "callsign": "Cyclops",
     "virtual": false
   },
   {
     "icao": "DIAM",
-    "name": "Royal Australian Air Force",
+    "name": "Royal Singaporean Air Force",
     "callsign": "Diamond",
     "virtual": false
   },
   {
+    "icao": "CNCD",
+    "name": "Royal Singaporean Air Force",
+    "callsign": "Concorde",
+    "virtual": false
+  },
+  {
+    "icao": "CELT",
+    "name": "Royal Singaporean Air Force",
+    "callsign": "Celtic",
+    "virtual": false
+  },
+  {
+    "icao": "RUBY",
+    "name": "Royal Singaporean Air Force",
+    "callsign": "Ruby",
+    "virtual": false
+  },
+  {
     "icao": "EGLE",
-    "name": "Royal Australian Air Force",
+    "name": "Royal Singaporean Air Force",
     "callsign": "Eagle",
+    "virtual": false
+  },
+  {
+    "icao": "CYCN",
+    "name": "Royal Singaporean Air Force",
+    "callsign": "Cyclone",
+    "virtual": false
+  },
+  {
+    "icao": "LTNG",
+    "name": "Royal Singaporean Air Force",
+    "callsign": "Lightning",
+    "virtual": false
+  },
+  {
+    "icao": "MONS",
+    "name": "Royal Singaporean Air Force",
+    "callsign": "Monsoon",
+    "virtual": false
+  },
+  {
+    "icao": "STRM",
+    "name": "Royal Singaporean Air Force",
+    "callsign": "Storm",
+    "virtual": false
+  },
+  {
+    "icao": "TWST",
+    "name": "Royal Singaporean Air Force",
+    "callsign": "Twister",
     "virtual": false
   },
   {
