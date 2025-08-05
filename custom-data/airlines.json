@@ -784,5 +784,11 @@
     "name": "POBEDA",
     "callsign": "POBEDA",
     "virtual": true
+  },
+  {
+    "icao": "ARW",
+    "name": "Arawak Air Service",
+    "callsign": "Arawak",
+    "virtual": true
   }
 ]
