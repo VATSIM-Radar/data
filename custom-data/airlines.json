@@ -784,5 +784,11 @@
     "name": "POBEDA",
     "callsign": "POBEDA",
     "virtual": true
+  },
+  {
+    "icao": "ANZ",
+    "name": "AIR NEW ZEALAND",
+    "callsign": "NEW ZEALAND",
+    "virtual": true
   }
 ]
