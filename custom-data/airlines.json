@@ -784,5 +784,11 @@
     "name": "POBEDA",
     "callsign": "POBEDA",
     "virtual": true
+  },
+  {
+    "icao": "JST,
+    "name": "Jetstar Virtual",
+    "callsign": "Jetstar",
+    "virtual": true
   }
 ]
