@@ -785,4 +785,9 @@
     "callsign": "POBEDA",
     "virtual": true
   }
-]
+  {
+    "icao": "SXV",
+    "name": "SOUTHERN CROSS VIRTUAL",
+    "callsign": "SKYCROSS",
+    "virtual": true
+   ]
