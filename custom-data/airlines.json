@@ -789,12 +789,12 @@
     "icao": "NWS",
     "name": "Nordwind Airlines",
     "callsign": "Nordland",
-    "virtual": true
+    "virtual": false
   },
   {
     "icao": "KAR",
     "name": "Ikar",
     "callsign": "Ikar",
-    "virtual": true
+    "virtual": false
   }
 ]
