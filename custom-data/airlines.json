@@ -785,4 +785,16 @@
     "callsign": "POBEDA",
     "virtual": true
   }
+  {
+    "icao": "NWS",
+    "name": "Nordwind Airlines",
+    "callsign": "Nordland",
+    "virtual": true
+  },
+  {
+    "icao": "KAR",
+    "name": "Ikar",
+    "callsign": "Ikar",
+    "virtual": true
+  },
 ]
