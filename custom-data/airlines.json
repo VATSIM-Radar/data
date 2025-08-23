@@ -1,5 +1,11 @@
 [
   {
+    "icao": "CWG",
+    "name": "Chickenwings Virtual Airline",
+    "callsign": "Chickenwings",
+    "virtual": true
+  },
+  {
     "icao": "PHP",
     "name": "Phantom Airways",
     "callsign": "Phantom Air",
