@@ -274,5 +274,10 @@
     "name": "Willow Airlines",
     "callsign": "Willow",
     "virtual": true
-  }
-]
+  },
+  {
+    "icao": "STS",
+    "name" Stratos,
+    "callsign": "Stratos",
+    "virtual": True
+    ]
