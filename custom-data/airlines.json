@@ -883,13 +883,7 @@
   },
   {
     "icao": "HAWK",
-    "name": "United States Marine Corps VMFA-533",
-    "callsign": "HAWK",
-    "virtual": false
-  },
-  {
-    "icao": "HAWK",
-    "name": "United States Navy VFA-97",
+    "name": "United States Navy",
     "callsign": "HAWK",
     "virtual": false
   },
