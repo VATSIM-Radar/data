@@ -928,6 +928,12 @@
     "name": "United States Navy VRM-40",
     "callsign": "BISON",
     "virtual": false
+  },
+  {
+    "icao": "VVBA",
+    "name": "United States Navy Flight Demonstration Squadron",
+    "callsign": "NAVY BLUE ANGEL",
+    "virtual": false
   }
 ]
 
