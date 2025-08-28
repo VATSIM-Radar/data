@@ -934,6 +934,12 @@
     "name": "United States Navy Flight Demonstration Squadron",
     "callsign": "NAVY BLUE ANGEL",
     "virtual": false
+  },
+  {
+    "icao": "BERT",
+    "name": "United States Navy Flight Demonstration Squadron",
+    "callsign": "ALBERT",
+    "virtual": false
   }
 ]
 
