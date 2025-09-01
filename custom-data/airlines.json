@@ -786,6 +786,12 @@
     "virtual": true
   },
   {
+    "icao": "ANZ",
+    "name": "AIR NEW ZEALAND",
+    "callsign": "NEW ZEALAND",
+    "virtual": true
+  },
+  {
     "icao": "BAW",
     "name": "vBAW",
     "callsign": "Speedbird",
