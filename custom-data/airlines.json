@@ -1,5 +1,11 @@
 [
   {
+    "icao": "CWG",
+    "name": "Chickenwings Virtual Airline",
+    "callsign": "Chickenwings",
+    "virtual": true
+  },
+  {
     "icao": "PHP",
     "name": "Phantom Airways",
     "callsign": "Phantom Air",
@@ -789,6 +795,48 @@
     "icao": "CAG",
     "name": "Channel Islands Aviation Group",
     "callsign": "Trident",
+    "virtual": true
+  },
+  {
+    "icao": "NWS",
+    "name": "Nordwind Airlines",
+    "callsign": "Nordland",
+    "virtual": true
+  },
+  {
+    "icao": "KAR",
+    "name": "Ikar",
+    "callsign": "Ikar",
+    "virtual": true
+  },
+  {
+    "icao": "AUR",
+    "name": "AURIGNY",
+    "callsign": "AYLINE",
+    "virtual": true
+  },
+  {
+    "icao": "ANZ",
+    "name": "AIR NEW ZEALAND",
+    "callsign": "NEW ZEALAND",
+    "virtual": true
+  },
+  {
+    "icao": "BAW",
+    "name": "vBAW",
+    "callsign": "Speedbird",
+    "virtual": true
+  },
+  {
+    "icao": "JST",
+    "name": "Jetstar Virtual",
+    "callsign": "Jetstar",
+    "virtual": true
+  },
+  {
+    "icao": "ARW",
+    "name": "Arawak Air Service",
+    "callsign": "Arawak",
     "virtual": true
   }
 ]
