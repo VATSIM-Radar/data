@@ -717,7 +717,7 @@
     "icao": "MRNR",
     "name": "Royal Australian Air Force",
     "callsign": "Mariner",
-    "virtual": false
+    
   },
   {
     "icao": "JOEY",
@@ -795,13 +795,13 @@
     "icao": "NWS",
     "name": "Nordwind Airlines",
     "callsign": "Nordland",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "KAR",
     "name": "Ikar",
     "callsign": "Ikar",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "AUR",
