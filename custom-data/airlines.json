@@ -786,6 +786,12 @@
     "virtual": true
   },
   {
+    "icao": "BAW",
+    "name": "vBAW",
+    "callsign": "Speedbird",
+    "virtual": true
+  },
+  {
     "icao": "JST",
     "name": "Jetstar Virtual",
     "callsign": "Jetstar",
