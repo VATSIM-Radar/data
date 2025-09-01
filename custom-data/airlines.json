@@ -790,5 +790,17 @@
     "name": "vBAW",
     "callsign": "Speedbird",
     "virtual": true
+  },
+  {
+    "icao": "JST",
+    "name": "Jetstar Virtual",
+    "callsign": "Jetstar",
+    "virtual": true
+  },
+  {
+    "icao": "ARW",
+    "name": "Arawak Air Service",
+    "callsign": "Arawak",
+    "virtual": true
   }
 ]
