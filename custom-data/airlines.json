@@ -786,6 +786,12 @@
     "virtual": true
   },
   {
+    "icao": "AUR",
+    "name": "AURIGNY",
+    "callsign": "AYLINE",
+    "virtual": true
+  },
+  {
     "icao": "ANZ",
     "name": "AIR NEW ZEALAND",
     "callsign": "NEW ZEALAND",
