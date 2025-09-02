@@ -14,6 +14,11 @@
 - [ ] 🆕 New Airline
 - [ ] 🧹 Technical change (refactoring, updates and other improvements)
 
+### 📚 VA Website
+
+Please refer your VA Website(s) - ideally, with some proof that you belong to it. 
+
 ### 📚 Description
 
 <!-- Tell us more about your PR -->
+
