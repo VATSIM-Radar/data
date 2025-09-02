@@ -878,7 +878,7 @@
   {
     "icao": "SWEDE",
     "name": "United States Marine Corps VMFAT-501",
-    "callsign": "WARLORD",
+    "callsign": "SWEDE",
     "virtual": false
   },
   {
@@ -940,6 +940,11 @@
     "name": "United States Navy Flight Demonstration Squadron",
     "callsign": "ALBERT",
     "virtual": false
-  }
+  },
+  {
+    "icao": "SH",
+    "name": "United States Navy VT-6",
+    "callsign": "SHOOTER",
+    "virtual": false
 ]
 
