@@ -832,31 +832,32 @@
     "name": "Arawak Air Service",
     "callsign": "Arawak",
     "virtual": true
-  }
-]
-[
+  },
   {
     "icao": "NDF",
     "name": "NordFly",
     "callsign": "NORDFLY",
     "country": "GERMANY",
     "virtual": true
-  }
-]
-[
+  },
   {
     "icao": "NFC",
     "name": "NordFly Cargo",
     "callsign": "NORDFLY CARGO",
     "country": "GERMANY",
     "virtual": true
-  }
-]
-[
+  },
   {
     "icao": "FHA",
     "name": "FlyHoliday Airlines",
     "callsign": "HOLIDAY",
+    "country": "GERMANY",
+    "virtual": true
+  },
+  {
+    "icao": "EUF",
+    "name": "EuroFly",
+    "callsign": "EUROFLY",
     "country": "GERMANY",
     "virtual": true
   }
