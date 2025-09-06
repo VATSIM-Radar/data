@@ -832,5 +832,23 @@
     "name": "Arawak Air Service",
     "callsign": "Arawak",
     "virtual": true
+  },
+  {
+    "icao": "SHT",
+    "name": "vBAW",
+    "callsign": "Shuttle",
+    "virtual": true
+  },
+  {
+    "icao": "CFE",
+    "name": "vBAW",
+    "callsign": "Flyer",
+    "virtual": true
+  },
+  {
+    "icao": "EFW",
+    "name": "vBAW",
+    "callsign": "Euroflyer",
+    "virtual": true
   }
 ]
