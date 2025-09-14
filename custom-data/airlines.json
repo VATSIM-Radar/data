@@ -994,6 +994,12 @@
     "name": "Arawak Air Service",
     "callsign": "Arawak",
     "virtual": true
+  },
+  {
+    "icao": "LGS",
+    "name": "Le Groupe VA",
+    "callsign": "LEGROUPE",
+    "virtual": true
   }
 ]
 
