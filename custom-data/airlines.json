@@ -792,6 +792,168 @@
     "virtual": true
   },
   {
+    "icao": "VV",
+    "name": "United States Navy",
+    "callsign": "NAVY",
+    "virtual": false
+  },
+  {
+    "icao": "VVAB",
+    "name": "United States Navy CVW-1",
+    "callsign": "NAVY ALPHA BRAVO",
+    "virtual": false
+  },
+  {
+    "icao": "VVLA",
+    "name": "United States Navy VP-5",
+    "callsign": "NAVY LIMA ALPHA",
+    "virtual": false
+  },
+  {
+    "icao": "VVAG",
+    "name": "United States Navy CVW-7",
+    "callsign": "NAVY ALPHA GULF",
+    "virtual": false
+  },
+  {
+    "icao": "VVJW",
+    "name": "United States Navy VR-62",
+    "callsign": "NAVY JULIET WHISKEY",
+    "virtual": false
+  },
+  {
+    "icao": "VVJM",
+    "name": "United States Navy VRM-40",
+    "callsign": "NAVY ALPHA GULF",
+    "virtual": false
+  },
+  {
+    "icao": "VVA",
+    "name": "United States Navy TAW-1",
+    "callsign": "NAVY ALPHA",
+    "virtual": false
+  },
+  {
+    "icao": "VVAJ",
+    "name": "United States Navy CVW-8",
+    "callsign": "NAVY ALPHA JULIET",
+    "virtual": false
+  },
+  {
+    "icao": "VVNE",
+    "name": "United States Navy CVW-2",
+    "callsign": "NAVY NOVEMBER ECHO",
+    "virtual": false
+  },
+  {
+    "icao": "VVTC",
+    "name": "United States Navy VQ-3",
+    "callsign": "NAVY TANGO CHARLIE",
+    "virtual": false
+  },
+  {
+    "icao": "VVJU",
+    "name": "United States Navy VR-56",
+    "callsign": "NAVY JULIET UNIFORM",
+    "virtual": false
+  },
+  {
+    "icao": "VM",
+    "name": "United States Marine Corps",
+    "callsign": "MARINE",
+    "virtual": false
+  },
+  {
+    "icao": "VMED",
+    "name": "United States Marine Corps VMFA-533",
+    "callsign": "MARINE ECHO DELTA",
+    "virtual": false
+  },
+  {
+    "icao": "VMVM",
+    "name": "United States Marine Corps VMFAT-501",
+    "callsign": "MARINE VICTOR MIKE",
+    "virtual": false
+  },
+  {
+    "icao": "WRLRD",
+    "name": "United States Marine Corps VMFAT-501",
+    "callsign": "WARLORD",
+    "virtual": false
+  },
+  {
+    "icao": "SWEDE",
+    "name": "United States Marine Corps VMFAT-501",
+    "callsign": "SWEDE",
+    "virtual": false
+  },
+  {
+    "icao": "HAWK",
+    "name": "United States Navy",
+    "callsign": "HAWK",
+    "virtual": false
+  },
+  {
+    "icao": "VCTRY",
+    "name": "United States Navy VFA-103",
+    "callsign": "VICTORY",
+    "virtual": false
+  },
+  {
+    "icao": "SLAYR",
+    "name": "United States Navy HSC-11",
+    "callsign": "SLAYER",
+    "virtual": false
+  },
+  {
+    "icao": "BUMPY",
+    "name": "United States Navy VQ-3",
+    "callsign": "BUMPY",
+    "virtual": false
+  },
+  {
+    "icao": "NOMAD",
+    "name": "United States Navy VR-62",
+    "callsign": "NOMAD",
+    "virtual": false
+  },
+  {
+    "icao": "MADFX",
+    "name": "United States Navy VP-5",
+    "callsign": "MAD FOX",
+    "virtual": false
+  },
+  {
+    "icao": "CDFLE",
+    "name": "United States Navy VP-5",
+    "callsign": "CARDFILE",
+    "virtual": false
+  },
+  {
+    "icao": "BISON",
+    "name": "United States Navy VRM-40",
+    "callsign": "BISON",
+    "virtual": false
+  },
+  {
+    "icao": "VVBA",
+    "name": "United States Navy Flight Demonstration Squadron",
+    "callsign": "NAVY BLUE ANGEL",
+    "virtual": false
+  },
+  {
+    "icao": "BERT",
+    "name": "United States Navy Flight Demonstration Squadron",
+    "callsign": "ALBERT",
+    "virtual": false
+  },
+  {
+    "icao": "SH",
+    "name": "United States Navy VT-6",
+    "callsign": "SHOOTER",
+    "virtual": false
+  },
+  {
     "icao": "NWS",
     "name": "Nordwind Airlines",
     "callsign": "Nordland",
@@ -834,3 +996,4 @@
     "virtual": true
   }
 ]
+
