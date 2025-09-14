@@ -995,6 +995,12 @@
     "callsign": "Arawak",
     "virtual": true
   },
+    {
+    "icao": "VLG",
+    "name": "Virtual Vueling",
+    "callsign": "Vueling",
+      "virtual": true
+    },
   {
     "icao": "EUF",
     "name": "EuroFly",
