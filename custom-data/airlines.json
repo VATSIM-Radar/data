@@ -996,6 +996,13 @@
     "virtual": true
   },
   {
+    "icao": "EUF",
+    "name": "EuroFly",
+    "callsign": "EUROFLY",
+    "country": "GERMANY",
+     "virtual": true
+  },
+  {
     "icao": "LGS",
     "name": "Le Groupe VA",
     "callsign": "LEGROUPE",
