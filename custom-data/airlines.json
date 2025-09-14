@@ -996,6 +996,12 @@
     "virtual": true
   },
   {
+    "icao": "TBV",
+    "name": "Transbrasil Virtual",
+    "callsign": "Transbrasil",
+    "virtual": true
+  },
+  {
     "icao": "PJT",
     "name": "PalmJet",
     "callsign": "PalmJet",
