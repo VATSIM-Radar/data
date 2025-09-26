@@ -1,4 +1,10 @@
 [
+   {
+    "icao": "PRU",
+    "name": "Paramount Airways",
+    "callsign": "Paramount",
+    "virtual": true
+  },
   {
     "icao": "CWG",
     "name": "Chickenwings Virtual Airline",
