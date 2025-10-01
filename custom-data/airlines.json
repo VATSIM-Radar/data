@@ -229,19 +229,19 @@
   },
   {
     "icao": "MXB",
-    "name": "MOCKINGBIRD",
+    "name": "MockingBird Air",
     "callsign": "MOCKINGBIRD",
     "virtual": true
   },
   {
     "icao": "HXB",
-    "name": "KOLIBRI",
+    "name": "MockingBird Air",
     "callsign": "KOLIBRI",
     "virtual": true
   },
   {
     "icao": "MBC",
-    "name": "CARGOBIRD",
+    "name": "MockingBird Air",
     "callsign": "CARGOBIRD",
     "virtual": true
   },
@@ -261,7 +261,7 @@
     "icao": "IGO",
     "name": "Indigo Virtual",
     "callsign": "IFLY",
- "virtual": true
+    "virtual": true
   },
   {
     "icao": "BEL",
@@ -269,12 +269,12 @@
     "callsign": "BEELINE",
     "virtual": true
   },
-    {
+  {
     "icao": "ASL",
     "name": "Air Serbia Virtual",
     "callsign": "AIR SERBIA",
-      "virtual": true
-    },
+    "virtual": true
+  },
   {
     "icao": "WAL",
     "name": "Willow Airlines",
@@ -297,7 +297,7 @@
     "icao": "FXC",
     "name": "Flexy Cargo",
     "callsign": "FLEXCARGO",
-     "virtual": true
+    "virtual": true
   },
   {
     "icao": "CAL",
@@ -351,13 +351,13 @@
     "icao": "GEC",
     "name": "vDLH",
     "callsign": "Lufthansa Cargo",
-     "virtual": true
+    "virtual": true
   },
   {
     "icao": "RYR",
     "name": "vRYR",
     "callsign": "RYANAIR",
-     "virtual": true
+    "virtual": true
   },
   {
     "icao": "HEC",
@@ -365,12 +365,12 @@
     "callsign": "Hermann Cargo",
     "virtual": true
   },
-    {
+  {
     "icao": "CZN",
     "name": "Cruizing Air",
     "callsign": "Cruizing",
-      "virtual": true
-    },
+    "virtual": true
+  },
   {
     "icao": "IBE",
     "name": "vIBE",
@@ -1025,24 +1025,53 @@
     "callsign": "Euroflyer",
     "virtual": true
   },
-    {
+  {
     "icao": "VLG",
     "name": "Virtual Vueling",
     "callsign": "Vueling",
-      "virtual": true
-    },
+    "virtual": true
+  },
   {
     "icao": "EUF",
     "name": "EuroFly",
     "callsign": "EUROFLY",
     "country": "GERMANY",
-     "virtual": true
+    "virtual": true
   },
   {
     "icao": "LGS",
     "name": "Le Groupe VA",
     "callsign": "LEGROUPE",
     "virtual": true
+  },
+  {
+    "icao": "ROA",
+    "name": "Roraima Airlines",
+    "callsign": "RORAIMA",
+    "virtual": true
+  },
+  {
+    "icao": "PRU",
+    "name": "Paramount Air",
+    "callsign": "PARAMOUNT",
+    "virtual": true
+  },
+  {
+    "icao": "CHH",
+    "name": "Virtual Hainan Airline",
+    "callsign": "HAINAN",
+    "virtual": true
+  },
+  {
+    "icao": "DER",
+    "name": "Virtual Deer Jet",
+    "callsign": "DEER JET",
+    "virtual": true
+  },
+  {
+    "icao": "BDJ",
+    "name": "Virtual Deer Jet Beijing",
+    "callsign": "CROWN JET",
+    "virtual": true
   }
 ]
-
