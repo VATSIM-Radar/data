@@ -1043,6 +1043,24 @@
     "name": "Le Groupe VA",
     "callsign": "LEGROUPE",
     "virtual": true
-  }
+  },
+  {
+    "icao": "AIC",
+    "name": "Air India Virtual",
+    "callsign": "AIRINDIA",
+    "virtual": true
+  },
+  {
+    "icao": "AXB",
+    "name": "Air India Virtual",
+    "callsign": "EXPRESS INDIA",
+    "virtual": true
+  },
+  {
+    "icao": "LLR",
+    "name": "Air India Virtual",
+    "callsign": "ALLIED",
+    "virtual": true
+  }  
 ]
 
