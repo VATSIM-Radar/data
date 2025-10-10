@@ -1043,6 +1043,12 @@
     "name": "Le Groupe VA",
     "callsign": "LEGROUPE",
     "virtual": true
+  },
+  {
+    "icao": "AKU",
+    "name": "Air Koru",
+    "callsign": "KORU",
+    "virtual": true
   }
 ]
 
