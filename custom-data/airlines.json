@@ -1044,5 +1044,41 @@
     "callsign": "LEGROUPE",
     "virtual": true
   }
+  {
+    "icao": "AIC",
+    "name": "Golden Age Aviation",
+    "callsign": "AIR INDIA",
+    "virtual": true
+  }
+  {
+    "icao": "JAI",
+    "name": "Golden Age Aviation",
+    "callsign": "JET AIRWAYS",
+    "virtual": true
+  }
+  {
+    "icao": "KFR",
+    "name": "Golden Age Aviation",
+    "callsign": "KINGFISHER",
+    "virtual": true
+  }
+  {
+    "icao": "AIC",
+    "name": "Golden Age Aviation",
+    "callsign": "Air India",
+    "virtual": true
+  }
+  {
+    "icao": "ETD",
+    "name": "Golden Age Aviation",
+    "callsign": "ETIHAD",
+    "virtual": true
+  }
+  {
+    "icao": "COA",
+    "name": "Golden Age Aviation",
+    "callsign": "CONTINENTAL",
+    "virtual": true
+  }
 ]
 
