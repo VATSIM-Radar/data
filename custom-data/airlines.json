@@ -1043,6 +1043,12 @@
     "name": "Le Groupe VA",
     "callsign": "LEGROUPE",
     "virtual": true
+  },
+  {
+    "icao": "VAF",
+    "name": "Flying Friend VA",
+    "callsign": "SkyFriend",
+    "virtual": true
   }
 ]
 
