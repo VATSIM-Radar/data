@@ -1,4 +1,10 @@
 [
+   {
+    "icao": "PRU",
+    "name": "Paramount Airways",
+    "callsign": "Paramount",
+    "virtual": true
+  },
   {
     "icao": "CWG",
     "name": "Chickenwings Virtual Airline",
@@ -229,19 +235,19 @@
   },
   {
     "icao": "MXB",
-    "name": "MOCKINGBIRD",
+    "name": "MockingBird Air",
     "callsign": "MOCKINGBIRD",
     "virtual": true
   },
   {
     "icao": "HXB",
-    "name": "KOLIBRI",
+    "name": "MockingBird Air",
     "callsign": "KOLIBRI",
     "virtual": true
   },
   {
     "icao": "MBC",
-    "name": "CARGOBIRD",
+    "name": "MockingBird Air",
     "callsign": "CARGOBIRD",
     "virtual": true
   },
@@ -261,7 +267,7 @@
     "icao": "IGO",
     "name": "Indigo Virtual",
     "callsign": "IFLY",
- "virtual": true
+    "virtual": true
   },
   {
     "icao": "BEL",
@@ -269,12 +275,12 @@
     "callsign": "BEELINE",
     "virtual": true
   },
-    {
+  {
     "icao": "ASL",
     "name": "Air Serbia Virtual",
     "callsign": "AIR SERBIA",
-      "virtual": true
-    },
+    "virtual": true
+  },
   {
     "icao": "WAL",
     "name": "Willow Airlines",
@@ -297,7 +303,7 @@
     "icao": "FXC",
     "name": "Flexy Cargo",
     "callsign": "FLEXCARGO",
-     "virtual": true
+    "virtual": true
   },
   {
     "icao": "CAL",
@@ -343,21 +349,21 @@
   },
   {
     "icao": "BOX",
-    "name": "vDLH",
+    "name": "German Cargo",
     "callsign": "German Cargo",
-    "virtual": true
+    "virtual": false
   },
   {
     "icao": "GEC",
-    "name": "vDLH",
+    "name": "Lufthansa Cargo",
     "callsign": "Lufthansa Cargo",
-     "virtual": true
+    "virtual": false
   },
   {
     "icao": "RYR",
     "name": "vRYR",
     "callsign": "RYANAIR",
-     "virtual": true
+    "virtual": true
   },
   {
     "icao": "HEC",
@@ -365,12 +371,12 @@
     "callsign": "Hermann Cargo",
     "virtual": true
   },
-    {
+  {
     "icao": "CZN",
     "name": "Cruizing Air",
     "callsign": "Cruizing",
-      "virtual": true
-    },
+    "virtual": true
+  },
   {
     "icao": "IBE",
     "name": "vIBE",
@@ -1025,18 +1031,18 @@
     "callsign": "Euroflyer",
     "virtual": true
   },
-    {
+  {
     "icao": "VLG",
     "name": "Virtual Vueling",
     "callsign": "Vueling",
-      "virtual": true
-    },
+    "virtual": true
+  },
   {
     "icao": "EUF",
     "name": "EuroFly",
     "callsign": "EUROFLY",
     "country": "GERMANY",
-     "virtual": true
+    "virtual": true
   },
   {
     "icao": "LGS",
@@ -1050,5 +1056,99 @@
     "callsign": "Euroscot",
     "virtual": true
   },
+  {
+    "icao": "VAF",
+    "name": "Flying Friend VA",
+    "callsign": "SkyFriend",
+    "virtual": true
+  },
+    {
+    "icao": "THA",
+    "name": "Thai Airways Virtual",
+    "callsign": "THAI",
+    "virtual": true
+  },
+  {
+    "icao": "AKU",
+    "name": "Air Koru",
+    "callsign": "KORU",
+    "virtual": true
+  },
+  {
+    "icao": "CHH",
+    "name": "Virtual Hainan Airline",
+    "callsign": "HAINAN",
+    "virtual": true
+  },
+  {
+    "icao": "DER",
+    "name": "Virtual Deer Jet",
+    "callsign": "DEER JET",
+    "virtual": true
+  },
+  {
+    "icao": "BDJ",
+    "name": "Virtual Deer Jet Beijing",
+    "callsign": "CROWN JET",
+    "virtual": true
+  },
+  {
+    "icao": "C",
+    "name": "United States Coast Guard",
+    "callsign": "COAST GUARD",
+    "country": "UNITED STATES",
+     "virtual": false
+  },
+  {
+    "icao": "A",
+    "name": "United States Air Force",
+    "callsign": "AIR FORCE",
+    "country": "UNITED STATES",
+     "virtual": false
+  },
+  {
+    "icao": "AF",
+    "name": "United States Air Force",
+    "callsign": "AIR FORCE",
+    "country": "UNITED STATES",
+     "virtual": false
+  },
+  {
+    "icao": "G",
+    "name": "United States Air National Guard",
+    "callsign": "AIR GUARD",
+    "country": "UNITED STATES",
+     "virtual": false
+  },
+  {
+    "icao": "R",
+    "name": "United States Army",
+    "callsign": "ARMY",
+    "country": "UNITED STATES",
+     "virtual": false
+  },
+   {
+    "icao": "NBO",
+    "name": "Noble Aviation",
+    "callsign": "NOBLE",
+    "virtual": true
+  },
+  {
+    "icao": "AIC",
+    "name": "Air India Virtual",
+    "callsign": "AIRINDIA",
+    "virtual": true
+  },
+  {
+    "icao": "AXB",
+    "name": "Air India Virtual",
+    "callsign": "EXPRESS INDIA",
+    "virtual": true
+  },
+  {
+    "icao": "LLR",
+    "name": "Air India Virtual",
+    "callsign": "ALLIED",
+    "virtual": true
+  }  
 ]
-
