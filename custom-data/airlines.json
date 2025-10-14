@@ -1050,6 +1050,12 @@
     "callsign": "LEGROUPE",
     "virtual": true
   },
+  {
+    "icao": "VAF",
+    "name": "Flying Friend VA",
+    "callsign": "SkyFriend",
+    "virtual": true
+  },
     {
     "icao": "THA",
     "name": "Thai Airways Virtual",
