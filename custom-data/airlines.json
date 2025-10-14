@@ -1084,7 +1084,8 @@
     "callsign": "ARMY",
     "country": "UNITED STATES",
      "virtual": false
-  }
+  },
+   {
     "icao": "NBO",
     "name": "Noble Aviation",
     "callsign": "NOBLE",
