@@ -1050,6 +1050,12 @@
     "callsign": "LEGROUPE",
     "virtual": true
   },
+    {
+    "icao": "THA",
+    "name": "Thai Airways Virtual",
+    "callsign": "THAI",
+    "virtual": true
+  },
   {
     "icao": "AKU",
     "name": "Air Koru",
