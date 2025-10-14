@@ -1051,6 +1051,12 @@
     "virtual": true
   },
   {
+    "icao": "AKU",
+    "name": "Air Koru",
+    "callsign": "KORU",
+    "virtual": true
+  },
+  {
     "icao": "CHH",
     "name": "Virtual Hainan Airline",
     "callsign": "HAINAN",
