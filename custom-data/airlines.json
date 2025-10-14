@@ -1050,11 +1050,5 @@
     "callsign": "Euroscot",
     "virtual": true
   },
-  {
-    "icao": "SCO",
-    "name": "Euroscot/Air Scotland Virtual",
-    "callsign": "Braveheart",
-    "virtual": true
-  }
 ]
 
