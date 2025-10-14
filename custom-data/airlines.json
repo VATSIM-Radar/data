@@ -343,15 +343,15 @@
   },
   {
     "icao": "BOX",
-    "name": "vDLH",
+    "name": "German Cargo",
     "callsign": "German Cargo",
-    "virtual": true
+    "virtual": false
   },
   {
     "icao": "GEC",
-    "name": "vDLH",
+    "name": "Lufthansa Cargo",
     "callsign": "Lufthansa Cargo",
-     "virtual": true
+     "virtual": false
   },
   {
     "icao": "RYR",
@@ -1050,5 +1050,22 @@
     "callsign": "NOBLE",
     "virtual": true
   }
+    "icao": "AIC",
+    "name": "Air India Virtual",
+    "callsign": "AIRINDIA",
+    "virtual": true
+  },
+  {
+    "icao": "AXB",
+    "name": "Air India Virtual",
+    "callsign": "EXPRESS INDIA",
+    "virtual": true
+  },
+  {
+    "icao": "LLR",
+    "name": "Air India Virtual",
+    "callsign": "ALLIED",
+    "virtual": true
+  }  
 ]
 
