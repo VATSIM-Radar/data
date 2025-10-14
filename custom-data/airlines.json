@@ -1051,12 +1051,6 @@
     "virtual": true
   },
   {
-    "icao": "ROA",
-    "name": "Roraima Airlines",
-    "callsign": "RORAIMA",
-    "virtual": true
-  },
-  {
     "icao": "PRU",
     "name": "Paramount Air",
     "callsign": "PARAMOUNT",
