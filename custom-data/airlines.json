@@ -354,18 +354,6 @@
      "virtual": false
   },
   {
-    "icao": "BOX",
-    "name": "vDLH",
-    "callsign": "German Cargo",
-    "virtual": true
-  },
-  {
-    "icao": "GEC",
-    "name": "vDLH",
-    "callsign": "Lufthansa Cargo",
-    "virtual": true
-  },
-  {
     "icao": "RYR",
     "name": "vRYR",
     "callsign": "RYANAIR",
