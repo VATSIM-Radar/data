@@ -1051,12 +1051,6 @@
     "virtual": true
   },
   {
-    "icao": "PRU",
-    "name": "Paramount Air",
-    "callsign": "PARAMOUNT",
-    "virtual": true
-  },
-  {
     "icao": "CHH",
     "name": "Virtual Hainan Airline",
     "callsign": "HAINAN",
