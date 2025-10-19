@@ -1151,4 +1151,8 @@
     "callsign": "ALLIED",
     "virtual": true
   }  
-]
+    "icao": "ITW",
+    "name": "inter - wings",
+    "callsign": "INTERWINGS",
+    "virtual": true
+  },
