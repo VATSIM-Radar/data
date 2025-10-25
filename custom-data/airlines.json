@@ -1,4 +1,8 @@
-[
+    "icao": "IWA",
+    "name": "inter-wings",
+    "callsign": "INTERWINGS",
+    "virtual": true
+  },
    {
     "icao": "PRU",
     "name": "Paramount Airways",
