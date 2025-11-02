@@ -1151,4 +1151,10 @@
     "callsign": "ALLIED",
     "virtual": true
   }  
+   {
+    "icao": "PLI",
+    "name": "Polaris Airlines",
+    "callsign": "Northern Sky",
+    "virtual": true
+  }  
 ]
