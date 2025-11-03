@@ -1150,5 +1150,10 @@
     "name": "Air India Virtual",
     "callsign": "ALLIED",
     "virtual": true
-  }  
+   },
+  {  
+    "icao": "NEA",
+    "name": "New England Virtual",
+    "callsign": "NEW ENGLAND",
+    "virtual": true
 ]
