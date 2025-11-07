@@ -11,7 +11,7 @@
     "@types/node": "^24.10.0",
     "nitropack": "^2.12.9"
   },
-  "packageManager": "yarn@4.10.3",
+  "packageManager": "yarn@4.11.0",
   "dependencies": {
     "croner": "^9.1.0"
   }
