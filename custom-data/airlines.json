@@ -1150,5 +1150,11 @@
     "name": "Air India Virtual",
     "callsign": "ALLIED",
     "virtual": true
+  },
+  {
+    "icao": "FLX",
+    "name": "FlyMax Virtual Airlines",
+    "callsign": "FLYMAX",
+    "virtual": true
   }  
 ]
