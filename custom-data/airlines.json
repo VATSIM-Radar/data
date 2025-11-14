@@ -1150,5 +1150,11 @@
     "name": "Air India Virtual",
     "callsign": "ALLIED",
     "virtual": true
-  }  
+  },
+  {
+     "icao": "VAT",
+    "name": "CAT Virtual Airline",
+    "callsign": "MEOW",
+    "virtual": true
+  } 
 ]
