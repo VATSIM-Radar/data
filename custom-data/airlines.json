@@ -1,5 +1,11 @@
 [
-   {
+  {
+    "icao": "EWG",
+    "name": "vEWG",
+    "callsign": "Eurowings",
+    "virtual": true
+  },
+  {
     "icao": "PRU",
     "name": "Paramount Airways",
     "callsign": "Paramount",
