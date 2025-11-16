@@ -1150,5 +1150,10 @@
     "name": "Air India Virtual",
     "callsign": "ALLIED",
     "virtual": true
-  }  
+ },
+  {
+    "icao": "PLX",
+    "name": "Polaris Airlines",
+    "callsign": "NORTHERN SKY",
+    "virtual": true 
 ]
