@@ -1150,5 +1150,11 @@
     "name": "Air India Virtual",
     "callsign": "ALLIED",
     "virtual": true
+  },
+  {
+    "icao": "ACA",
+    "name": "Virtual Air Canada Airlines (VACA)",
+    "callsign": "Air Canada",
+    "virtual": true 
   }  
 ]
