@@ -1150,5 +1150,11 @@
     "name": "Air India Virtual",
     "callsign": "ALLIED",
     "virtual": true
+  },
+  {
+    "icao": "LOG",
+    "name": "vLoganair",
+    "callsign": "LOGAN",
+    "virtual": true
   }  
 ]
