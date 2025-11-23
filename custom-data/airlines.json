@@ -1103,7 +1103,7 @@
     "name": "United States Coast Guard",
     "callsign": "COAST GUARD",
     "country": "UNITED STATES",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "A",
