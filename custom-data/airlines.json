@@ -1,5 +1,11 @@
 [
-   {
+  {
+    "icao": "EWG",
+    "name": "vEWG",
+    "callsign": "Eurowings",
+    "virtual": true
+  },
+  {
     "icao": "PRU",
     "name": "Paramount Airways",
     "callsign": "Paramount",
@@ -1162,5 +1168,65 @@
     "name": "AeroLuxFly Executive",
     "callsign": "LUXJET",
     "virtual": true
-  }   
+ },
+  {
+    "icao": "PLX",
+    "name": "Polaris Airlines",
+    "callsign": "NORTHERN SKY",
+    "virtual": true 
+  },
+  {
+    "icao": "LOG",
+    "name": "vLoganair",
+    "callsign": "LOGAN",
+    "virtual": true
+  },
+  {
+    "icao": "ACA",
+    "name": "Virtual Air Canada Airlines",
+    "callsign": "Air Canada",
+    "virtual": true 
+  },
+  {
+     "icao": "VAT",
+    "name": "CAT Virtual Airline",
+    "callsign": "MEOW",
+     "virtual": true
+   },
+  {  
+    "icao": "NEA",
+    "name": "New England Virtual",
+    "callsign": "NEW ENGLAND",
+    "virtual": true
+  },
+  {
+    "icao": "ZIG",
+    "name": "LeapAir",
+    "callsign": "LEAPAIR",
+    "virtual": true
+  },
+  {
+    "icao": "PHENX",
+    "name": "Phoenix AirV",
+    "callsign": "PHOENIX",
+    "virtual": true
+  },
+   {
+    "icao": "NOX",
+    "name": "Nox Airlines",
+    "callsign": "noxair",
+    "virtual": true
+  },
+  {
+    "icao": "HUN",
+    "name": "Hungarian Airlines",
+    "callsign": "HUNGARIAN",
+    "virtual": true
+  }, 
+  {
+    "icao": "MAU",
+    "name": "Air Mauritius Virtual",
+    "callsign": "Air Mauritius",
+    "virtual": true
+  } 
 ]
