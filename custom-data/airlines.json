@@ -1156,5 +1156,29 @@
     "name": "LeapAir",
     "callsign": "LEAPAIR",
     "virtual": true
-  }
+  },
+  {
+    "icao": "PHENX",
+    "name": "Phoenix AirV",
+    "callsign": "PHOENIX",
+    "virtual": true
+  },
+   {
+    "icao": "NOX",
+    "name": "Nox Airlines",
+    "callsign": "noxair",
+    "virtual": true
+  },
+  {
+    "icao": "HUN",
+    "name": "Hungarian Airlines",
+    "callsign": "HUNGARIAN",
+    "virtual": true
+  }, 
+  {
+    "icao": "MAU",
+    "name": "Air Mauritius Virtual",
+    "callsign": "Air Mauritius",
+    "virtual": true
+  } 
 ]
