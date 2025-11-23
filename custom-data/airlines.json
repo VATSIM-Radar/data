@@ -1158,6 +1158,12 @@
     "virtual": true
   },
   {
+    "icao": "ACA",
+    "name": "Virtual Air Canada Airlines",
+    "callsign": "Air Canada",
+    "virtual": true 
+  },
+  {
      "icao": "VAT",
     "name": "CAT Virtual Airline",
     "callsign": "MEOW",
