@@ -1158,6 +1158,12 @@
     "virtual": true
   },
   {
+    "icao": "LOG",
+    "name": "vLoganair",
+    "callsign": "LOGAN",
+    "virtual": true
+  },
+  {
     "icao": "ACA",
     "name": "Virtual Air Canada Airlines",
     "callsign": "Air Canada",
