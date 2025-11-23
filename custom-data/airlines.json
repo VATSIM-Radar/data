@@ -1150,6 +1150,12 @@
     "name": "Air India Virtual",
     "callsign": "ALLIED",
     "virtual": true
+  },
+  {
+    "icao": "HUN",
+    "name": "Hungarian Airlines",
+    "callsign": "HUNGARIAN",
+    "virtual": true
   }, 
   {
     "icao": "MAU",
