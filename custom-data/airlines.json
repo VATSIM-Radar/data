@@ -1151,6 +1151,12 @@
     "callsign": "ALLIED",
     "virtual": true
   },
+  {
+    "icao": "PHENX",
+    "name": "Phoenix AirV",
+    "callsign": "PHOENIX",
+    "virtual": true
+  },
    {
     "icao": "NOX",
     "name": "Nox Airlines",
