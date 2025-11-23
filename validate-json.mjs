@@ -18,6 +18,11 @@ const allowed = [
 
 for(let i = 0; i < json.length; i++){
     const airline = json[i]
-    if (airlines.some(x => x.icao === airline.icao) && (!allowed.includes(airline.icao) || json.some((x, index) => x.icao === airline.icao && index !== i))) throw new Error(`${airline.icao} virtual airline already exists`)
+
+    const duplicateAirline = airlines.find(x => x.icao === airline.icao);
+
+    if (duplicateAirline && (!('virtual' in duplicateAirline) || duplicateAirline.virtual === airline.virtual) && (!allowed.includes(airline.icao) || json.some((x, index) => x.icao === airline.icao && index !== i))) {
+        throw new Error(`${airline.icao} virtual airline already exists`)
+    }
     airlines.push(airline)
 }

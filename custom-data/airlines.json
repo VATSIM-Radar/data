@@ -1106,6 +1106,13 @@
     "virtual": false
   },
   {
+    "icao": "C",
+    "name": "United States Coast Guard Virtual",
+    "callsign": "COAST GUARD",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
     "icao": "A",
     "name": "United States Air Force",
     "callsign": "AIR FORCE",
