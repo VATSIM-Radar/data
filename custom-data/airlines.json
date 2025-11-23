@@ -1152,6 +1152,12 @@
     "virtual": true
   },
   {
+    "icao": "ZIG",
+    "name": "LeapAir",
+    "callsign": "LEAPAIR",
+    "virtual": true
+  },
+  {
     "icao": "PHENX",
     "name": "Phoenix AirV",
     "callsign": "PHOENIX",
