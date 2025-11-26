@@ -1235,5 +1235,25 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
-  }
+  },
+    "icao": "SAS",
+    "name": "virtual Scandanavian Airlines",
+    "callsign": "Scandanavian",
+    "virtual": true
+  },
+    "icao": "SZS",
+    "name": "virtual Scandanavian Airlines",
+    "callsign": "Spinnaker",
+    "virtual": true
+  },
+     "icao": "SVS",
+    "name": "virtual Scandanavian Airlines",
+    "callsign": "Discover",
+    "virtual": true
+  }, 
+     "icao": "BLF",
+    "name": "virtual Scandanavian Airlines",
+    "callsign": "Bluefin",
+    "virtual": true
+  } 
 ]
