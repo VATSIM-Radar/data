@@ -1235,5 +1235,17 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
+  },
+  {
+    "icao": "QTR",
+    "name": "Oryx Virtual",
+    "callsign": "QATARI",
+    "virtual": true
+  },
+  {
+    "icao": "QQE",
+    "name": "Oryx Executive",
+    "callsign": "QREX",
+    "virtual": true
   }
 ]
