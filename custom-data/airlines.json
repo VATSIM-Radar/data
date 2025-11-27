@@ -1247,5 +1247,11 @@
     "name": "Air Spain Cargo Virtual",
     "callsign": "Airspaincargo",
     "virtual": true
+  },
+  {
+    "icao": "IWA",
+    "name": "inter-wings",
+    "callsign": "INTERWINGS",
+    "virtual": true
   }
 ]
