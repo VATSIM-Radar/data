@@ -1235,5 +1235,17 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
+  },
+  {
+    "icao": "XSN",
+    "name": "Air Spain Virtual",
+    "callsign": "Airspain",
+    "virtual": true
+  },
+  {
+    "icao": "XSC",
+    "name": "Air Spain Cargo Virtual",
+    "callsign": "Airspaincargo",
+    "virtual": true
   }
 ]
