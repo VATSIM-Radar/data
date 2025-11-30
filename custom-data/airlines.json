@@ -1235,5 +1235,28 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
+  },
+{
+    "icao": "VTI",
+    "name": "TATA SIA Airlines",
+    "callsign": "VISTARA",
+    "virtual": true
+  },
+   {
+    "icao": "ICE",
+    "name": "Icelandair Group",
+    "callsign": "ICEAIR",
+    "virtual": true
+  },
+   {
+    "icao": "JAI",
+    "name": "Jet Airways",
+    "callsign": "JAI",
+    "virtual": true
+  },
+   {
+    "icao": "KFR",
+    "name": "Kingfisher Airlines",
+    "callsign": "KFR",
+    "virtual": true
   }
-]
