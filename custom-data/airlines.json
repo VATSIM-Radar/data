@@ -1235,5 +1235,10 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
+  },
+  {
+    "icao": "SJX",
+    "name":"Virtual Starlux Airlines",
+    "callsign": "Starwalker",
+    "virtual": true
   }
-]
