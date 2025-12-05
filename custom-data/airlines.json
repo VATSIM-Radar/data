@@ -1,4 +1,16 @@
-[
+[ 
+  { 
+  "icao": "CFG",
+    "name": "vCFG",
+    "callsign": "Condor",
+    "virtual": true
+  },
+  {
+   "icao": "SAS",
+    "name": "vSAS",
+    "callsign": "Scandinavian",
+    "virtual": true
+  },
   {
     "icao": "EWG",
     "name": "vEWG",
