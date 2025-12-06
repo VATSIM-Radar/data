@@ -1236,4 +1236,28 @@
     "callsign": "Air Mauritius",
     "virtual": true
   }
+  {
+    "icao": "SAS",
+    "name": "vSAS - virtual Scandinavian Airlines",
+    "callsign": "SCANDINAVIAN",
+    "virtual": true
+  },
+  {
+    "icao": "NOZ",
+    "name": "vNorwegian",
+    "callsign": "NORDIC",
+    "virtual": true
+  },
+  {
+    "icao": "NSZ",
+    "name": "vNorwegian",
+    "callsign": "REDNOSE",
+    "virtual": true
+  },
+  {
+    "icao": "WIF",
+    "name": "vNorwegian",
+    "callsign": "WIDEROE",
+    "virtual": true
+  },
 ]
