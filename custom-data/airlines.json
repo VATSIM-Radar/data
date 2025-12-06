@@ -1235,5 +1235,23 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
+  },
+  {
+    "icao": "ETD",
+    "name": "Etihad Airways",
+    "callsign": "ETIHAD",
+    "virtual": true
+  },
+  {
+    "icao": "COA",
+    "name": "Continental Airlines",
+    "callsign": "CONTINENTAL",
+    "virtual": true
+  },
+  {
+    "icao": "DRK",
+    "name": "Drukair Corporation Limited",
+    "callsign": "ROYAL BHUTAN",
+    "virtual": true
   }
 ]
