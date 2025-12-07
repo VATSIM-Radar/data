@@ -1236,4 +1236,22 @@
     "callsign": "Air Mauritius",
     "virtual": true
   }
+    {
+    "icao": "EUS",
+    "name": "Euroscot Virtual",
+    "callsign": "Euroscot",
+    "virtual": true
+  },
+    {
+    "icao": "SCO",
+    "name": "Air Scotland Virtual",
+    "callsign": "Braveheart",
+    "virtual": true
+  },
+    {
+    "icao": "SCC",
+    "name": "Air Scotland Cargo Virtual",
+    "callsign": "Braveheart-Cargo",
+    "virtual": true
+  },
 ]
