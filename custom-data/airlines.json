@@ -348,6 +348,12 @@
     "virtual": true
   },
   {
+    "icao": "AAR",
+    "name": "Virtual Asiana Airlines",
+    "callsign": "Asiana",
+    "virtual": true
+  },
+  {
     "icao": "AAL",
     "name": "American Virtual",
     "callsign": "American",
