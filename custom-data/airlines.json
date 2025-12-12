@@ -126,6 +126,12 @@
     "virtual": true
   },
   {
+    "icao": "EXU",
+    "name": "EXECUTIVE AIRLINES VIRTUAL",
+    "callsign": "SACIR",
+    "virtual": true
+  },
+  {
     "icao": "WTB",
     "name": "Air Wuerttemberg",
     "callsign": "EMBERG",
