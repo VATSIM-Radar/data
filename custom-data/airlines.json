@@ -1235,5 +1235,155 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
+  },
+    {
+    "icao": "EZY",
+    "name": "vEZY",
+    "callsign": "Easy",
+    "virtual": true
+  },
+  {
+    "icao": "EJU",
+    "name": "vEZY",
+    "callsign": "Alpine",
+    "virtual": true
+  },
+  {
+    "icao": "EZS",
+    "name": "vEZY",
+    "callsign": "Topswiss",
+    "virtual": true
+  },
+  {
+    "icao": "ABX",
+    "name": "vDHL Group",
+    "callsign": "Abex",
+    "virtual": true
+  },
+  {
+    "icao": "AHK",
+    "name": "vDHL Group",
+    "callsign": "Air Hong Kong",
+    "virtual": true
+  },
+  {
+    "icao": "BCS",
+    "name": "vDHL Group",
+    "callsign": "Postman",
+    "virtual": true
+  },
+  {
+    "icao": "BDA",
+    "name": "vDHL Group",
+    "callsign": "Blue Dart",
+    "virtual": true
+  },
+  {
+    "icao": "BOX",
+    "name": "vDHL Group",
+    "callsign": "German Cargo",
+    "virtual": true
+  },
+  {
+    "icao": "CJT",
+    "name": "vDHL Group",
+    "callsign": "Cargojet",
+    "virtual": true
+  },
+  {
+    "icao": "CKS",
+    "name": "vDHL Group",
+    "callsign": "Connie",
+    "virtual": true
+  },
+  {
+    "icao": "CSB",
+    "name": "vDHL Group",
+    "callsign": "Cargo South",
+    "virtual": true
+  },
+  {
+    "icao": "DAE",
+    "name": "vDHL Group",
+    "callsign": "Yellow",
+    "virtual": true
+  },
+  {
+    "icao": "DHK",
+    "name": "vDHL Group",
+    "callsign": "World Express",
+    "virtual": true
+  },
+  {
+    "icao": "DHV",
+    "name": "vDHL Group",
+    "callsign": "Worldstar",
+    "virtual": true
+  },
+  {
+    "icao": "DHX",
+    "name": "vDHL Group",
+    "callsign": "Dilmun",
+    "virtual": true
+  },
+  {
+    "icao": "GHN",
+    "name": "vDHL Group",
+    "callsign": "World Express",
+    "virtual": true
+  },
+  {
+    "icao": "JOS",
+    "name": "vDHL Group",
+    "callsign": "Juliet Oscar Sierra",
+    "virtual": true
+  },
+  {
+    "icao": "HLF",
+    "name": "vDHL Group",
+    "callsign": "Homeland",
+    "virtual": true
+  },
+  {
+    "icao": "KII",
+    "name": "vDHL Group",
+    "callsign": "Dragster",
+    "virtual": true
+  },
+  {
+    "icao": "PAC",
+    "name": "vDHL Group",
+    "callsign": "Polar",
+    "virtual": true
+  },
+  {
+    "icao": "SIA",
+    "name": "vDHL Group",
+    "callsign": "Singapore",
+    "virtual": true
+  },
+  {
+    "icao": "SIV",
+    "name": "vDHL Group",
+    "callsign": "Solent Ivoire",
+    "virtual": true
+  },
+  {
+    "icao": "SVG",
+    "name": "vDHL Group",
+    "callsign": "Solvanta",
+    "virtual": true
+  },
+  {
+    "icao": "TMN",
+    "name": "vDHL Group",
+    "callsign": "Tasman",
+    "virtual": true
+  },
+  {
+    "icao": "VEC",
+    "name": "vDHL Group",
+    "callsign": "Vecar",
+    "virtual": true
   }
 ]
