@@ -1297,12 +1297,6 @@
     "virtual": true
   },
   {
-    "icao": "CSB",
-    "name": "vDHL Group",
-    "callsign": "Cargo South",
-    "virtual": true
-  },
-  {
     "icao": "DAE",
     "name": "vDHL Group",
     "callsign": "Yellow",
