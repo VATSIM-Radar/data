@@ -1345,12 +1345,6 @@
     "virtual": true
   },
   {
-    "icao": "SIA",
-    "name": "vDHL Group",
-    "callsign": "Singapore",
-    "virtual": true
-  },
-  {
     "icao": "SIV",
     "name": "vDHL Group",
     "callsign": "Solent Ivoire",
