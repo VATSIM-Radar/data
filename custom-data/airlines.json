@@ -1333,12 +1333,6 @@
     "virtual": true
   },
   {
-    "icao": "HLF",
-    "name": "vDHL Group",
-    "callsign": "Homeland",
-    "virtual": true
-  },
-  {
     "icao": "KII",
     "name": "vDHL Group",
     "callsign": "Dragster",
