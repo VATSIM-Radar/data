@@ -6,6 +6,12 @@
     "virtual": true
   },
   {
+    "icao": "CST",
+    "name": "Coastal Airways",
+    "callsign": "Riptide",
+    "virtual": true
+  },
+  {
     "icao": "PRU",
     "name": "Paramount Airways",
     "callsign": "Paramount",
