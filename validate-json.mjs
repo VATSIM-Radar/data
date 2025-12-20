@@ -1,4 +1,4 @@
-mport {readFileSync} from "node:fs";
+import {readFileSync} from "node:fs";
 import {join} from "path";
 
 const json = JSON.parse(readFileSync(join(import.meta.dirname, 'custom-data', 'airlines.json'), 'utf-8'));
