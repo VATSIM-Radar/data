@@ -1235,5 +1235,17 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
+  },
+  {
+    "icao": "YUM",
+    "name": "Yume Wings",
+    "callsign": "DREAM WING",
+    "virtual": true
+  },
+  {
+    "icao": "YEC",
+    "name": "Yume Cargo",
+    "callsign": "DREAM CARGO",
+    "virtual": true
   }
 ]
