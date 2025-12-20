@@ -1,4 +1,4 @@
-import {readFileSync} from "node:fs";
+mport {readFileSync} from "node:fs";
 import {join} from "path";
 
 const json = JSON.parse(readFileSync(join(import.meta.dirname, 'custom-data', 'airlines.json'), 'utf-8'));
@@ -13,7 +13,8 @@ const allowed = [
     'HXB',
     'MBC',
     'SKS',
-    'HEC'
+    'HEC',
+    'NBO'
 ]
 
 for(let i = 0; i < json.length; i++){
