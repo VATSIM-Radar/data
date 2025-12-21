@@ -6,6 +6,12 @@
     "virtual": true
   },
   {
+    "icao": "APA",
+    "name": "Airway Philippines",
+    "callsign": "Airway",
+    "virtual": true
+  },
+  {
     "icao": "PRU",
     "name": "Paramount Airways",
     "callsign": "Paramount",
@@ -1234,12 +1240,6 @@
     "icao": "MAU",
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
-    "virtual": true
-  },
-  {
-    "icao": "APA",
-    "name": "Airway Philippines",
-    "callsign": "Airway",
     "virtual": true
   }
 ]
