@@ -1236,4 +1236,10 @@
     "callsign": "Air Mauritius",
     "virtual": true
   }
+  {
+    "icao": "APA",
+    "name": "Airway Philippines",
+    "callsign": "Airway",
+    "virtual": true
+  }
 ]
