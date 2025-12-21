@@ -1235,5 +1235,11 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
+  },
+  {
+    "icao": "URO",
+    "name": "European Cargo Virtual",
+    "callsign": "EURO",
+    "virtual": true
   }
 ]
