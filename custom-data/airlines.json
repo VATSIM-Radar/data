@@ -1235,5 +1235,17 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
-  }
+  },
+  {
+    "icao": "BON",
+    "name": "Bon Air Virtual",
+    "callsign": "Bonair",
+    "virtual": true
+  },
+  {
+    "icao": "BOC",
+    "name": "Bon Air Cargo",
+    "callsign": "Bonair Cargo",
+    "virtual": true
+  },
 ]
