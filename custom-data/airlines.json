@@ -1,5 +1,11 @@
 [
   {
+    "icao": "SOG",
+    "name": "Silk Thread Logistic",
+    "callsign": "Silk Thread",
+    "virtual": true
+  },
+  {
     "icao": "EWG",
     "name": "vEWG",
     "callsign": "Eurowings",
