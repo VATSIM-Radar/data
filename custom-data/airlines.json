@@ -1237,3 +1237,9 @@
     "virtual": true
   }
 ]
+  {
+    "icao": "SJX",
+    "name": "Virtual Starlux Airlines",
+    "callsign": "STARWALKER",
+    "virtual": true
+  }
