@@ -1,5 +1,20 @@
 [
   {
+    "icao": "OCN",
+    "name": "vOCN",
+    "callsign": "Ocean",
+    "virtual": true
+  {
+    "icao": "THY",
+    "name": "vTHY",
+    "callsign": "Turkish",
+    "virtual": true
+  {
+    "icao": "VIR",
+    "name": "VRGN Virtual",
+    "callsign": "Virgin",
+    "virtual": true
+  {
     "icao": "EWG",
     "name": "vEWG",
     "callsign": "Eurowings",
