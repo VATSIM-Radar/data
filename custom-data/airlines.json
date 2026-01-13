@@ -1236,4 +1236,8 @@
     "callsign": "Air Mauritius",
     "virtual": true
   }
-]
+  {
+    "icao": "PPA",
+    "name": "POP! Airways",
+    "callsign": "Popair",
+    "virtual": true
