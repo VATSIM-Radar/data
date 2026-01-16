@@ -1229,5 +1229,270 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
+  },
+  {
+    "icao": "KQA",
+    "name": "Virtual Kenya Airways (Kenya Airways)",
+    "callsign": "KENYA",
+    "virtual": true
+  },
+  {
+    "icao": "JMA",
+    "name": "Virtual Kenya Airways (Jambojet)",
+    "callsign": "CHUI",
+    "virtual": true
+  },
+  {
+    "icao": "PRF",
+    "name": "Virtual Kenya Airways (Precision Air)",
+    "callsign": "PRECISION AIR",
+    "virtual": true
+  },
+  {
+    "icao": "SOG",
+    "name": "Silk Thread Logistic",
+    "callsign": "Silk Thread",
+    "virtual": true
+  },
+  {
+    "icao": "BBL",
+    "name": "Big B Logistics",
+    "callsign": "BIGLY",
+    "virtual": true
+  },
+  {
+    "icao": "PYC",
+    "name": "Full Stack Airlines",
+    "callsign": "FULLSTACK",
+    "virtual": true
+  },
+  {
+    "icao": "URO",
+    "name": "European Cargo Virtual",
+    "callsign": "EURO",
+    "virtual": true
+  },
+  {
+    "icao": "EZY",
+    "name": "vEZY",
+    "callsign": "Easy",
+    "virtual": true
+  },
+  {
+    "icao": "EJU",
+    "name": "vEZY",
+    "callsign": "Alpine",
+    "virtual": true
+  },
+  {
+    "icao": "EZS",
+    "name": "vEZY",
+    "callsign": "Topswiss",
+    "virtual": true
+  },
+  {
+    "icao": "ABX",
+    "name": "vDHL Group",
+    "callsign": "Abex",
+    "virtual": true
+  },
+  {
+    "icao": "AHK",
+    "name": "vDHL Group",
+    "callsign": "Air Hong Kong",
+    "virtual": true
+  },
+  {
+    "icao": "BCS",
+    "name": "vDHL Group",
+    "callsign": "Postman",
+    "virtual": true
+  },
+  {
+    "icao": "BDA",
+    "name": "vDHL Group",
+    "callsign": "Blue Dart",
+    "virtual": true
+  },
+  {
+    "icao": "BOX",
+    "name": "vDHL Group",
+    "callsign": "German Cargo",
+    "virtual": true
+  },
+  {
+    "icao": "CJT",
+    "name": "vDHL Group",
+    "callsign": "Cargojet",
+    "virtual": true
+  },
+  {
+    "icao": "CKS",
+    "name": "vDHL Group",
+    "callsign": "Connie",
+    "virtual": true
+  },
+  {
+    "icao": "DAE",
+    "name": "vDHL Group",
+    "callsign": "Yellow",
+    "virtual": true
+  },
+  {
+    "icao": "DHK",
+    "name": "vDHL Group",
+    "callsign": "World Express",
+    "virtual": true
+  },
+  {
+    "icao": "DHV",
+    "name": "vDHL Group",
+    "callsign": "Worldstar",
+    "virtual": true
+  },
+  {
+    "icao": "DHX",
+    "name": "vDHL Group",
+    "callsign": "Dilmun",
+    "virtual": true
+  },
+  {
+    "icao": "GHN",
+    "name": "vDHL Group",
+    "callsign": "World Express",
+    "virtual": true
+  },
+  {
+    "icao": "JOS",
+    "name": "vDHL Group",
+    "callsign": "Juliet Oscar Sierra",
+    "virtual": true
+  },
+  {
+    "icao": "KII",
+    "name": "vDHL Group",
+    "callsign": "Dragster",
+    "virtual": true
+  },
+  {
+    "icao": "PAC",
+    "name": "vDHL Group",
+    "callsign": "Polar",
+    "virtual": true
+  },
+  {
+    "icao": "SIV",
+    "name": "vDHL Group",
+    "callsign": "Solent Ivoire",
+    "virtual": true
+  },
+  {
+    "icao": "SVG",
+    "name": "vDHL Group",
+    "callsign": "Solvanta",
+    "virtual": true
+  },
+  {
+    "icao": "TMN",
+    "name": "vDHL Group",
+    "callsign": "Tasman",
+    "virtual": true
+  },
+  {
+    "icao": "VEC",
+    "name": "vDHL Group",
+    "callsign": "Vecar",
+    "virtual": true
+  },
+  {
+    "icao": "EXU",
+    "name": "EXECUTIVE AIRLINES VIRTUAL",
+    "callsign": "SACIR",
+    "virtual": true
+  },
+  {
+    "icao": "XTV",
+    "name": "Jet Executive",
+    "callsign": "CHAMPAGNE",
+    "virtual": true
+  },
+  {
+    "icao": "DAL",
+    "name": "Fly Delta Virtual",
+    "callsign": "Delta",
+    "virtual": true
+  },
+  {
+    "icao": "BEE",
+    "name": "vFlybe",
+    "callsign": "JERSEY",
+    "country": "UNITED KINGDOM",
+    "virtual": true
+  },
+  {
+    "icao": "AAR",
+    "name": "Virtual Asiana Airlines",
+    "callsign": "Asiana",
+    "virtual": true
+  },
+  {
+    "icao": "ETD",
+    "name": "Etihad Airways",
+    "callsign": "ETIHAD",
+    "virtual": true
+  },
+  {
+    "icao": "COA",
+    "name": "Continental Airlines",
+    "callsign": "CONTINENTAL",
+    "virtual": true
+  },
+  {
+    "icao": "DRK",
+    "name": "Drukair Corporation Limited",
+    "callsign": "ROYAL BHUTAN",
+    "virtual": true
+  },
+  {
+    "icao": "SJX",
+    "name": "Virtual Starlux Airlines",
+    "callsign": "STARWALKER",
+    "virtual": true
+  },
+  {
+    "icao": "QQE",
+    "name": "Oryx Executive",
+    "callsign": "QREX",
+    "virtual": true
+  },
+  {
+    "icao": "QAF",
+    "name": "Oryx Virtual",
+    "callsign": "AMIRI",
+    "virtual": true
+  },
+  {
+    "icao": "VTI",
+    "name": "TATA SIA Airlines",
+    "callsign": "VISTARA",
+    "virtual": true
+  },
+  {
+    "icao": "ICE",
+    "name": "Icelandair Group",
+    "callsign": "ICEAIR",
+    "virtual": true
+  },
+  {
+    "icao": "JAI",
+    "name": "Jet Airways",
+    "callsign": "JAI",
+    "virtual": true
+  },
+  {
+    "icao": "KFR",
+    "name": "Kingfisher Airlines",
+    "callsign": "KFR",
+    "virtual": true
   }
 ]
