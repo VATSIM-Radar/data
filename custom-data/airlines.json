@@ -1246,6 +1246,8 @@
     "icao": "SCC",
     "name": "Air Scotland Cargo Virtual",
     "callsign": "Braveheart-Cargo",
+      "virtual": true
+    },
   {
     "icao": "KQA",
     "name": "Virtual Kenya Airways (Kenya Airways)",
