@@ -1141,12 +1141,6 @@
     "virtual": false
   },
   {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
-    "virtual": true
-  },
-  {
     "icao": "AIC",
     "name": "Air India Virtual",
     "callsign": "AIRINDIA",
