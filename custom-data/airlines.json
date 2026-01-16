@@ -1494,5 +1494,53 @@
     "name": "Kingfisher Airlines",
     "callsign": "KFR",
     "virtual": true
+  },
+  {
+    "icao": "PPA",
+    "name": "POP! Airways",
+    "callsign": "Popair",
+    "virtual": true
+  },
+  {
+    "icao": "YUM",
+    "name": "Yume Wings",
+    "callsign": "DREAM WING",
+    "virtual": true
+  },
+  {
+    "icao": "YEC",
+    "name": "Yume Cargo",
+    "callsign": "DREAM CARGO",
+    "virtual": true
+  },
+  {
+    "icao": "SCC",
+    "name": "Air Scotland Cargo Virtual",
+    "callsign": "Braveheart-Cargo",
+    "virtual": true
+  },
+  {
+    "icao": "SAS",
+    "name": "vSAS - virtual Scandinavian Airlines",
+    "callsign": "SCANDINAVIAN",
+    "virtual": true
+  },
+  {
+    "icao": "NOZ",
+    "name": "vNorwegian",
+    "callsign": "NORDIC",
+    "virtual": true
+  },
+  {
+    "icao": "NSZ",
+    "name": "vNorwegian",
+    "callsign": "REDNOSE",
+    "virtual": true
+  },
+  {
+    "icao": "WIF",
+    "name": "vNorwegian",
+    "callsign": "WIDEROE",
+    "virtual": true
   }
 ]
