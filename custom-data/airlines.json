@@ -1235,5 +1235,23 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
+  },
+  {
+    "icao": "KQA",
+    "name": "Virtual Kenya Airways",
+    "callsign": "KENYA",
+    "virtual": true
+  },
+  {
+    "icao": "JMA",
+    "name": "Virtual Kenya Airways",
+    "callsign": "CHUI",
+    "virtual": true
+  },
+  {
+    "icao": "PRF",
+    "name": "Virtual Kenya Airways",
+    "callsign": "PRECISION AIR",
+    "virtual": true
   }
 ]
