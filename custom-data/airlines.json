@@ -1231,12 +1231,6 @@
     "virtual": true
   },
     {
-    "icao": "SCO",
-    "name": "Air Scotland Virtual",
-    "callsign": "Braveheart",
-    "virtual": true
-  },
-    {
     "icao": "SCC",
     "name": "Air Scotland Cargo Virtual",
     "callsign": "Braveheart-Cargo",
