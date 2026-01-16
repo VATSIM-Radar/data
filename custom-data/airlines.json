@@ -1057,12 +1057,6 @@
     "virtual": true
   },
   {
-    "icao": "EUS",
-    "name": "Euroscot/Air Scotland Virtual",
-    "callsign": "Euroscot",
-    "virtual": true
-  },
-  {
     "icao": "VAF",
     "name": "Flying Friend VA",
     "callsign": "SkyFriend",
