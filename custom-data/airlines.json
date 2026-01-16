@@ -1231,12 +1231,6 @@
     "virtual": true
   },
   {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
-    "virtual": true
-  },
-  {
     "icao": "KQA",
     "name": "Virtual Kenya Airways (Kenya Airways)",
     "callsign": "KENYA",
@@ -1261,27 +1255,9 @@
     "virtual": true
   },
   {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
-    "virtual": true
-  },
-  {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
-    "virtual": true
-  },
-  {
     "icao": "BBL",
     "name": "Big B Logistics",
     "callsign": "BIGLY",
-    "virtual": true
-  },
-  {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
     "virtual": true
   },
   {
@@ -1291,69 +1267,9 @@
     "virtual": true
   },
   {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
-    "virtual": true
-  },
-  {
-    "icao": "BON",
-    "name": "Bon Air Virtual",
-    "callsign": "Bonair",
-    "virtual": true
-  },
-  {
-    "icao": "BOC",
-    "name": "Bon Air Cargo",
-    "callsign": "Bonair Cargo",
-    "virtual": true
-  },
-  {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
-    "virtual": true
-  },
-  {
     "icao": "URO",
     "name": "European Cargo Virtual",
     "callsign": "EURO",
-    "virtual": true
-  },
-  {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
-    "virtual": true
-  },
-  {
-    "icao": "BTR",
-    "name": "Butter Airways",
-    "callsign": "Butter",
-    "virtual": true
-  },
-  {
-    "icao": "CST",
-    "name": "Coastal Airways",
-    "callsign": "Riptide",
-    "virtual": true
-  },
-  {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
-    "virtual": true
-  },
-  {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
-    "virtual": true
-  },
-  {
-    "icao": "MRK",
-    "name": "MerCargo VA",
-    "callsign": "Mercargo",
     "virtual": true
   },
   {
@@ -1495,39 +1411,15 @@
     "virtual": true
   },
   {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
-    "virtual": true
-  },
-  {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
-    "virtual": true
-  },
-  {
     "icao": "XTV",
     "name": "Jet Executive",
     "callsign": "CHAMPAGNE",
     "virtual": true
   },
   {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
-    "virtual": true
-  },
-  {
     "icao": "DAL",
     "name": "Fly Delta Virtual",
     "callsign": "Delta",
-    "virtual": true
-  },
-  {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
     "virtual": true
   },
   {
@@ -1541,18 +1433,6 @@
     "icao": "AAR",
     "name": "Virtual Asiana Airlines",
     "callsign": "Asiana",
-    "virtual": true
-  },
-  {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
-    "virtual": true
-  },
-  {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
     "virtual": true
   },
   {
@@ -1574,21 +1454,9 @@
     "virtual": true
   },
   {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
-    "virtual": true
-  },
-  {
     "icao": "SJX",
     "name": "Virtual Starlux Airlines",
     "callsign": "STARWALKER",
-    "virtual": true
-  },
-  {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
     "virtual": true
   },
   {
@@ -1601,12 +1469,6 @@
     "icao": "QAF",
     "name": "Oryx Virtual",
     "callsign": "AMIRI",
-    "virtual": true
-  },
-  {
-    "icao": "NBO",
-    "name": "Noble Aviation",
-    "callsign": "NOBLE",
     "virtual": true
   },
   {
