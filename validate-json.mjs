@@ -13,8 +13,7 @@ const allowed = [
     'HXB',
     'MBC',
     'SKS',
-    'HEC',
-    'NBO'
+    'HEC'
 ]
 
 for(let i = 0; i < json.length; i++){
