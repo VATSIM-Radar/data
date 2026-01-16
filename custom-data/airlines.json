@@ -1238,19 +1238,19 @@
   },
   {
     "icao": "KQA",
-    "name": "Virtual Kenya Airways",
+    "name": "Virtual Kenya Airways (Kenya Airways)",
     "callsign": "KENYA",
     "virtual": true
   },
   {
     "icao": "JMA",
-    "name": "Virtual Kenya Airways",
+    "name": "Virtual Kenya Airways (Jambojet)",
     "callsign": "CHUI",
     "virtual": true
   },
   {
     "icao": "PRF",
-    "name": "Virtual Kenya Airways",
+    "name": "Virtual Kenya Airways (Precision Air)",
     "callsign": "PRECISION AIR",
     "virtual": true
   }
