@@ -1560,5 +1560,11 @@
     "name": "vNorwegian",
     "callsign": "WIDEROE",
     "virtual": true
+  },
+  {
+    "icao": "KKP",
+    "name": "Skyline Logistics",
+    "callsign": "Skyline",
+    "virtual": true
   }
 ]
