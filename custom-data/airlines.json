@@ -1566,5 +1566,11 @@
     "name": "Skyline Logistics",
     "callsign": "Skyline",
     "virtual": true
+  },
+  {
+    "icao": "ZUFUS",
+    "name": "MADIBA BAY SCHOOL OF FLIGHT",
+    "callsign": "ZUFUS",
+    "virtual": true
   }
 ]
