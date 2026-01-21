@@ -1572,5 +1572,11 @@
     "name": "MADIBA BAY SCHOOL OF FLIGHT",
     "callsign": "ZUFUS",
     "virtual": true
+  },
+    {
+    "icao": "SKG",
+    "name": "Skycraft Air Transport",
+    "callsign": "Skycraft",
+    "virtual": true
   }
 ]
