@@ -1573,4 +1573,10 @@
     "callsign": "ZUFUS",
     "virtual": true
   }
+   {
+    "icao": "OVO",
+    "name": "Medium5 VA",
+    "callsign": "Jellyfish",
+    "virtual": true
+  }
 ]
