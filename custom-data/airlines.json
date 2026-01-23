@@ -1572,5 +1572,11 @@
     "name": "MADIBA BAY SCHOOL OF FLIGHT",
     "callsign": "ZUFUS",
     "virtual": true
+  },
+   {
+    "icao": "OVO",
+    "name": "Medium5 VA",
+    "callsign": "Jellyfish",
+    "virtual": true
   }
 ]
