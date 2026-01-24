@@ -1573,4 +1573,10 @@
     "callsign": "ZUFUS",
     "virtual": true
   }
+  {
+    "icao": "SEJ",
+    "name": "SPICEJET VIRTUAL",
+    "callsign": "SPICEJET",
+    "virtual": true
+  }
 ]
