@@ -1,4 +1,10 @@
 [
+    {
+    "icao": "PLR",
+    "name": "Polar Wings",
+    "callsign": "Polar",
+    "virtual": true
+  },
   {
     "icao": "OCN",
     "name": "vOCN",
