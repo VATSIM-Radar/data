@@ -1584,5 +1584,11 @@
     "name": "US Department of Homeland Security",
     "callsign": "TROY",
     "virtual": false
+  },
+  {
+    "icao": "FEMA",
+    "name": "US Federal Emergency Management Agency",
+    "callsign": "FEMA",
+    "virtual": false
   }
 ]
