@@ -1572,5 +1572,11 @@
     "name": "MADIBA BAY SCHOOL OF FLIGHT",
     "callsign": "ZUFUS",
     "virtual": true
+  },
+  {
+    "icao": "AKJ",
+    "name": "Akasa Air",
+    "callsign": "AKASA AIR",
+    "virtual": true
   }
 ]
