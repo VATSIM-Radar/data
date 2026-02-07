@@ -1,5 +1,11 @@
 [
   {
+    "icao": "FWG",
+    "name": "FreeWings Airline",
+    "callsign": "FreeWings",
+    "virtual": true 
+  },
+  {
     "icao": "OCN",
     "name": "vOCN",
     "callsign": "Ocean",
