@@ -1,5 +1,11 @@
 [
   {
+    "icao": "FWG",
+    "name": "FreeWings Airline",
+    "callsign": "FreeWings",
+    "virtual": true 
+  },
+  {
     "icao": "OCN",
     "name": "vOCN",
     "callsign": "Ocean",
@@ -1174,12 +1180,6 @@
     "icao": "LLR",
     "name": "Air India Virtual",
     "callsign": "ALLIED",
-    "virtual": true
-  },
-  {
-    "icao": "LUF",
-    "name": "AeroLuxFly",
-    "callsign": "AEROLUXFLY",
     "virtual": true
   },
   {
