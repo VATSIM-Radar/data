@@ -1572,5 +1572,11 @@
     "name": "MADIBA BAY SCHOOL OF FLIGHT",
     "callsign": "ZUFUS",
     "virtual": true
+  },
+  {
+    "icao": "FDX",
+    "name": "FedEx Virtual Air Cargo",
+    "callsign": "FedEx",
+    "virtual": true
   }
 ]
