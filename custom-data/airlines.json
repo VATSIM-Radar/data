@@ -1572,5 +1572,41 @@
     "name": "MADIBA BAY SCHOOL OF FLIGHT",
     "callsign": "ZUFUS",
     "virtual": true
+  },
+  {
+    "icao": "BTK",
+    "name": "Virtual Lion Air Group",
+    "callsign": "BATIK",
+    "virtual":true
+  },
+  {
+    "icao": "LNI",
+    "name": "Virtual Lion Air Group",
+    "callsign": "LION INTER",
+    "virtual": true
+  },
+  {
+    "icao": "WON",
+    "name": "Virtual Lion Air Group",
+    "callsign": "WINGS ABADI",
+    "virtual": true
+  },
+  {
+    "icao": "SJV",
+    "name": "Virtual Lion Air Group",
+    "callsign": "PROSPER",
+    "virtual": true
+  },
+  {
+    "icao": "MXD",
+    "name": "Virtual Lion Air Group",
+    "callsign": "MALINDO",
+    "virtual": true
+  },
+  {
+    "icao": "TLM",
+    "name": "Virtual Lion Air Group",
+    "callsign": "MENTARI",
+    "virtual": true
   }
 ]
