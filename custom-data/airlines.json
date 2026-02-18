@@ -1575,37 +1575,37 @@
   },
   {
     "icao": "AFR",
-    "name": "AFKLvirtual",
+    "name": "AFKLVIRTUAL",
     "callsign": "AIRFRANS",
     "virtual": true
   },
   {
     "icao": "KLM",
-    "name": "AFKLvirtual",
+    "name": "AFKLVIRTUAL",
     "callsign": "KLM",
     "virtual": true
   },
   {
     "icao": "TVF",
-    "name": "AFKLvirtual",
+    "name": "AFKLVIRTUAL",
     "callsign": "FRANCE SOLEIL",
     "virtual": true
   },
   {
     "icao": "TRA",
-    "name": "AFKLvirtual",
+    "name": "AFKLVIRTUAL",
     "callsign": "TRANSAVIA",
     "virtual": true
   },
   {
     "icao": "CCM",
-    "name": "AFKLvirtual",
+    "name": "AFKLVIRTUAL",
     "callsign": "CORSICA",
     "virtual": true
   },
   {
     "icao": "MPH",
-    "name": "AFKLvirtual",
+    "name": "AFKLVIRTUAL",
     "callsign": "MARTINAIR",
     "virtual": true
   },
