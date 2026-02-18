@@ -1572,5 +1572,41 @@
     "name": "MADIBA BAY SCHOOL OF FLIGHT",
     "callsign": "ZUFUS",
     "virtual": true
-  }
+  },
+  {
+    "icao": "AFR",
+    "name": "AFKLvirtual",
+    "callsign": "AIR FRANCE",
+    "virtual": false
+  },
+  {
+    "icao": "KLM",
+    "name": "AFKLvirtual",
+    "callsign": "KLM",
+    "virtual": false
+  },
+  {
+    "icao": "TVF",
+    "name": "AFKLvirtual",
+    "callsign": "FRANCE SOLEIL",
+    "virtual": false
+  },
+  {
+    "icao": "TRA",
+    "name": "AFKLvirtual",
+    "callsign": "TRANSAVIA",
+    "virtual": false
+  },
+  {
+    "icao": "CCM",
+    "name": "AFKLvirtual",
+    "callsign": "CORSICA",
+    "virtual": false
+  },
+  {
+    "icao": "MPH",
+    "name": "AFKLvirtual",
+    "callsign": "MARTINAIR",
+    "virtual": false
+  },
 ]
