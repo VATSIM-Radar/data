@@ -6,6 +6,12 @@
     "virtual": true
   },
   {
+    "icao": "PLW",
+    "name": "PolarWings VA",
+    "callsign": "Polarwings",
+    "virtual": true
+  },
+  {
     "icao": "THY",
     "name": "vTHY",
     "callsign": "Turkish",
