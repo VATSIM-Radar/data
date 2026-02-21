@@ -1656,5 +1656,11 @@
     "name": "Medium5 VA",
     "callsign": "Jellyfish",
     "virtual": true
+  },
+  {
+    "icao": "SXB",
+    "name": "Voe Samba",
+    "callsign": "Samba",
+    "virtual": true
   }
 ]
