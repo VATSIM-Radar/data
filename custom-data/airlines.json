@@ -1566,5 +1566,161 @@
     "name": "MADIBA BAY SCHOOL OF FLIGHT",
     "callsign": "ZUFUS",
     "virtual": true
+  },
+  {
+    "icao": "PLW",
+    "name": "PolarWings VA",
+    "callsign": "Polarwings",
+    "virtual": true
+  },
+  {
+    "icao": "LUF",
+    "name": "AeroLuxFly",
+    "callsign": "AEROLUXFLY",
+    "virtual": true
+  },
+  {
+    "icao": "LUF",
+    "name": "AeroLuxFly",
+    "callsign": "AEROLUXFLY",
+    "virtual": true
+  },
+  {
+    "icao": "BTK",
+    "name": "Virtual Lion Air Group",
+    "callsign": "BATIK",
+    "virtual": true
+  },
+  {
+    "icao": "LNI",
+    "name": "Virtual Lion Air Group",
+    "callsign": "LION INTER",
+    "virtual": true
+  },
+  {
+    "icao": "WON",
+    "name": "Virtual Lion Air Group",
+    "callsign": "WINGS ABADI",
+    "virtual": true
+  },
+  {
+    "icao": "SJV",
+    "name": "Virtual Lion Air Group",
+    "callsign": "PROSPER",
+    "virtual": true
+  },
+  {
+    "icao": "MXD",
+    "name": "Virtual Lion Air Group",
+    "callsign": "MALINDO",
+    "virtual": true
+  },
+  {
+    "icao": "TLM",
+    "name": "Virtual Lion Air Group",
+    "callsign": "MENTARI",
+    "virtual": true
+  },
+  {
+    "icao": "LUF",
+    "name": "AeroLuxFly",
+    "callsign": "AEROLUXFLY",
+    "virtual": true
+  },
+  {
+    "icao": "SMB",
+    "name": "Samba",
+    "callsign": "Samba",
+    "virtual": true
+  },
+  {
+    "icao": "LUF",
+    "name": "AeroLuxFly",
+    "callsign": "AEROLUXFLY",
+    "virtual": true
+  },
+  {
+    "icao": "FDX",
+    "name": "FedEx Virtual Air Cargo",
+    "callsign": "FedEx",
+    "virtual": true
+  },
+  {
+    "icao": "LUF",
+    "name": "AeroLuxFly",
+    "callsign": "AEROLUXFLY",
+    "virtual": true
+  },
+  {
+    "icao": "FDX",
+    "name": "FedEx Virtual Air Cargo",
+    "callsign": "FedEx",
+    "virtual": true
+  },
+  {
+    "icao": "FWG",
+    "name": "FreeWings Airline",
+    "callsign": "FreeWings",
+    "virtual": true
+  },
+  {
+    "icao": "LUF",
+    "name": "AeroLuxFly",
+    "callsign": "AEROLUXFLY",
+    "virtual": true
+  },
+  {
+    "icao": "DHS",
+    "name": "US Department of Homeland Security",
+    "callsign": "DHS",
+    "virtual": true
+  },
+  {
+    "icao": "TROY",
+    "name": "US Department of Homeland Security",
+    "callsign": "TROY",
+    "virtual": false
+  },
+  {
+    "icao": "FEMA",
+    "name": "US Federal Emergency Management Agency",
+    "callsign": "FEMA",
+    "virtual": false
+  },
+  {
+    "icao": "PLW",
+    "name": "Polar Wings",
+    "callsign": "Polar",
+    "virtual": true
+  },
+  {
+    "icao": "LUF",
+    "name": "AeroLuxFly",
+    "callsign": "AEROLUXFLY",
+    "virtual": true
+  },
+  {
+    "icao": "LUF",
+    "name": "AeroLuxFly",
+    "callsign": "AEROLUXFLY",
+    "virtual": true
+  },
+  {
+    "icao": "AKJ",
+    "name": "Akasa Air",
+    "callsign": "AKASA AIR",
+    "virtual": true
+  },
+  {
+    "icao": "LUF",
+    "name": "AeroLuxFly",
+    "callsign": "AEROLUXFLY",
+    "virtual": true
+  },
+  {
+    "icao": "OVO",
+    "name": "Medium5 VA",
+    "callsign": "Jellyfish",
+    "virtual": true
   }
 ]
