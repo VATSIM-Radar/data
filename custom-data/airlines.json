@@ -1656,5 +1656,71 @@
     "name": "Medium5 VA",
     "callsign": "Jellyfish",
     "virtual": true
+  },
+  {
+    "icao": "SVA",
+    "name": "Gulf Skies Virtual",
+    "callsign": "SAUDIA",
+    "virtual": true
+  },
+  {
+    "icao": "OMA",
+    "name": "Gulf Skies Virtual",
+    "callsign": "OMAN AIR",
+    "virtual": true
+  },
+  {
+    "icao": "OMS",
+    "name": "Gulf Skies Virtual",
+    "callsign": "SALAM AIR",
+    "virtual": true
+  },
+  {
+    "icao": "KAC",
+    "name": "Gulf Skies Virtual",
+    "callsign": "KUWAITI",
+    "virtual": true
+  },
+  {
+    "icao": "GFA",
+    "name": "Gulf Skies Virtual",
+    "callsign": "GULF AIR",
+    "virtual": true
+  },
+  {
+    "icao": "ALK",
+    "name": "Gulf Skies Virtual",
+    "callsign": "SRILANKAN",
+    "virtual": true
+  },
+  {
+    "icao": "BBC",
+    "name": "Gulf Skies Virtual",
+    "callsign": "BANGLADESH",
+    "virtual": true
+  },
+  {
+    "icao": "FAD",
+    "name": "Gulf Skies Virtual",
+    "callsign": "FLYADEAL",
+    "virtual": true
+  },
+  {
+    "icao": "KNE",
+    "name": "Gulf Skies Virtual",
+    "callsign": "NAS EXPRESS",
+    "virtual": true
+  },
+  {
+    "icao": "ETD",
+    "name": "Gulf Skies Virtual",
+    "callsign": "ETIHAD",
+    "virtual": true
+  },
+  {
+    "icao": "UAE",
+    "name": "Gulf Skies Virtual",
+    "callsign": "EMIRATES",
+    "virtual": true
   }
 ]
