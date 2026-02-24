@@ -1656,5 +1656,41 @@
     "name": "Medium5 VA",
     "callsign": "Jellyfish",
     "virtual": true
+  },
+  {
+    "icao": "BTK",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "BATIK",
+    "virtual":true
+  },
+  {
+    "icao": "LNI",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "LION INTER",
+    "virtual": true
+  },
+  {
+    "icao": "WON",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "WINGS ABADI",
+    "virtual": true
+  },
+  {
+    "icao": "SJV",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "PROSPER",
+    "virtual": true
+  },
+  {
+    "icao": "MXD",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "MALINDO",
+    "virtual": true
+  },
+  {
+    "icao": "TLM",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "MENTARI",
+    "virtual": true
   }
 ]
