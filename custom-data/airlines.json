@@ -1710,17 +1710,5 @@
     "name": "Gulf Skies Virtual",
     "callsign": "NAS EXPRESS",
     "virtual": true
-  },
-  {
-    "icao": "ETD",
-    "name": "Gulf Skies Virtual",
-    "callsign": "ETIHAD",
-    "virtual": true
-  },
-  {
-    "icao": "UAE",
-    "name": "Gulf Skies Virtual",
-    "callsign": "EMIRATES",
-    "virtual": true
   }
 ]
