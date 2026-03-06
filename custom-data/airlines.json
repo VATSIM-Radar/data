@@ -19,5 +19,23 @@
     "callsign":"SUNRISE",
     "country":"GERMANY",
     "virtual":true
+  },
+  {
+    "icao":"IBB",
+    "name":"Binter Virtual",
+    "callsign":"Binter",
+    "virtual":true
+  },
+    {
+    "icao":"RSC",
+    "name":"Binter Virtual",
+    "callsign":"Canair",
+    "virtual":true
+  },
+    {
+    "icao":"NAY",
+    "name":"Binter Virtual",
+    "callsign":"Naysa",
+    "virtual":true
   }
 ]
