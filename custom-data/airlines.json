@@ -1656,5 +1656,11 @@
     "name": "Medium5 VA",
     "callsign": "Jellyfish",
     "virtual": true
+  },
+  {
+    "icao": "MZT",
+    "name": "Zhongtai Virtual",
+    "callsign": "ZHONG TAI",
+    "virtual": true
   }
 ]
