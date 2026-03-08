@@ -1663,4 +1663,15 @@
     "callsign": "ZHONG TAI",
     "virtual": true
   }
+    "icao": "MON",
+    "name": "vMonarch",
+    "callsign": "MONARCH",
+    "virtual": true
+  },
+  {
+    "icao": "AXI",
+    "name": "Axiom",
+    "callsign": "AXIOM",
+    "virtual": true
+  }
 ]
