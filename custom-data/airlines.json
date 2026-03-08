@@ -1717,6 +1717,7 @@
     "callsign": "JAZEERA",
     "virtual": true
   },
+  {
     "icao": "MON",
     "name": "vMonarch",
     "callsign": "MONARCH",
