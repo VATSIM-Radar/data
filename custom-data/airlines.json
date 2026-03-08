@@ -1659,56 +1659,62 @@
   },
   {
     "icao": "SVA",
-    "name": "Gulf Skies Virtual",
+    "name": "Saudia Virtual",
     "callsign": "SAUDIA",
     "virtual": true
   },
   {
     "icao": "OMA",
-    "name": "Gulf Skies Virtual",
+    "name": "Oman Air Virtual",
     "callsign": "OMAN AIR",
     "virtual": true
   },
   {
     "icao": "OMS",
-    "name": "Gulf Skies Virtual",
+    "name": "Salam Air Virtual",
     "callsign": "SALAM AIR",
     "virtual": true
   },
   {
     "icao": "KAC",
-    "name": "Gulf Skies Virtual",
+    "name": "Kuwait Airways Virtual",
     "callsign": "KUWAITI",
     "virtual": true
   },
   {
     "icao": "GFA",
-    "name": "Gulf Skies Virtual",
+    "name": "Gulf Air Virtual",
     "callsign": "GULF AIR",
     "virtual": true
   },
   {
     "icao": "ALK",
-    "name": "Gulf Skies Virtual",
+    "name": "SriLankan Virtual",
     "callsign": "SRILANKAN",
     "virtual": true
   },
   {
     "icao": "BBC",
-    "name": "Gulf Skies Virtual",
+    "name": "Biman Bangladesh Virtual",
     "callsign": "BANGLADESH",
     "virtual": true
   },
   {
     "icao": "FAD",
-    "name": "Gulf Skies Virtual",
+    "name": "Flyadeal Virtual",
     "callsign": "FLYADEAL",
     "virtual": true
   },
   {
     "icao": "KNE",
-    "name": "Gulf Skies Virtual",
+    "name": "Flynas Virtual",
     "callsign": "NAS EXPRESS",
     "virtual": true
-  }
+  },
+  {
+    "icao": "JZR",
+    "name": "Jazeera Virtual",
+    "callsign": "JAZEERA",
+    "virtual": true
+  },
 ]
