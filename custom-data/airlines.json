@@ -1662,7 +1662,8 @@
     "name": "Zhongtai Virtual",
     "callsign": "ZHONG TAI",
     "virtual": true
-  }
+  },
+  {
     "icao": "MON",
     "name": "vMonarch",
     "callsign": "MONARCH",
