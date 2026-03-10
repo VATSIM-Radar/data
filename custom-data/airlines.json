@@ -1,5 +1,11 @@
 [
   {
+    "icao": "AAY",
+    "name": "Allegiant Virtual",
+    "callsign": "Allegiant",
+    "virtual": true
+  }
+  {
     "icao": "OCN",
     "name": "vOCN",
     "callsign": "Ocean",
