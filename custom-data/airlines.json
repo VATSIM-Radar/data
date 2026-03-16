@@ -1668,5 +1668,125 @@
     "name": "Axiom",
     "callsign": "AXIOM",
     "virtual": true
+  },
+  {
+    "icao": "SKA",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "SKYALLIANCE",
+    "virtual": true
+  },
+  {
+    "icao": "SKC",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "SKYALLIANCE CARGO",
+    "virtual": true
+  },
+  {
+    "icao": "REU",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "AIR AUSTRAL",
+    "virtual": true
+  },
+  {
+    "icao": "MAU",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "MAURITIUS",
+    "virtual": true
+  },
+  {
+    "icao": "FPO",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "FRENCH POST",
+    "virtual": true
+  },
+  {
+    "icao": "FWI",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "FRENCH WEST",
+    "virtual": true
+  },
+  {
+    "icao": "FBU",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "FRENCH BEE",
+    "virtual": true
+  },
+  {
+    "icao": "CRL",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "CORSIR",
+    "virtual": true
+  },
+  {
+    "icao": "CCM",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "CORSICA",
+    "virtual": true
+  },
+  {
+    "icao": "TDS",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "TSARADI",
+    "virtual": true
+  },
+  {
+    "icao": "AFR",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "AIRFRANS",
+    "virtual": true
+  },
+  {
+    "icao": "SEY",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "SEYCHELLES",
+    "virtual": true
+  },
+  {
+    "icao": "ACI",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "AIR CALIN",
+    "virtual": true
+  },
+  {
+    "icao": "THT",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "TAHITI AIRLINES",
+    "virtual": true
+  },
+  {
+    "icao": "DJT",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "DREAMJET",
+    "virtual": true
+  },
+  {
+    "icao": "VTA",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "AIR TAHITI",
+    "virtual": true
+  },
+  {
+    "icao": "NTR",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "NATIREVA",
+    "virtual": true
+  },
+  {
+    "icao": "NTR",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "NATIREVA",
+    "virtual": true
+  },
+  {
+    "icao": "KES",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "AIR ANTILLES",
+    "virtual": true
+  },
+  {
+    "icao": "CMA",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "FRENCH CARGO",
+    "virtual": true
   }
 ]
