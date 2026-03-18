@@ -1668,5 +1668,11 @@
     "name": "Axiom",
     "callsign": "AXIOM",
     "virtual": true
+  },
+  {
+    "icao": "SKA",
+    "name": "SkyAlliance Virtual Group",
+    "callsign": "SKYALLIANCE",
+    "virtual": true
   }
 ]
