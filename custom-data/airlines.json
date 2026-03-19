@@ -1669,4 +1669,16 @@
     "callsign": "AXIOM",
     "virtual": true
   }
+  {
+    "icao": "AVT",
+    "name": "Axiom Vertical Lift",
+    "callsign": "AXIOM LIFT",
+    "virtual": true
+  }
+  {
+    "icao": "XIO",
+    "name": "Axiom Europe",
+    "callsign": "AXIOM",
+    "virtual": true
+  }
 ]
