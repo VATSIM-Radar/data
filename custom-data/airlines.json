@@ -1668,5 +1668,11 @@
     "name": "Axiom",
     "callsign": "AXIOM",
     "virtual": true
+  },
+  {
+    "icao": "STX",
+    "name": "Starship Airlines",
+    "callsign": "Bluestar",
+    "virtual": true
   }
 ]
