@@ -1669,4 +1669,10 @@
     "callsign": "AXIOM",
     "virtual": true
   }
+  {
+    "icao": "QFV",
+    "name": "Qantas Virtual",
+    "callsign": "Qantas",
+    "virtual": true
+  }
 ]
