@@ -1668,5 +1668,17 @@
     "name": "Axiom",
     "callsign": "AXIOM",
     "virtual": true
+  },
+  {
+    "icao": "XIO",
+    "name": "Axiom Europe",
+    "callsign": "AXIEURO",
+    "virtual": true
+  },
+  {
+    "icao": "HXX",
+    "name": "Axiom Helix",
+    "callsign": "HELIX",
+    "virtual": true
   }
 ]
