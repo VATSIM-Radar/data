@@ -1668,5 +1668,11 @@
     "name": "Axiom",
     "callsign": "AXIOM",
     "virtual": true
+  },
+  {
+    "icao": "AEC",
+    "name": "AeroColombia",
+    "callsign": "AeroColombia",
+    "virtual": true
   }
 ]
