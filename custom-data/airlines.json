@@ -1668,5 +1668,11 @@
     "name": "Axiom",
     "callsign": "AXIOM",
     "virtual": true
+  },
+  {
+    "icao": "TBV",
+    "name": "TransBrasil Virtual",
+    "callsign": "TRANSBRASIL",
+    "virtual": true
   }
 ]
