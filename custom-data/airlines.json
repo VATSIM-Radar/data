@@ -1,5 +1,17 @@
 [
   {
+    "icao": "AUA",
+    "name": "Austrian Virtual",
+    "callsign": "Austrian",
+    "virtual": true
+  },
+  {
+    "icao": "SWR",
+    "name": "Swiss Virtual",
+    "callsign": "Swiss",
+    "virtual": true
+  },
+  {
     "icao": "OCN",
     "name": "vOCN",
     "callsign": "Ocean",
