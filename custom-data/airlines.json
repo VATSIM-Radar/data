@@ -6,6 +6,12 @@
     "virtual": true
   },
   {
+    "icao": "CST",
+    "name": "Coastline Virtual",
+    "callsign": "Coastal",
+    "virtual": true
+  },
+  {
     "icao": "THY",
     "name": "vTHY",
     "callsign": "Turkish",
