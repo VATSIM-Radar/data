@@ -1668,5 +1668,11 @@
     "name": "Axiom",
     "callsign": "AXIOM",
     "virtual": true
+  },
+  {
+    "icao": "SAA",
+    "name": "South African Virtual Airways",
+    "callsign": "SPRINGBOK",
+    "virtual": true
   }
 ]
