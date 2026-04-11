@@ -1,4 +1,10 @@
-[
+[ 
+  {
+    "icao": "IRM",
+    "name": "vMahan Air",
+    "callsign": "Mahan Air",
+    "virtual": true
+  },
   {
     "icao": "OCN",
     "name": "vOCN",
