@@ -1207,12 +1207,6 @@
     "virtual": true
   },
   {
-    "icao": "VAT",
-    "name": "CAT Virtual Airline",
-    "callsign": "MEOW",
-    "virtual": true
-  },
-  {
     "icao": "NEA",
     "name": "New England Virtual",
     "callsign": "NEW ENGLAND",
