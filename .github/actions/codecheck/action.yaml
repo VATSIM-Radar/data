@@ -10,3 +10,6 @@ runs:
     - name: Build package
       shell: sh
       run: yarn build
+    - name: Test JSON
+      shell: sh
+      run: node ./validate-json.mjs

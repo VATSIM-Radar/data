@@ -11,3 +11,10 @@ export function readFileOrFail(...args: Parameters<typeof readFileSync>) {
         return null
     }
 }
+
+export interface RadarDataAirline {
+    icao: string
+    name: string
+    callsign: string
+    virtual: boolean
+}

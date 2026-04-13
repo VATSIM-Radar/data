@@ -1,6 +1,5 @@
 name: Airline Change
 description: Request an airline data change
-labels: ["airline", "pending triage"]
 assignees: ["daniluk4000"]
 body:
   - type: markdown
@@ -9,6 +8,8 @@ body:
         Hello! Thank you for reporting an issue in VATSIM Radar Data.
         
         Before reporting, please also check existing issues in this repository - you can filter them by "airline" label (also check closed ones).
+
+        Trying to make VA to show on VR via remarks? Add it to custom-data, or to https://gng.aero-nav.com/AERONAV/icao_fhairlines
   - type: input
     id: id
     attributes:
@@ -37,8 +38,8 @@ body:
     id: what
     attributes:
       label: Describe proposed change
-      description: "Include what needs to be changed or added: name, callsign, or country"
-      placeholder: "ICAO: SBI, Name: S7 Airlines, Callsign: Siberian, Country: Russian Federation"
+      description: "Include what needs to be changed or added: name, or callsign"
+      placeholder: "ICAO: SBI, Name: S7 Airlines, Callsign: Siberian"
     validations:
       required: true
   - type: textarea

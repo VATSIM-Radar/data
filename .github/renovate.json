@@ -6,5 +6,6 @@
   "baseBranches": [
     "main",
     "/^release\\/.*/"
-  ]
+  ],
+  "automerge": true
 }
