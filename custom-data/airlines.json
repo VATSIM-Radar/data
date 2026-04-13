@@ -4,6 +4,7 @@
    "name": "AIRSKY",  
    "callsign": "AIRSKY",
    "virtual": true
+  },
   {
     "icao": "OCN",
     "name": "vOCN",
