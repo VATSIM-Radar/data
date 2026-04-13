@@ -20,4 +20,4 @@ Source: https://gng.aero-nav.com/
 - Other files in data are auto-generated
 - Trying to make VA to show on VR via remarks? Add it to custom-data, or to https://gng.aero-nav.com/AERONAV/icao_fhairlines
 
-Data updates within 7 days after merge.
+Data updates within 7 days after merge. Merge is expected to be done every month. 
