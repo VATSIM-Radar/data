@@ -1668,5 +1668,89 @@
     "name": "Axiom",
     "callsign": "AXIOM",
     "virtual": true
+  },
+  {
+    "icao": "IRM",
+    "name": "vMahan Air",
+    "callsign": "Mahan Air",
+    "virtual": true
+  },
+  {
+    "icao": "EIA",
+    "name": "EJA Air Group LLC",
+    "callsign": "Evergreen",
+    "virtual": true
+  },
+  {
+    "icao": "SAA",
+    "name": "South African Virtual Airways",
+    "callsign": "SPRINGBOK",
+    "virtual": true
+  },
+  {
+    "icao": "CST",
+    "name": "Coastline Virtual",
+    "callsign": "Coastal",
+    "virtual": true
+  },
+  {
+    "icao": "JHL",
+    "name": "JeeHell Air",
+    "callsign": "JEEHELL",
+    "virtual": true
+  },
+  {
+    "icao": "XIO",
+    "name": "Axiom Europe",
+    "callsign": "AXIEURO",
+    "virtual": true
+  },
+  {
+    "icao": "HXX",
+    "name": "Axiom Helix",
+    "callsign": "HELIX",
+    "virtual": true
+  },
+  {
+    "icao": "STX",
+    "name": "Starship Airlines",
+    "callsign": "Bluestar",
+    "virtual": true
+  },
+  {
+    "icao": "QFV",
+    "name": "Qantas Virtual",
+    "callsign": "Qantas",
+    "virtual": true
+  },
+  {
+    "icao": "AAY",
+    "name": "Allegiant Virtual",
+    "callsign": "Allegiant",
+    "virtual": true
+  },
+  {
+    "icao": "AAY",
+    "name": "Allegiant Virtual",
+    "callsign": "Allegiant",
+    "virtual": true
+  },
+  {
+    "icao": "IBB",
+    "name": "Binter Virtual",
+    "callsign": "Binter",
+    "virtual": true
+  },
+  {
+    "icao": "RSC",
+    "name": "Binter Virtual",
+    "callsign": "Canair",
+    "virtual": true
+  },
+  {
+    "icao": "NAY",
+    "name": "Binter Virtual",
+    "callsign": "Naysa",
+    "virtual": true
   }
 ]
