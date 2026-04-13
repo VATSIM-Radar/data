@@ -1201,12 +1201,6 @@
     "virtual": true
   },
   {
-    "icao": "VAT",
-    "name": "CAT Virtual Airline",
-    "callsign": "MEOW",
-    "virtual": true
-  },
-  {
     "icao": "NEA",
     "name": "New England Virtual",
     "callsign": "NEW ENGLAND",
@@ -1655,6 +1649,12 @@
     "icao": "OVO",
     "name": "Medium5 VA",
     "callsign": "Jellyfish",
+    "virtual": true
+  },
+  {
+    "icao": "MZT",
+    "name": "Zhongtai Virtual",
+    "callsign": "ZHONG TAI",
     "virtual": true
   },
   {
