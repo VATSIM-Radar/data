@@ -1674,5 +1674,173 @@
     "name": "Axiom",
     "callsign": "AXIOM",
     "virtual": true
+  },
+  {
+    "icao": "IRM",
+    "name": "vMahan Air",
+    "callsign": "Mahan Air",
+    "virtual": true
+  },
+  {
+    "icao": "EIA",
+    "name": "EJA Air Group LLC",
+    "callsign": "Evergreen",
+    "virtual": true
+  },
+  {
+    "icao": "SAA",
+    "name": "South African Virtual Airways",
+    "callsign": "SPRINGBOK",
+    "virtual": true
+  },
+  {
+    "icao": "JHL",
+    "name": "JeeHell Air",
+    "callsign": "JEEHELL",
+    "virtual": true
+  },
+  {
+    "icao": "XIO",
+    "name": "Axiom Europe",
+    "callsign": "AXIEURO",
+    "virtual": true
+  },
+  {
+    "icao": "HXX",
+    "name": "Axiom Helix",
+    "callsign": "HELIX",
+    "virtual": true
+  },
+  {
+    "icao": "STX",
+    "name": "Starship Airlines",
+    "callsign": "Bluestar",
+    "virtual": true
+  },
+  {
+    "icao": "QFV",
+    "name": "Qantas Virtual",
+    "callsign": "Qantas",
+    "virtual": true
+  },
+  {
+    "icao": "AAY",
+    "name": "Allegiant Virtual",
+    "callsign": "Allegiant",
+    "virtual": true
+  },
+  {
+    "icao": "IBB",
+    "name": "Binter Virtual",
+    "callsign": "Binter",
+    "virtual": true
+  },
+  {
+    "icao": "RSC",
+    "name": "Binter Virtual",
+    "callsign": "Canair",
+    "virtual": true
+  },
+  {
+    "icao": "NAY",
+    "name": "Binter Virtual",
+    "callsign": "Naysa",
+    "virtual": true
+  },
+  {
+    "icao": "SVA",
+    "name": "Saudia Virtual",
+    "callsign": "SAUDIA",
+    "virtual": true
+  },
+  {
+    "icao": "OMA",
+    "name": "Oman Air Virtual",
+    "callsign": "OMAN AIR",
+    "virtual": true
+  },
+  {
+    "icao": "OMS",
+    "name": "Salam Air Virtual",
+    "callsign": "SALAM AIR",
+    "virtual": true
+  },
+  {
+    "icao": "KAC",
+    "name": "Kuwait Airways Virtual",
+    "callsign": "KUWAITI",
+    "virtual": true
+  },
+  {
+    "icao": "GFA",
+    "name": "Gulf Air Virtual",
+    "callsign": "GULF AIR",
+    "virtual": true
+  },
+  {
+    "icao": "ALK",
+    "name": "SriLankan Virtual",
+    "callsign": "SRILANKAN",
+    "virtual": true
+  },
+  {
+    "icao": "BBC",
+    "name": "Biman Bangladesh Virtual",
+    "callsign": "BANGLADESH",
+    "virtual": true
+  },
+  {
+    "icao": "FAD",
+    "name": "Flyadeal Virtual",
+    "callsign": "FLYADEAL",
+    "virtual": true
+  },
+  {
+    "icao": "KNE",
+    "name": "Flynas Virtual",
+    "callsign": "NAS EXPRESS",
+    "virtual": true
+  },
+  {
+    "icao": "JZR",
+    "name": "Jazeera Virtual",
+    "callsign": "JAZEERA",
+    "virtual": true
+  },
+  {
+    "icao": "BTK",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "BATIK",
+    "virtual": true
+  },
+  {
+    "icao": "LNI",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "LION INTER",
+    "virtual": true
+  },
+  {
+    "icao": "WON",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "WINGS ABADI",
+    "virtual": true
+  },
+  {
+    "icao": "SJV",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "PROSPER",
+    "virtual": true
+  },
+  {
+    "icao": "MXD",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "MALINDO",
+    "virtual": true
+  },
+  {
+    "icao": "TLM",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "MENTARI",
+    "virtual": true
   }
 ]
