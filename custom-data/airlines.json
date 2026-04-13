@@ -1,5 +1,11 @@
 [
   {
+   "icao": "ASK",
+   "name": "AIRSKY",  
+   "callsign": "AIRSKY",
+   "virtual": true
+  },
+  {
     "icao": "OCN",
     "name": "vOCN",
     "callsign": "Ocean",
