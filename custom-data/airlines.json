@@ -1664,12 +1664,6 @@
     "virtual": true
   },
   {
-    "icao":"SUN",
-    "name":"SUNRISE",
-    "callsign":"SUNRISE",
-    "virtual":true
-  },
-  {
     "icao":"IBB",
     "name":"Binter Virtual",
     "callsign":"Binter",
