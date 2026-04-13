@@ -1724,12 +1724,6 @@
     "virtual": true
   },
   {
-    "icao": "AAY",
-    "name": "Allegiant Virtual",
-    "callsign": "Allegiant",
-    "virtual": true
-  },
-  {
     "icao": "IBB",
     "name": "Binter Virtual",
     "callsign": "Binter",
