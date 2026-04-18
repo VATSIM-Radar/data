@@ -1845,8 +1845,8 @@
   },
   {
     "icao": "PNF",
-    "name": "Pan-African Virtual Airlines"
-    "callsign": "PanAF"
+    "name": "Pan-African Virtual Airlines",
+    "callsign": "PanAF",
     "virtual": true
   }
 ]
