@@ -1845,55 +1845,55 @@
   },
   {
     "icao": "AXM",
-    "name": "vAirAsia",
+    "name": "vAirAsia.com",
     "callsign": "RED CAP",
     "virtual": true
   },
    {
     "icao": "XAX",
-    "name": "vAirAsia X",
+    "name": "vAirAsia.com",
     "callsign": "XANADU",
     "virtual": true
   },
    {
     "icao": "AIQ",
-    "name": "Thai vAirAia",
+    "name": "vAirAsia.com",
     "callsign": "THAI ASIA",
     "virtual": true
   },
   {
     "icao": "AWQ",
-    "name": "Indonesia vAirAsia",
+    "name": "vAirAsia.com",
     "callsign": "WAGON AIR",
     "virtual": true
   },
   {
     "icao": "APG",
-    "name": "Philippines vAirAsia",
+    "name": "vAirAsia.com",
     "callsign": "COOL RED",
     "virtual": true
   },
    {
     "icao": "TAX",
-    "name": "Thai vAirAsia X",
+    "name": "vAirAsia.com",
     "callsign": "EXPRESS WING",
     "virtual": true
   },
   {
     "icao": "KTC",
-    "name": "vAirAsia Cambodia",
+    "name": "vAirAsia.com",
     "callsign": "RED NAGA",
     "virtual": true
   },
   {
     "icao": "IAD",
-    "name": "vAirAsia India",
+    "name": "vAirAsia.com",
     "callsign": "RED KNIGHT",
     "virtual": true
   },
   {
     "icao": "WAJ",
-    "name": "vAirAsia Japan",
+    "name": "vAirAsia.com",
     "callsign": "WING ASIA",
     "virtual": true
   } 
