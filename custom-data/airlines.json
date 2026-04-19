@@ -1842,5 +1842,59 @@
     "name": "VIRTUAL LION AIR GROUP",
     "callsign": "MENTARI",
     "virtual": true
+  },
+  {
+    "icao": "AXM",
+    "name": "vAirAsia",
+    "callsign": "RED CAP",
+    "virtual": true
+  },
+  {
+    "icao": "XAX",
+    "name": "vAirAsia",
+    "callsign": "XANADU",
+    "virtual": true
+  },
+  {
+    "icao": "AIQ",
+    "name": "vAirAsia",
+    "callsign": "THAI ASIA",
+    "virtual": true
+  },
+  {
+    "icao": "AWQ",
+    "name": "vAirAsia",
+    "callsign": "WAGON AIR",
+    "virtual": true
+  },
+  {
+    "icao": "APG",
+    "name": "vAirAsia",
+    "callsign": "COOL RED",
+    "virtual": true
+  },
+   {
+    "icao": "TAX",
+    "name": "vAirAsia",
+    "callsign": "EXPRESS WING",
+    "virtual": true
+  },
+  {
+    "icao": "KTC",
+    "name": "vAirAsia",
+    "callsign": "RED NAGA",
+    "virtual": true
+  },
+  {
+    "icao": "IAD",
+    "name": "vAirAsia",
+    "callsign": "RED KNIGHT",
+    "virtual": true
+  },
+  {
+    "icao": "WAJ",
+    "name": "vAirAsia",
+    "callsign": "WING ASIA",
+    "virtual": true
   }
 ]
