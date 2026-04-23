@@ -1694,6 +1694,12 @@
     "virtual": true
   },
   {
+    "icao": "CST",
+    "name": "Coastline Virtual",
+    "callsign": "Coastal",
+    "virtual": true
+  },
+  {
     "icao": "JHL",
     "name": "JeeHell Air",
     "callsign": "JEEHELL",
@@ -1721,6 +1727,12 @@
     "icao": "QFV",
     "name": "Qantas Virtual",
     "callsign": "Qantas",
+    "virtual": true
+  },
+  {
+    "icao": "AAY",
+    "name": "Allegiant Virtual",
+    "callsign": "Allegiant",
     "virtual": true
   },
   {
@@ -1842,7 +1854,7 @@
     "name": "VIRTUAL LION AIR GROUP",
     "callsign": "MENTARI",
     "virtual": true
-  }
+  },
   { "icao": "TALR", "name": "ARMY VIRTUAL", "callsign": "TAYLOR", "virtual": true },
   { "icao": "VIGL", "name": "ARMY VIRTUAL", "callsign": "VIGILANCE", "virtual": true },
   { "icao": "MRCH", "name": "ARMY VIRTUAL", "callsign": "MONARCH", "virtual": true },
