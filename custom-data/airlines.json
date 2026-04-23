@@ -1,5 +1,11 @@
 [
   {
+   "icao": "ASK",
+   "name": "AIRSKY",  
+   "callsign": "AIRSKY",
+   "virtual": true
+  },
+  {
     "icao": "OCN",
     "name": "vOCN",
     "callsign": "Ocean",
@@ -1752,5 +1758,181 @@
     "name": "Binter Virtual",
     "callsign": "Naysa",
     "virtual": true
-  }
+  },
+  {
+    "icao": "SVA",
+    "name": "Saudia Virtual",
+    "callsign": "SAUDIA",
+    "virtual": true
+  },
+  {
+    "icao": "OMA",
+    "name": "Oman Air Virtual",
+    "callsign": "OMAN AIR",
+    "virtual": true
+  },
+  {
+    "icao": "OMS",
+    "name": "Salam Air Virtual",
+    "callsign": "SALAM AIR",
+    "virtual": true
+  },
+  {
+    "icao": "KAC",
+    "name": "Kuwait Airways Virtual",
+    "callsign": "KUWAITI",
+    "virtual": true
+  },
+  {
+    "icao": "GFA",
+    "name": "Gulf Air Virtual",
+    "callsign": "GULF AIR",
+    "virtual": true
+  },
+  {
+    "icao": "ALK",
+    "name": "SriLankan Virtual",
+    "callsign": "SRILANKAN",
+    "virtual": true
+  },
+  {
+    "icao": "BBC",
+    "name": "Biman Bangladesh Virtual",
+    "callsign": "BANGLADESH",
+    "virtual": true
+  },
+  {
+    "icao": "FAD",
+    "name": "Flyadeal Virtual",
+    "callsign": "FLYADEAL",
+    "virtual": true
+  },
+  {
+    "icao": "KNE",
+    "name": "Flynas Virtual",
+    "callsign": "NAS EXPRESS",
+    "virtual": true
+  },
+  {
+    "icao": "JZR",
+    "name": "Jazeera Virtual",
+    "callsign": "JAZEERA",
+    "virtual": true
+  },
+  {
+    "icao": "BTK",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "BATIK",
+    "virtual": true
+  },
+  {
+    "icao": "LNI",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "LION INTER",
+    "virtual": true
+  },
+  {
+    "icao": "WON",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "WINGS ABADI",
+    "virtual": true
+  },
+  {
+    "icao": "SJV",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "PROSPER",
+    "virtual": true
+  },
+  {
+    "icao": "MXD",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "MALINDO",
+    "virtual": true
+  },
+  {
+    "icao": "TLM",
+    "name": "VIRTUAL LION AIR GROUP",
+    "callsign": "MENTARI",
+    "virtual": true
+  },
+  { "icao": "TALR", "name": "ARMY VIRTUAL", "callsign": "TAYLOR", "virtual": true },
+  { "icao": "VIGL", "name": "ARMY VIRTUAL", "callsign": "VIGILANCE", "virtual": true },
+  { "icao": "MRCH", "name": "ARMY VIRTUAL", "callsign": "MONARCH", "virtual": true },
+  { "icao": "KNGT", "name": "ARMY VIRTUAL", "callsign": "KNIGHT", "virtual": true },
+  { "icao": "LGON", "name": "ARMY VIRTUAL", "callsign": "LEGION", "virtual": true },
+  { "icao": "KSTL", "name": "ARMY VIRTUAL", "callsign": "KESTREL", "virtual": true },
+  { "icao": "WALR", "name": "ARMY VIRTUAL", "callsign": "WALER", "virtual": true },
+  { "icao": "SCOT", "name": "ARMY VIRTUAL", "callsign": "SCOUT", "virtual": true },
+  { "icao": "SCIM", "name": "ARMY VIRTUAL", "callsign": "SCIMITAR", "virtual": true },
+  { "icao": "FNCH", "name": "ARMY VIRTUAL", "callsign": "FINCH", "virtual": true },
+  { "icao": "BRKR", "name": "ARMY VIRTUAL", "callsign": "BREAKER", "virtual": true },
+  { "icao": "TRPR", "name": "ARMY VIRTUAL", "callsign": "TROOPER", "virtual": true },
+  { "icao": "CLAY", "name": "ARMY VIRTUAL", "callsign": "CLAYMORE", "virtual": true },
+  { "icao": "BAYN", "name": "ARMY VIRTUAL", "callsign": "BAYONET", "virtual": true },
+  { "icao": "SHRK", "name": "ARMY VIRTUAL", "callsign": "SHRIKE", "virtual": true },
+  { "icao": "FRTL", "name": "ARMY VIRTUAL", "callsign": "FIRETAIL", "virtual": true },
+  { "icao": "GRFN", "name": "ARMY VIRTUAL", "callsign": "GRIFFIN", "virtual": true },
+  { "icao": "BRGR", "name": "ARMY VIRTUAL", "callsign": "BUSHRANGER", "virtual": true },
+  { "icao": "PSSM", "name": "ARMY VIRTUAL", "callsign": "POSSUM", "virtual": true },
+  { "icao": "MRLN", "name": "ARMY VIRTUAL", "callsign": "MARLIN", "virtual": true },
+  { "icao": "PEGS", "name": "ARMY VIRTUAL", "callsign": "PEGASUS", "virtual": true },
+  { "icao": "DEST", "name": "ARMY VIRTUAL", "callsign": "DESTRIER", "virtual": true },
+  { "icao": "WHSE", "name": "ARMY VIRTUAL", "callsign": "WARHORSE", "virtual": true },
+  { "icao": "BRMN", "name": "ARMY VIRTUAL", "callsign": "BRAHMAN", "virtual": true },
+  { "icao": "CVLR", "name": "ARMY VIRTUAL", "callsign": "CAVALIER", "virtual": true },
+  { "icao": "SPTN", "name": "ARMY VIRTUAL", "callsign": "SPARTAN", "virtual": true },
+  { "icao": "RDBK", "name": "ARMY VIRTUAL", "callsign": "REDBACK", "virtual": true },
+  { "icao": "VENM", "name": "ARMY VIRTUAL", "callsign": "VENOM", "virtual": true },
+  { "icao": "HUSK", "name": "ARMY VIRTUAL", "callsign": "HUSKY", "virtual": true },
+  { "icao": "SALT", "name": "ARMY VIRTUAL", "callsign": "SALTY", "virtual": true },
+  { "icao": "AGRY", "name": "ARMY VIRTUAL", "callsign": "ANGRY", "virtual": true },
+  { "icao": "GHST", "name": "ARMY VIRTUAL", "callsign": "GHOST", "virtual": true },
+  { "icao": "OVER", "name": "ARMY VIRTUAL", "callsign": "OVERLORD", "virtual": true },
+  { "icao": "WTHG", "name": "ARMY VIRTUAL", "callsign": "WARTHOG", "virtual": true },
+  { "icao": "BADE", "name": "ARMY VIRTUAL", "callsign": "BLADE", "virtual": true },
+  { "icao": "MWHK", "name": "ARMY VIRTUAL", "callsign": "MOHAWK", "virtual": true },
+  { "icao": "SNPR", "name": "ARMY VIRTUAL", "callsign": "SNIPER", "virtual": true },
+  { "icao": "SHDE", "name": "ARMY VIRTUAL", "callsign": "SHADE", "virtual": true },
+  { "icao": "TROP", "name": "ARMY VIRTUAL", "callsign": "TROPIC", "virtual": true },
+  { "icao": "BSWD", "name": "ARMY VIRTUAL", "callsign": "BROADSWORD", "virtual": true },
+  { "icao": "CWBY", "name": "ARMY VIRTUAL", "callsign": "COWBOY", "virtual": true },
+  { "icao": "DPBR", "name": "ARMY VIRTUAL", "callsign": "DROPBEAR", "virtual": true },
+  { "icao": "KRKN", "name": "ARMY VIRTUAL", "callsign": "KRAKEN", "virtual": true },
+  { "icao": "SNDY", "name": "ARMY VIRTUAL", "callsign": "SANDY", "virtual": true },
+  { "icao": "ANGL", "name": "ARMY VIRTUAL", "callsign": "ANGEL", "virtual": true },
+  { "icao": "HALO", "name": "ARMY VIRTUAL", "callsign": "HALO", "virtual": true },
+  { "icao": "JAKL", "name": "ARMY VIRTUAL", "callsign": "JACKAL", "virtual": true },
+  { "icao": "LBTY", "name": "ARMY VIRTUAL", "callsign": "LIBERTY", "virtual": true },
+  { "icao": "MGIC", "name": "ARMY VIRTUAL", "callsign": "MAGIC", "virtual": true },
+  { "icao": "PRDG", "name": "ARMY VIRTUAL", "callsign": "PRODIGY", "virtual": true },
+  { "icao": "WMBT", "name": "ARMY VIRTUAL", "callsign": "WOMBAT", "virtual": true },
+  { "icao": "CVMN", "name": "ARMY VIRTUAL", "callsign": "CAVEMAN", "virtual": true },
+  { "icao": "CHSW", "name": "ARMY VIRTUAL", "callsign": "CHAINSAW", "virtual": true },
+  { "icao": "FTBY", "name": "ARMY VIRTUAL", "callsign": "FATBOY", "virtual": true },
+  { "icao": "MDCW", "name": "ARMY VIRTUAL", "callsign": "MADCOW", "virtual": true },
+  { "icao": "STPD", "name": "ARMY VIRTUAL", "callsign": "STAMPEDE", "virtual": true },
+  { "icao": "SKMN", "name": "ARMY VIRTUAL", "callsign": "STOCKMAN", "virtual": true },
+  { "icao": "ASGD", "name": "ARMY VIRTUAL", "callsign": "ASGARD", "virtual": true },
+  { "icao": "CTRN", "name": "ARMY VIRTUAL", "callsign": "CENTURION", "virtual": true },
+  { "icao": "HEIM", "name": "ARMY VIRTUAL", "callsign": "HEIDMAN", "virtual": true },
+  { "icao": "THOR", "name": "ARMY VIRTUAL", "callsign": "THOR", "virtual": true },
+  { "icao": "VALK", "name": "ARMY VIRTUAL", "callsign": "VALKYRIE", "virtual": true },
+  { "icao": "DSCO", "name": "ARMY VIRTUAL", "callsign": "DISCO", "virtual": true },
+  { "icao": "DUKE", "name": "ARMY VIRTUAL", "callsign": "DUKE", "virtual": true },
+  { "icao": "JUDG", "name": "ARMY VIRTUAL", "callsign": "JUDGE", "virtual": true },
+  { "icao": "JUST", "name": "ARMY VIRTUAL", "callsign": "JUSTICE", "virtual": true },
+  { "icao": "PHLX", "name": "ARMY VIRTUAL", "callsign": "PHALANX", "virtual": true },
+  { "icao": "PRPH", "name": "ARMY VIRTUAL", "callsign": "PROPHET", "virtual": true },
+  { "icao": "BSMN", "name": "ARMY VIRTUAL", "callsign": "BUSHMAN", "virtual": true },
+  { "icao": "ENFD", "name": "ARMY VIRTUAL", "callsign": "ENFIELD", "virtual": true },
+  { "icao": "KSTN", "name": "ARMY VIRTUAL", "callsign": "KEYSTONE", "virtual": true },
+  { "icao": "NMKN", "name": "ARMY VIRTUAL", "callsign": "NAMARRKON", "virtual": true },
+  { "icao": "APEX", "name": "ARMY VIRTUAL", "callsign": "APEX", "virtual": true },
+  { "icao": "DOVR", "name": "ARMY VIRTUAL", "callsign": "DROVER", "virtual": true },
+  { "icao": "NTHK", "name": "ARMY VIRTUAL", "callsign": "NIGHTHAWK", "virtual": true },
+  { "icao": "BROL", "name": "ARMY VIRTUAL", "callsign": "BROLGA", "virtual": true },
+  { "icao": "CORM", "name": "ARMY VIRTUAL", "callsign": "CORMORANT", "virtual": true },
+  { "icao": "CURL", "name": "ARMY VIRTUAL", "callsign": "CURLEW", "virtual": true },
+  { "icao": "HEIM", "name": "ARMY VIRTUAL", "callsign": "HEIMDAL", "virtual": true },
+  { "icao": "JUNO", "name": "ARMY VIRTUAL", "callsign": "JUNO", "virtual": true }
 ]
