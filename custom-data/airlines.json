@@ -1843,4 +1843,10 @@
     "callsign": "MENTARI",
     "virtual": true
   }
+  {
+    "icao": "LPA",
+    "name": "ALPACA AIRLINES",
+    "callsign": "LPA",
+    "virtual": true
+  }
 ]
