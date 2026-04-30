@@ -1843,4 +1843,10 @@
     "callsign": "MENTARI",
     "virtual": true
   }
+  {
+    "icao": "ALA",
+    "name": "Alpaca Airlines",
+    "callsign": "ALPACA",
+    "virtual": true
+  },
 ]
