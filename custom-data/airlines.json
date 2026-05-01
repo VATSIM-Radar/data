@@ -1842,5 +1842,17 @@
     "name": "VIRTUAL LION AIR GROUP",
     "callsign": "MENTARI",
     "virtual": true
+  },
+  {
+    "icao": "OAL",
+    "name": "Olympic Aegean Virtual",
+    "callsign": "Olympic",
+    "virtual": true
+  },
+  {
+    "icao": "AEE",
+    "name": "Olympic Aegean Virtual",
+    "callsign": "Aegean",
+    "virtual": true
   }
 ]
