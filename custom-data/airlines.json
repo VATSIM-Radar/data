@@ -1842,5 +1842,11 @@
     "name": "VIRTUAL LION AIR GROUP",
     "callsign": "MENTARI",
     "virtual": true
+  },
+  {
+    "icao": "PNF",
+    "name": "Pan-African Virtual Airlines",
+    "callsign": "PanAF",
+    "virtual": true
   }
 ]
