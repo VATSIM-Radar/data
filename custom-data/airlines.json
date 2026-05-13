@@ -1842,5 +1842,11 @@
     "name": "VIRTUAL LION AIR GROUP",
     "callsign": "MENTARI",
     "virtual": true
+  },
+  {
+    "icao": "NWS",
+    "name": "Nordwind Virtual Group",
+    "callsign": "NORDLAND",
+    "virtual": true
   }
-]
+  
