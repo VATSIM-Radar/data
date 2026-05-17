@@ -1842,5 +1842,23 @@
     "name": "VIRTUAL LION AIR GROUP",
     "callsign": "MENTARI",
     "virtual": true
+  },
+  {
+    "icao": "MAS",
+    "name": "VMAS",
+    "callsign": "MALAYSIAN",
+    "virtual": true
+  },
+  {
+    "icao": "FFM",
+    "name": "VMAS",
+    "callsign": "FIREFLY",
+    "virtual": true
+  },
+  {
+    "icao": "MWG",
+    "name": "VMAS",
+    "callsign": "AIRBORNEO",
+    "virtual": true
   }
 ]
