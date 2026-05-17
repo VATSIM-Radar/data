@@ -18,6 +18,12 @@
     "virtual": true
   },
   {
+    "icao": "SNC",
+    "name": "Sanrio Cargo",
+    "callsign": "SNC",
+    "virtual": true
+  },
+  {
     "icao": "VIR",
     "name": "VRGN Virtual",
     "callsign": "Virgin",
