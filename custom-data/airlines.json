@@ -48,6 +48,12 @@
     "virtual": true
   },
   {
+  "icao": "SNC",
+  "name": "SANRIO CARGO AIRLINE",
+  "callsign": "SANRIO"
+    "virtual": true 
+  }
+  {
     "icao": "SBI",
     "name": "S7 AIRLINES",
     "callsign": "SIBERIAN AIRLINES",
