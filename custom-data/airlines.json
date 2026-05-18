@@ -1842,5 +1842,17 @@
     "name": "VIRTUAL LION AIR GROUP",
     "callsign": "MENTARI",
     "virtual": true
+  },
+  {
+    "icao": "SGE",
+    "name": "SUDWEST VIRTUAL",
+    "callsign": "YELLOWDOT",
+    "virtual": true
+  },
+  {
+    "icao": "HGE",
+    "name": "SUDLINE",
+    "callsign": "HOPSOUTH",
+    "virtual": true
   }
 ]
