@@ -1842,5 +1842,11 @@
     "name": "VIRTUAL LION AIR GROUP",
     "callsign": "MENTARI",
     "virtual": true
+  },
+  {
+    "icao": "WLF",
+    "name": "Wolfair Aviation",
+    "callsign": "Wolfair",
+    "virtual": true
   }
 ]
