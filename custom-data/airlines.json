@@ -1,5 +1,11 @@
 [
   {
+    "icao": "ITY",
+    "name": "ITA Airways virtual",
+    "callsign": "ITARROW",
+    "virtual": true
+  },
+  {
    "icao": "ASK",
    "name": "AIRSKY",  
    "callsign": "AIRSKY",
