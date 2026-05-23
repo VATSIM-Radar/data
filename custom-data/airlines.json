@@ -1,9 +1,9 @@
 [
   {
-   "icao": "ASK",
-   "name": "AIRSKY",  
-   "callsign": "AIRSKY",
-   "virtual": true
+    "icao": "ASK",
+    "name": "AIRSKY",
+    "callsign": "AIRSKY",
+    "virtual": true
   },
   {
     "icao": "OCN",
@@ -1841,6 +1841,84 @@
     "icao": "TLM",
     "name": "VIRTUAL LION AIR GROUP",
     "callsign": "MENTARI",
+    "virtual": true
+  },
+  {
+    "icao": "SNC",
+    "name": "SANRIO CARGO AIRLINE",
+    "callsign": "SANRIO",
+    "virtual": true
+  },
+  {
+    "icao": "ITY",
+    "name": "ITA Airways virtual",
+    "callsign": "ITARROW",
+    "virtual": true
+  },
+  {
+    "icao": "MAS",
+    "name": "VMAS",
+    "callsign": "MALAYSIAN",
+    "virtual": true
+  },
+  {
+    "icao": "FFM",
+    "name": "VMAS",
+    "callsign": "FIREFLY",
+    "virtual": true
+  },
+  {
+    "icao": "MWG",
+    "name": "VMAS",
+    "callsign": "AIRBORNEO",
+    "virtual": true
+  },
+  {
+    "icao": "SGE",
+    "name": "SUDWEST VIRTUAL",
+    "callsign": "YELLOWDOT",
+    "virtual": true
+  },
+  {
+    "icao": "HGE",
+    "name": "SUDLINE",
+    "callsign": "HOPSOUTH",
+    "virtual": true
+  },
+  {
+    "icao": "ALA",
+    "name": "Alpaca Airlines",
+    "callsign": "ALPACA",
+    "virtual": true
+  },
+  {
+    "icao": "WLF",
+    "name": "Wolfair Aviation",
+    "callsign": "Wolfair",
+    "virtual": true
+  },
+  {
+    "icao": "PNF",
+    "name": "Pan-African Virtual Airlines",
+    "callsign": "PanAF",
+    "virtual": true
+  },
+  {
+    "icao": "OAL",
+    "name": "Olympic Aegean Virtual",
+    "callsign": "Olympic",
+    "virtual": true
+  },
+  {
+    "icao": "AEE",
+    "name": "Olympic Aegean Virtual",
+    "callsign": "Aegean",
+    "virtual": true
+  },
+  {
+    "icao": "EFA",
+    "name": "Express Freighters Australia",
+    "callsign": "Express Freight Qantas",
     "virtual": true
   }
 ]
