@@ -1842,10 +1842,11 @@
     "name": "VIRTUAL LION AIR GROUP",
     "callsign": "MENTARI",
     "virtual": true
-  }
+  },
   {
     "icao": "EFA"
     "name": "Express Freighters Australia Operated By Qantas Virtual"
     "callsign": "Express Freight Qantas"
     "virtual":true
+  }
 ]
