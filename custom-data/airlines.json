@@ -1842,11 +1842,11 @@
     "name": "VIRTUAL LION AIR GROUP",
     "callsign": "MENTARI",
     "virtual": true
-  }
+  },
   {
     "icao": "ALA",
     "name": "Alpaca Airlines",
     "callsign": "ALPACA",
     "virtual": true
-  },
+  }
 ]
