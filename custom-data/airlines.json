@@ -1844,9 +1844,9 @@
     "virtual": true
   },
   {
-    "icao": "EFA"
-    "name": "Express Freighters Australia Operated By Qantas Virtual"
-    "callsign": "Express Freight Qantas"
-    "virtual":true
+    "icao": "EFA",
+    "name": "Express Freighters Australia",
+    "callsign": "Express Freight Qantas",
+    "virtual": true
   }
 ]
