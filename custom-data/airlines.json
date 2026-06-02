@@ -1964,6 +1964,12 @@
     "virtual": true
   },
   {
+    "icao": "MSR",
+    "name": "EgyptAir Virtual",
+    "callsign": "EgyptAir",
+    "virtual": true
+  },
+  {
     "icao": "WAJ",
     "name": "vAirAsia",
     "callsign": "WING ASIA",
