@@ -492,12 +492,6 @@
     "virtual": false
   },
   {
-    "icao": "EAGLE",
-    "name": "Republic Singapore of Air Force 130 SQN",
-    "callsign": "Eagle",
-    "virtual": false
-  },
-  {
     "icao": "OSPRY",
     "name": "Republic Singapore of Air Force 140 SQN",
     "callsign": "Osprey",
@@ -931,7 +925,7 @@
   },
   {
     "icao": "EGLE",
-    "name": "Royal Australian Air Force",
+    "name": "Republic Singapore of Air Force 130 SQN",
     "callsign": "Eagle",
     "virtual": false
   },
