@@ -427,103 +427,103 @@
   },
   {
     "icao": "SAF",
-    "name": "Republic Singapore of Air Force",
+    "name": "Republic of Singapore Air Force",
     "callsign": "Singa",
     "virtual": false
   },
   {
     "icao": "JAGER",
-    "name": "Republic Singapore of Air Force 111 SQN",
+    "name": "Republic of Singapore Air Force 111 SQN",
     "callsign": "Jager",
     "virtual": false
   },
   {
     "icao": "TWSTR",
-    "name": "Republic Singapore of Air Force 112 SQN",
+    "name": "Republic of Singapore Air Force 112 SQN",
     "callsign": "Twister",
     "virtual": false
   },
   {
     "icao": "KSTRL",
-    "name": "Republic Singapore of Air Force 120 SQN",
+    "name": "Republic of Singapore Air Force 120 SQN",
     "callsign": "Kestrel",
     "virtual": false
   },
   {
     "icao": "ENFCR",
-    "name": "Republic Singapore of Air Force 121 SQN",
+    "name": "Republic of Singapore Air Force 121 SQN",
     "callsign": "Enforcer",
     "virtual": false
   },
   {
     "icao": "CONDR",
-    "name": "Republic Singapore of Air Force 122 SQN",
+    "name": "Republic of Singapore Air Force 122 SQN",
     "callsign": "Condor",
     "virtual": false
   },
   {
     "icao": "SEAHK",
-    "name": "Republic Singapore of Air Force 123 SQN",
+    "name": "Republic of Singapore Air Force 123 SQN",
     "callsign": "Seahawk",
     "virtual": false
   },
   {
     "icao": "STRLN",
-    "name": "Republic Singapore of Air Force 125 SQN",
+    "name": "Republic of Singapore Air Force 125 SQN",
     "callsign": "Starling",
     "virtual": false
   },
   {
     "icao": "COUGR",
-    "name": "Republic Singapore of Air Force 126 SQN",
+    "name": "Republic of Singapore Air Force 126 SQN",
     "callsign": "Cougar",
     "virtual": false
   },
   {
     "icao": "STALN",
-    "name": "Republic Singapore of Air Force 127 SQN",
+    "name": "Republic of Singapore Air Force 127 SQN",
     "callsign": "Stallion",
     "virtual": false
   },
   {
     "icao": "RSCUE",
-    "name": "Republic Singapore of Air Force - Search & Rescue",
+    "name": "Republic of Singapore Air Force - Search & Rescue",
     "callsign": "Rescue",
     "virtual": false
   },
   {
     "icao": "OSPRY",
-    "name": "Republic Singapore of Air Force 140 SQN",
+    "name": "Republic of Singapore Air Force 140 SQN",
     "callsign": "Osprey",
     "virtual": false
   },
   {
     "icao": "GRYPN",
-    "name": "Republic Singapore of Air Force 142 SQN",
+    "name": "Republic of Singapore Air Force 142 SQN",
     "callsign": "Gryphon",
     "virtual": false
   },
   {
     "icao": "PHONX",
-    "name": "Republic Singapore of Air Force 143 SQN",
+    "name": "Republic of Singapore Air Force 143 SQN",
     "callsign": "Phoenix",
     "virtual": false
   },
   {
     "icao": "HORNT",
-    "name": "Republic Singapore of Air Force 145 SQN",
+    "name": "Republic of Singapore Air Force 145 SQN",
     "callsign": "Hornet",
     "virtual": false
   },
   {
     "icao": "SHKRA",
-    "name": "Republic Singapore of Air Force 149 SQN",
+    "name": "Republic of Singapore Air Force149 SQN",
     "callsign": "Shikra",
     "virtual": false
   },
   {
     "icao": "FALCN",
-    "name": "Republic Singapore of Air Force 150 SQN",
+    "name": "Republic of Singapore Air Force 150 SQN",
     "callsign": "Falcon",
     "virtual": false
   },
