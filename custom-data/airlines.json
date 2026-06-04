@@ -1631,13 +1631,13 @@
     "icao": "TROY",
     "name": "US Department of Homeland Security",
     "callsign": "TROY",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "FEMA",
     "name": "US Federal Emergency Management Agency",
     "callsign": "FEMA",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "AKJ",
@@ -1968,5 +1968,16 @@
     "name": "vAirAsia",
     "callsign": "WING ASIA",
     "virtual": true
-  }
+  },
+  {  "icao": "DOJ",
+  "name": "DOJ PRISONER AND ALIEN TRANSPORTATION SERVICE",
+  "callsign": "JUSTICE",
+  "virtual": true
+},
+{
+  "icao": "DOE",
+  "name": "National Nuclear Security Administration",
+  "callsign": "ENERGY",
+  "virtual": true
+}
 ]
