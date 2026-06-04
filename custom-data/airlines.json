@@ -1628,33 +1628,36 @@
     "virtual": true
   },
   {
-    "icao": "TROY",
-    "name": "US Department of Homeland Security",
-    "callsign": "TROY",
-    "virtual": true
-  },
-  {
-    "icao": "FEMA",
-    "name": "US Federal Emergency Management Agency",
-    "callsign": "FEMA",
-    "virtual": true
-  },
-   {
-    "icao": "DOJ",
-      "name": "UNITED STATES DEPARTMENT OF JUSTICE PRISONER AND ALIEN TRANSPORTATION SERVICE (JPATS)",
-      "callsign": "JUSTICE",
-      "virtual": true
-       {
-    "icao": "DOE",
-    "name": "National Nuclear Security Administration",
-    "callsign": "ENERGY",
-    "virtual": true
-  {
-    "icao": "AKJ",
-    "name": "Akasa Air",
-    "callsign": "AKASA AIR",
-    "virtual": true
-  },
+    {
+  "icao": "TROY",
+  "name": "US Department of Homeland Security",
+  "callsign": "TROY",
+  "virtual": true
+},
+{
+  "icao": "FEMA",
+  "name": "US Federal Emergency Management Agency",
+  "callsign": "FEMA",
+  "virtual": true
+},
+{
+  "icao": "DOJ",
+  "name": "UNITED STATES DEPARTMENT OF JUSTICE PRISONER AND ALIEN TRANSPORTATION SERVICE (JPATS)",
+  "callsign": "JUSTICE",
+  "virtual": true
+},
+{
+  "icao": "DOE",
+  "name": "National Nuclear Security Administration",
+  "callsign": "ENERGY",
+  "virtual": true
+},
+{
+  "icao": "AKJ",
+  "name": "Akasa Air",
+  "callsign": "AKASA AIR",
+  "virtual": true
+},
   {
     "icao": "SEJ",
     "name": "SPICEJET VIRTUAL",
