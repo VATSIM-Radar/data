@@ -1658,18 +1658,6 @@
    "virtual": true
   },
   {
-   "icao": "SEJ",
-   "name": "SPICEJET VIRTUAL",
-   "callsign": "SPICEJET",
-   "virtual": true
-  },
-  {
-   "icao": "AKJ",
-   "name": "Akasa Air",
-   "callsign": "AKASA AIR",
-   "virtual": true
-  },
-  {
     "icao": "SEJ",
     "name": "SPICEJET VIRTUAL",
     "callsign": "SPICEJET",
