@@ -1969,4 +1969,11 @@
     "callsign": "WING ASIA",
     "virtual": true
   }
+  ,
+  {
+    "icao": "PCX",
+    "name": "Panther Charters, LLC",
+    "callsign": "PANTHER",
+    "virtual": true
+  }
 ]
