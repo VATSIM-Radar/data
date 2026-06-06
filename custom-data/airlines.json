@@ -1592,6 +1592,12 @@
     "virtual": true
   },
   {
+    "icao": "WCM",
+    "name": "WORLDCARGOAIRLINES",
+    "callsign": "WORLD CARGO",
+    "virtual": true
+  },
+  {
     "icao": "TRA",
     "name": "AFKLVIRTUAL",
     "callsign": "TRANSAVIA",
