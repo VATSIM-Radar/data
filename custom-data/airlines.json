@@ -1968,5 +1968,11 @@
     "name": "vAirAsia",
     "callsign": "WING ASIA",
     "virtual": true
+  },
+  {
+    "icao": "VYA",
+    "name": "Voyager Aviation",
+    "callsign": "Voyager",
+    "virtual": true
   }
 ]
