@@ -1968,5 +1968,53 @@
     "name": "vAirAsia",
     "callsign": "WING ASIA",
     "virtual": true
+  },
+  {
+    "icao": "CCA",
+    "name": "Air China Virtual",
+    "callsign": "AIR CHINA",
+    "virtual": true
+  },
+  {
+    "icao": "CAO",
+    "name": "Air China Virtual (Cargo)",
+    "callsign": "AIR CHINA FREIGHT",
+    "virtual": true
+  },
+  {
+    "icao": "BJN",
+    "name": "Air China Virtual (Beijing Airlines)",
+    "callsign": "AIR JINGHUA",
+    "virtual": true
+  },
+  {
+    "icao": "CCD",
+    "name": "Air China Virtual (Dalian Airlines)",
+    "callsign": "XIANGJIAN",
+    "virtual": true
+  },
+  {
+    "icao": "VYA",
+    "name": "Voyager Aviation",
+    "callsign": "Voyager",
+    "virtual": true
+  },
+  {
+    "icao": "PCX",
+    "name": "Panther Charters, LLC",
+    "callsign": "PANTHER",
+    "virtual": true
+  },
+  {
+    "icao": "WCM",
+    "name": "WORLDCARGOAIRLINES",
+    "callsign": "WORLD CARGO",
+    "virtual": true
+  },
+  {
+    "icao": "MSR",
+    "name": "EgyptAir Virtual",
+    "callsign": "EgyptAir",
+    "virtual": true
   }
 ]
