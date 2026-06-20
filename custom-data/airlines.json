@@ -2028,4 +2028,10 @@
     "callsign": "EgyptAir",
     "virtual": true
   }
+  {
+    "icao": "IGO",
+    "name": "6E Virtual",
+    "callsign": "IFLY",
+    "virtual": true
+  }
 ]
