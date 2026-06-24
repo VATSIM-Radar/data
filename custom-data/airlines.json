@@ -2027,5 +2027,11 @@
     "name": "EgyptAir Virtual",
     "callsign": "EgyptAir",
     "virtual": true
+  },
+  {
+    "icao": "MSC",
+    "name": "Air Cairo Virtual",
+    "callsign": "Air Cairo",
+    "virtual": true
   }
 ]
