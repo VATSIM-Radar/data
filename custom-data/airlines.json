@@ -2027,5 +2027,11 @@
     "name": "EgyptAir Virtual",
     "callsign": "EgyptAir",
     "virtual": true
+  },
+  {
+    "icao": "ICE",
+    "name": "Icelandair Virtual",
+    "callsign": "ICEAIR",
+    "virtual": true
   }
 ]
