@@ -2027,5 +2027,11 @@
     "name": "EgyptAir Virtual",
     "callsign": "EgyptAir",
     "virtual": true
+  },
+   {
+    "icao": "FTA",
+    "name": "FTA320",
+    "callsign": "FLIGHT TRAINING 320",
+    "virtual": true
   }
 ]
