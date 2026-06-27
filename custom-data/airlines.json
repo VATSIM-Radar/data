@@ -144,6 +144,18 @@
     "virtual": true
   },
   {
+    "icao": "CTV",
+    "name": "Garuda Virtual",
+    "callsign": "Supergreen",
+    "virtual": true
+  },
+  {
+    "icao": "GIA",
+    "name": "Garuda Virtual",
+    "callsign": "Indonesia",
+    "virtual": true
+  },
+  {
     "icao": "EXS",
     "name": "vEXS",
     "callsign": "CHANNEX",
