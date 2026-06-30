@@ -1058,7 +1058,13 @@
   {
     "icao": "EFW",
     "name": "vBAW",
-    "callsign": "Euroflyer",
+    "callsign": "Griffin",
+    "virtual": true
+  },
+  {
+    "icao": "BAT",
+    "name": "vBAW",
+    "callsign": "Gherkin",
     "virtual": true
   },
   {
