@@ -1068,6 +1068,24 @@
     "virtual": true
   },
   {
+    "icao": "SJC",
+    "name": "SteelJet Cargo",
+    "callsign": "STEELCARGO",
+    "virtual": true
+  },
+  {
+    "icao": "SJL",
+    "name": "SteelJet Logistics",
+    "callsign": "STEELJET",
+    "virtual": true
+  },
+  {
+    "icao": "SJE",
+    "name": "SteelJet Executive",
+    "callsign": "STEELEXECUTIVE",
+    "virtual": true
+  },
+  {
     "icao": "EUF",
     "name": "EuroFly",
     "callsign": "EUROFLY",
