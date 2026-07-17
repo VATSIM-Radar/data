@@ -6,6 +6,12 @@
     "virtual": true
   },
   {
+    "icao": "EGV",
+    "name": "Eagle Airways Virtual",
+    "callsign": "SKYRISE",
+    "virtual": true
+  },
+  {
     "icao": "OCN",
     "name": "vOCN",
     "callsign": "Ocean",
