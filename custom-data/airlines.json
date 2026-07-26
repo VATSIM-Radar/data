@@ -2059,4 +2059,10 @@
     "callsign": "KOALA",
     "virtual": false
   }
+  {
+   "icao": "BNE",
+   "name": "AirBorneo",
+   "callsigns": "Borneo"
+   "Virtual": false 
+    
 ]
