@@ -2058,5 +2058,12 @@
     "name": "Koala Air",
     "callsign": "KOALA",
     "virtual": false
+
   }
-]
+   {
+    "icao": "BNE",
+    "name": "AirBorneo",
+    "callsign": "Borneo",
+    "virtual": false
+
+
