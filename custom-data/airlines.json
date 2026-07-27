@@ -2059,4 +2059,10 @@
     "callsign": "KOALA",
     "virtual": false
   }
+  {
+    "icao": "LSA",
+    "name": "Lisboa Airlines",
+    "callsign": "Lisboeta",
+    "virtual": false
+  },
 ]
