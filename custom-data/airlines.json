@@ -1,5 +1,11 @@
 [
   {
+    "icao": "LSA",
+    "name": "Lisboa Airlines",
+    "callsign": "LISBOETA",
+    "virtual": true
+  },
+  {
     "icao": "ASK",
     "name": "AIRSKY",
     "callsign": "AIRSKY",
