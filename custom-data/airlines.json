@@ -2058,5 +2058,35 @@
     "name": "Koala Air",
     "callsign": "KOALA",
     "virtual": false
+  },
+  {
+    "icao": "TUI",
+    "name": "vTUIfly",
+    "callsign": "Blue Jet",
+    "virtual": true
+  },
+  {
+    "icao": "TFL",
+    "name": "vTUIfly",
+    "callsign": "Orange",
+    "virtual": true
+  },
+  {
+    "icao": "TOM",
+    "name": "vTUIfly",
+    "callsign": "Tomjet",
+    "virtual": true
+  },
+  {
+    "icao": "JAF",
+    "name": "vTUIfly",
+    "callsign": "Beauty",
+    "virtual": true
+  },
+  {
+    "icao": "BLX",
+    "name": "vTUIfly",
+    "callsign": "Bluescan",
+    "virtual": true
   }
 ]
