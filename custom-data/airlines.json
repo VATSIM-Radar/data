@@ -6,6 +6,12 @@
     "virtual": true
   },
   {
+    "icao": "CLR",
+    "name": "vClearance",
+    "callsign": "CLEARANCE",
+    "virtual": true
+  },
+  {
     "icao": "OCN",
     "name": "vOCN",
     "callsign": "Ocean",
