@@ -2058,5 +2058,11 @@
     "name": "Koala Air",
     "callsign": "KOALA",
     "virtual": false
-  }
+  },
+  {
+    "icao": "LRI",
+    "name": "Laridia Airlines",
+    "callsign": "LARIDIA",
+    "virtual": true
+  },
 ]
