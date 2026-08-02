@@ -2058,5 +2058,11 @@
     "name": "Koala Air",
     "callsign": "KOALA",
     "virtual": false
+  },
+  {
+    "icao": "MRK",
+    "name": "Mercargo Virtual",
+    "callsign": "MERCARGO",
+    "virtual": true
   }
 ]
