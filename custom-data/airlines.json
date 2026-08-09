@@ -2058,5 +2058,11 @@
     "name": "Koala Air",
     "callsign": "KOALA",
     "virtual": false
+  },
+  {
+    "icao": "XCO",
+    "name": "AeroColombia",
+    "callsign": "AeroColombia",
+    "virtual": true
   }
 ]
