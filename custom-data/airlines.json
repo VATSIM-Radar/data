@@ -2061,31 +2061,31 @@
   },
   {
     "icao": "TUI",
-    "name": "vTUIfly",
+    "name": "vTUI",
     "callsign": "Blue Jet",
     "virtual": true
   },
   {
     "icao": "TFL",
-    "name": "vTUIfly",
+    "name": "vTUI",
     "callsign": "Orange",
     "virtual": true
   },
   {
     "icao": "TOM",
-    "name": "vTUIfly",
+    "name": "vTUI",
     "callsign": "Tomjet",
     "virtual": true
   },
   {
     "icao": "JAF",
-    "name": "vTUIfly",
+    "name": "vTUI",
     "callsign": "Beauty",
     "virtual": true
   },
   {
     "icao": "BLX",
-    "name": "vTUIfly",
+    "name": "vTUI",
     "callsign": "Bluescan",
     "virtual": true
   }
