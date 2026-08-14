@@ -1,4 +1,8 @@
-[
+{
+    "icao": "FFP",
+    "name": "FISCHER Air",
+    "callsign": "Flying Fisch",
+    "virtual": true
   {
     "icao": "ASK",
     "name": "AIRSKY",
