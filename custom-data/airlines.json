@@ -1,5 +1,11 @@
 [
   {
+    "icao": "FFP",
+    "name": "Fischer Air",
+    "callsign": "Flying Fish",
+    "virtual": true
+    },
+  {
     "icao": "ASK",
     "name": "AIRSKY",
     "callsign": "AIRSKY",
