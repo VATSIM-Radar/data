@@ -2060,9 +2060,9 @@
     "virtual": false
   },
   {
-    "icao":"FKA"
-    "name":"Franken Air"
-    "callsign":"Franke"
+    "icao":"FKA",
+    "name":"Franken Air",
+    "callsign":"Franke",
     "virtual":true
   }
 
