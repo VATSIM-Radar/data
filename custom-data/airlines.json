@@ -12,6 +12,18 @@
     "virtual": true
   },
   {
+    "icao": "CLF",
+    "name": "Clearance Cargo",
+    "callsign": "Clearance Cargo",
+    "virtual": true
+  },
+  {
+    "icao": "CLR",
+    "name": "Clearance",
+    "callsign": "Clearance",
+    "virtual": true
+  },
+  {
     "icao": "THY",
     "name": "vTHY",
     "callsign": "Turkish",
