@@ -51,7 +51,7 @@
     "icao": "SBI",
     "name": "S7 AIRLINES",
     "callsign": "SIBERIAN AIRLINES",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "BRU",
@@ -2126,3 +2126,9 @@
     "virtual": true
   }
 ]
+{
+    "icao": "UTA",
+    "name": "Utair",
+    "callsign": "Utair",
+    "virtual": true
+  },
