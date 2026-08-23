@@ -2063,6 +2063,69 @@
     "icao": "FKA",
     "name": "Franken Air",
     "callsign": "FRANKE",
+    "icao": "CLF",
+    "name": "Clearance Cargo",
+    "callsign": "Clearance Cargo",
+    "virtual": true
+  },
+  {
+    "icao": "CLR",
+    "name": "Clearance",
+    "callsign": "Clearance",
+    "virtual": true
+  },
+  {
+    "icao": "FFP",
+    "name": "Fischer Air",
+    "callsign": "Flying Fish",
+    "virtual": true
+  },
+  {
+    "icao": "XCO",
+    "name": "AeroColombia",
+    "callsign": "AeroColombia",
+    "virtual": true
+  },
+  {
+    "icao": "LSA",
+    "name": "Lisboa Airlines",
+    "callsign": "LISBOETA",
+    "virtual": true
+  },
+  {
+    "icao": "TUI",
+    "name": "vTUI",
+    "callsign": "Blue Jet",
+    "virtual": true
+  },
+  {
+    "icao": "TFL",
+    "name": "vTUI",
+    "callsign": "Orange",
+    "virtual": true
+  },
+  {
+    "icao": "TOM",
+    "name": "vTUI",
+    "callsign": "Tomjet",
+    "virtual": true
+  },
+  {
+    "icao": "JAF",
+    "name": "vTUI",
+    "callsign": "Beauty",
+    "virtual": true
+  },
+  {
+    "icao": "BLX",
+    "name": "vTUI",
+    "callsign": "Bluescan",
+    "virtual": true
+  },
+  {
+    "icao": "EGV",
+    "name": "Eagle Airways Virtual",
+    "callsign": "SKYRISE",
     "virtual": true
   }
 
