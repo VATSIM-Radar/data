@@ -2124,5 +2124,11 @@
     "name": "Eagle Airways Virtual",
     "callsign": "SKYRISE",
     "virtual": true
+  },
+  {
+    "icao": "PNN",
+    "name": "Pennine Air",
+    "callsign": "PENNINE",
+    "virtual": true
   }
 ]
