@@ -1,5 +1,11 @@
 [
   {
+  "icao": "VSK",
+  "name": "Skylines Virtual",
+  "callsign": "SKYLARK",
+  "virtual": true
+},
+  {
     "icao": "ASK",
     "name": "AIRSKY",
     "callsign": "AIRSKY",
