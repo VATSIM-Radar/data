@@ -2124,5 +2124,29 @@
     "name": "Eagle Airways Virtual",
     "callsign": "SKYRISE",
     "virtual": true
+  },
+  {
+    "icao": "AIR",
+    "name": "AirMed",
+    "callsign": "AIRMED",
+    "virtual": true
+  },
+  {
+    "icao": "MEJ",
+    "name": "AirMed",
+    "callsign": "MEDJET",
+    "virtual": true
+  },
+  {
+    "icao": "PEG",
+    "name": "AirMed",
+    "callsign": "PEGASO",
+    "virtual": true
+  },
+  {
+    "icao": "STA",
+    "name": "AirMed",
+    "callsign": "STARS",
+    "virtual": true
   }
 ]
