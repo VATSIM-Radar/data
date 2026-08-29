@@ -2124,5 +2124,11 @@
     "name": "Eagle Airways Virtual",
     "callsign": "SKYRISE",
     "virtual": true
-  }
+  },
+  {
+ "icao": "BNV",
+ "name": "BlueNova Virtual Airlines",
+ "callsign": "BLUENOVA",
+ "virtual": true
+ }
 ]
