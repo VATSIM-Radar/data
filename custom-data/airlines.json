@@ -2120,12 +2120,6 @@
     "virtual": true
   },
   {
-    "icao": "LSA",
-    "name": "Lisboa Airlines",
-    "callsign": "LISBOETA",
-    "virtual": true
-  },
-  {
     "icao": "BNV",
     "name": "BlueNova Virtual Airlines",
     "callsign": "BLUENOVA",
