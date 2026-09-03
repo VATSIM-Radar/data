@@ -2132,12 +2132,6 @@
     "virtual": true
   },
   {
-    "icao": "LSA",
-    "name": "Lisboa Airlines",
-    "callsign": "LISBOETA",
-    "virtual": true
-  },
-  {
     "icao": "AIR",
     "name": "AirMed",
     "callsign": "AIRMED",
