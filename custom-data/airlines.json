@@ -2160,5 +2160,11 @@
     "name": "Pennine Air",
     "callsign": "PENNINE",
     "virtual": true
+  },
+  {
+    "icao": "FKA",
+    "name": "Franken Air",
+    "callsign": "FRANKE",
+    "virtual": true
   }
 ]
