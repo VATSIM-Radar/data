@@ -1,7 +1,7 @@
 import {defineCronJob} from "../../utils/cron";
 import {join} from "path";
 import {dataDirectory} from "~~/utils";
-import {existsSync, readdirSync, symlinkSync, writeFileSync} from "node:fs";
+import {existsSync, mkdirSync, readdirSync, writeFileSync} from "node:fs";
 import {downloadLogo, fetchRemoteCodes, LOGO_SOURCES, processLogo, resolveOverrides} from "~~/utils/airline-logos";
 
 export let airlineLogos: Set<string> = new Set()
@@ -9,6 +9,7 @@ export let airlineLogos: Set<string> = new Set()
 export default defineNitroPlugin(() => {
     defineCronJob('0 0 * * *', async () => {
         const dataPath = join(dataDirectory, 'logos');
+        mkdirSync(dataPath, {recursive: true})
 
         let codes = new Set<string>();
         for (const file of readdirSync(dataPath)) {

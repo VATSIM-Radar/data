@@ -1,7 +1,7 @@
 import {defineCronJob} from "../../utils/cron";
 import {join} from "path";
 import {customDataDirectory, dataDirectory} from "~~/utils";
-import {readFileSync, writeFileSync} from "node:fs";
+import {mkdirSync, readFileSync, writeFileSync} from "node:fs";
 
 // Downloads the country flags used by the pilot overlays from flagcdn.com
 // into `public/flags/{code}.png` so the app does not depend on an external
@@ -13,8 +13,10 @@ interface CountryCodeEntry {
     afterPrefixLength?: number;
 }
 
-const SOURCE = (code: string) => `https://flagcdn.com/w160/${ code }.png`;
+const SOURCE = (code: string) => `https://flagcdn.com/w160/${code}.png`;
 const OUTPUT = join(dataDirectory, 'flags');
+
+mkdirSync(OUTPUT, {recursive: true})
 
 export let countries: Set<string> = new Set()
 
@@ -27,14 +29,14 @@ export default defineNitroPlugin(() => {
         let failed = 0;
 
         for (const code of codes) {
-            const filePath = join(OUTPUT, `${ code }.png`);
+            const filePath = join(OUTPUT, `${code}.png`);
 
             try {
                 const response = await fetch(SOURCE(code));
                 if (!response.ok) {
                     console.log(response.url)
                     response.text().catch(console.error).then(console.log)
-                    console.error(`Failed (${ response.status }): ${ code }`);
+                    console.error(`Failed (${response.status}): ${code}`);
                     failed++;
                     continue;
                 }
@@ -43,13 +45,12 @@ export default defineNitroPlugin(() => {
                 writeFileSync(filePath, buffer);
                 countries.add(code)
                 downloaded++;
-            }
-            catch (error) {
-                console.error(`Failed: ${ code }`, error);
+            } catch (error) {
+                console.error(`Failed: ${code}`, error);
                 failed++;
             }
         }
 
-        console.log(`Done: ${ downloaded } downloaded, ${ failed } failed.`);
+        console.log(`Done: ${downloaded} downloaded, ${failed} failed.`);
     })
 })
