@@ -19,6 +19,8 @@ export default defineEventHandler(async (event) => {
         return
     }
 
+    setHeader(event, 'Access-Control-Allow-Origin', '*')
+
     const path = getRouterParam(event, 'path') ?? ''
 
     const filePath = resolve(root, path)
