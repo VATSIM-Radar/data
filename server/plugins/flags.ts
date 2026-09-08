@@ -14,7 +14,7 @@ interface CountryCodeEntry {
 }
 
 const SOURCE = (code: string) => `https://flagcdn.com/w160/${ code }.png`;
-const OUTPUT = join(dataDirectory, '../public/flags');
+const OUTPUT = join(dataDirectory, 'flags');
 
 export let countries: Set<string> = new Set()
 

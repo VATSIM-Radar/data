@@ -1,4 +1,4 @@
-FROM node:26
+FROM node:26-slim
 WORKDIR /radar
 
 COPY package.json package.json
@@ -6,6 +6,7 @@ COPY yarn.lock yarn.lock
 COPY .yarn /radar/.yarn/
 COPY .yarnrc.yml .yarnrc.yml
 
+RUN npm i -g yarn
 RUN yarn
 
 COPY . /radar

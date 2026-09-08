@@ -1,27 +1,27 @@
 import {defineCronJob} from "../../utils/cron";
 import {join} from "path";
 import {dataDirectory} from "~~/utils";
-import {existsSync, readdirSync, writeFileSync} from "node:fs";
+import {existsSync, readdirSync, symlinkSync, writeFileSync} from "node:fs";
 import {downloadLogo, fetchRemoteCodes, LOGO_SOURCES, processLogo, resolveOverrides} from "~~/utils/airline-logos";
 
 export let airlineLogos: Set<string> = new Set()
 
 export default defineNitroPlugin(() => {
     defineCronJob('0 0 * * *', async () => {
-        const publicPath = join(dataDirectory, '../public/logos');
+        const dataPath = join(dataDirectory, 'logos');
 
         let codes = new Set<string>();
-        for (const file of readdirSync(publicPath)) {
+        for (const file of readdirSync(dataPath)) {
             if (file.endsWith('.png')) codes.add(file.slice(0, -4));
         }
 
-            const remoteCodes = await fetchRemoteCodes();
-            if (remoteCodes.size > 0) codes = remoteCodes;
+        const remoteCodes = await fetchRemoteCodes();
+        if (remoteCodes.size > 0) codes = remoteCodes;
 
         const manifest: string[] = [];
 
         for (const code of codes) {
-            const filePath = join(publicPath, `${code}.png`);
+            const filePath = join(dataPath, `${code}.png`);
 
             if (existsSync(filePath)) {
                 manifest.push(code);
@@ -40,6 +40,7 @@ export default defineNitroPlugin(() => {
                     const processed = await processLogo(image, invert);
                     writeFileSync(filePath, processed);
                     manifest.push(code);
+                    console.log(manifest.length)
                     break;
                 } catch (e) {
                     console.error(e);
