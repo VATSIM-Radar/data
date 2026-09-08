@@ -3342,7 +3342,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sharp@npm:^0.35.4":
+"sharp@npm:0.35.4":
   version: 0.35.4
   resolution: "sharp@npm:0.35.4"
   dependencies:
@@ -4050,7 +4050,7 @@ __metadata:
     "@types/node": "npm:26.5.0"
     croner: "npm:10.0.1"
     nitropack: "npm:2.13.4"
-    sharp: "npm:^0.35.4"
+    sharp: "npm:0.35.4"
   languageName: unknown
   linkType: soft
 
