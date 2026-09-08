@@ -1,0 +1,53 @@
+import {defineCronJob} from "../../utils/cron";
+import {join} from "path";
+import {dataDirectory} from "~~/utils";
+import {existsSync, readdirSync, writeFileSync} from "node:fs";
+import {downloadLogo, fetchRemoteCodes, LOGO_SOURCES, processLogo, resolveOverrides} from "~~/utils/airline-logos";
+
+export let airlineLogos: Set<string> = new Set()
+
+export default defineNitroPlugin(() => {
+    defineCronJob('0 0 * * *', async () => {
+        const publicPath = join(dataDirectory, '../public/logos');
+
+        let codes = new Set<string>();
+        for (const file of readdirSync(publicPath)) {
+            if (file.endsWith('.png')) codes.add(file.slice(0, -4));
+        }
+
+            const remoteCodes = await fetchRemoteCodes();
+            if (remoteCodes.size > 0) codes = remoteCodes;
+
+        const manifest: string[] = [];
+
+        for (const code of codes) {
+            const filePath = join(publicPath, `${code}.png`);
+
+            if (existsSync(filePath)) {
+                manifest.push(code);
+                continue;
+            }
+
+            const override = resolveOverrides(code);
+            const sources = override ? [override.url] : LOGO_SOURCES.map(source => `${source}/${code}.png`);
+            const invert = override?.invert ?? true;
+
+            for (const source of sources) {
+                const image = await downloadLogo(source);
+                if (!image) continue;
+
+                try {
+                    const processed = await processLogo(image, invert);
+                    writeFileSync(filePath, processed);
+                    manifest.push(code);
+                    break;
+                } catch (e) {
+                    console.error(e);
+                }
+            }
+        }
+
+        console.log(manifest.length)
+        airlineLogos = new Set(manifest)
+    })
+})
