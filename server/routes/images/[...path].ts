@@ -10,6 +10,15 @@ import {dataDirectory} from "~~/utils";
 const root = join(dataDirectory)
 
 export default defineEventHandler(async (event) => {
+    if (
+        handleCors(event, {
+            origin: '*',
+            methods: ['GET', 'HEAD', 'OPTIONS'],
+        })
+    ) {
+        return
+    }
+
     const path = getRouterParam(event, 'path') ?? ''
 
     const filePath = resolve(root, path)
