@@ -73,32 +73,9 @@ export async function processLogo(input: Buffer, invert: boolean): Promise<Buffe
     const height = Math.max(1, Math.round(metadata.height * scale));
 
     const pipeline = sharp(input)
-        .resize({ width, height, fit: 'inside', withoutEnlargement: true })
-        .ensureAlpha()
-        .raw();
+        .resize({ width, height, fit: 'inside', withoutEnlargement: true });
 
-    if (!invert) return pipeline.png().toBuffer();
-
-    const { data, info } = await pipeline.toBuffer({ resolveWithObject: true });
-
-    for (let i = 0; i < data.length; i += 4) {
-        const r = data[i];
-        const g = data[i + 1];
-        const b = data[i + 2];
-        const a = data[i + 3];
-
-        if (a > 0) {
-            const brightness = (0.299 * r) + (0.587 * g) + (0.114 * b);
-
-            if (brightness < BRIGHTNESS_THRESHOLD) {
-                data[i] = 255;
-                data[i + 1] = 255;
-                data[i + 2] = 255;
-            }
-        }
-    }
-
-    return sharp(data, { raw: { width: info.width, height: info.height, channels: 4 } }).png().toBuffer();
+    return pipeline.png().toBuffer();
 }
 
 export function resolveOverrides(code: string): { url: string; invert: boolean } | null {
