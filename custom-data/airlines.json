@@ -2160,5 +2160,11 @@
     "name": "Pennine Air",
     "callsign": "PENNINE",
     "virtual": true
-  }
+  },
+  {
+    "icao": "BKC",
+    "name": "Kecen Virtual",
+    "callsign": "BLOSSOM",
+    "virtual": true
+}
 ]
