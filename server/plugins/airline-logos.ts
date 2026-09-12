@@ -7,7 +7,7 @@ import {downloadLogo, fetchRemoteCodes, LOGO_SOURCES, processLogo, resolveOverri
 export let airlineLogos: Set<string> = new Set()
 
 const date = new Date()
-const force = date.getFullYear() === 2026 && date.getMonth() === 8 && date.getDate() === 8
+const force = date.getFullYear() === 2026 && date.getMonth() === 8 && date.getDate() === 12
 
 export default defineNitroPlugin(() => {
     defineCronJob('0 0 * * *', async () => {

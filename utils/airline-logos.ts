@@ -10,9 +10,8 @@ export interface OverrideEntry {
 
 // Fallback chain used when no override is set for an airline code.
 export const LOGO_SOURCES = [
-    'https://raw.githubusercontent.com/Jxck-S/airline-logos/main/flightaware_logos',
+    'https://raw.githubusercontent.com/Jxck-S/airline-logos/main/avcodes_banners',
     'https://raw.githubusercontent.com/Jxck-S/airline-logos/main/fr24_banners',
-    'https://raw.githubusercontent.com/Jxck-S/airline-logos/main/radarbox_logos',
 ];
 
 // Logos are processed at up to 128x128 and displayed at 24x24 via CSS.
