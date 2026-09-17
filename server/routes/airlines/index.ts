@@ -20,5 +20,5 @@ export default defineCachedEventHandler(async (event) => {
 
     return fullList;
 }, {
-    maxAge: import.meta.dev ? 1 : 60 * 60 * 24 * 7,
+    maxAge: import.meta.dev ? 1 : 60 * 60 * 2,
 })
