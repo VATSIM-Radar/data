@@ -7,7 +7,7 @@ import {downloadLogo, fetchRemoteCodes, LOGO_SOURCES, processLogo, resolveOverri
 export let airlineLogos: Set<string> = new Set()
 
 const date = new Date()
-const force = date.getFullYear() === 2026 && date.getMonth() === 8 && date.getDate() === 12
+const force = date.getFullYear() === 2026 && date.getMonth() === 8 && date.getDate() === 17
 
 export default defineNitroPlugin(() => {
     defineCronJob('0 0 * * *', async () => {
@@ -44,7 +44,7 @@ export default defineNitroPlugin(() => {
                     const processed = await processLogo(image, invert);
                     writeFileSync(filePath, processed);
                     manifest.push(code);
-                    console.log(manifest.length)
+                    console.log(manifest.length, code)
                     break;
                 } catch (e) {
                     console.error(e);
