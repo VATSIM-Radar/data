@@ -2160,5 +2160,11 @@
     "name": "Pennine Air",
     "callsign": "PENNINE",
     "virtual": true
+  },
+  {
+    "icao": "YCS",
+    "name": "Tommy Virtual Airways",
+    "callsign": "GOLDWING",
+    "virtual": true
   }
 ]
