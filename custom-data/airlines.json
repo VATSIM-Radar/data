@@ -1,4 +1,16 @@
 [
+   {
+    "icao": "SKA",
+    "name": "SKYALLIANCE",
+    "callsign": "SKYALLIANCE",
+    "virtual": true
+  },
+    {
+    "icao": "SKC",
+    "name": "SKYALLIANCE CARGO",
+    "callsign": "SKYALLIANCE CARGO",
+    "virtual": true
+  },
   {
     "icao": "ASK",
     "name": "AIRSKY",
