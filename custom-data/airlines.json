@@ -1,4 +1,10 @@
 [
+{ 
+  "icao": "VNR", 
+  "name": "VinciAir", 
+  "callsign": "WINAIR", 
+  "virtual": true 
+},
   {
     "icao": "ASK",
     "name": "AIRSKY",
