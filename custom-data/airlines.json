@@ -2160,5 +2160,17 @@
     "name": "Pennine Air",
     "callsign": "PENNINE",
     "virtual": true
+  },
+  {
+    "icao": "GRF",
+    "name": "Greif Airlines",
+    "callsign": "GRIFFIN",
+    "virtual": true
+  },
+  {
+    "icao": "HSE",
+    "name": "Greif Logistics",
+    "callsign": "HANSEATIC",
+    "virtual": true
   }
 ]
