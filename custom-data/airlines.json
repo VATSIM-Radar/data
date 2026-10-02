@@ -2160,5 +2160,11 @@
     "name": "Pennine Air",
     "callsign": "PENNINE",
     "virtual": true
+  },
+  {
+  "icao": "SKY",
+  "name": "Sky Airways",
+  "callsign": "SKY",
+  "virtual": true
   }
-]
+ ]  
