@@ -6,10 +6,10 @@
   "virtual": true 
 },
   {
-   "icao": "ASK",
-   "name": "AIRSKY",  
-   "callsign": "AIRSKY",
-   "virtual": true
+    "icao": "ASK",
+    "name": "AIRSKY",
+    "callsign": "AIRSKY",
+    "virtual": true
   },
   {
     "icao": "OCN",
@@ -1064,7 +1064,13 @@
   {
     "icao": "EFW",
     "name": "vBAW",
-    "callsign": "Euroflyer",
+    "callsign": "Griffin",
+    "virtual": true
+  },
+  {
+    "icao": "BAT",
+    "name": "vBAW",
+    "callsign": "Gherkin",
     "virtual": true
   },
   {
@@ -1084,12 +1090,6 @@
     "icao": "LGS",
     "name": "Le Groupe VA",
     "callsign": "LEGROUPE",
-    "virtual": true
-  },
-  {
-    "icao": "EUS",
-    "name": "Euroscot/Air Scotland Virtual",
-    "callsign": "Euroscot",
     "virtual": true
   },
   {
@@ -1171,12 +1171,6 @@
     "virtual": false
   },
   {
-    "icao": "AIC",
-    "name": "Air India Virtual",
-    "callsign": "AIRINDIA",
-    "virtual": true
-  },
-  {
     "icao": "AXB",
     "name": "Air India Virtual",
     "callsign": "EXPRESS INDIA",
@@ -1228,12 +1222,6 @@
     "icao": "PHENX",
     "name": "Phoenix AirV",
     "callsign": "PHOENIX",
-    "virtual": true
-  },
-  {
-    "icao": "NOX",
-    "name": "Nox Airlines",
-    "callsign": "noxair",
     "virtual": true
   },
   {
@@ -1417,12 +1405,6 @@
     "virtual": true
   },
   {
-    "icao": "VEC",
-    "name": "vDHL Group",
-    "callsign": "Vecar",
-    "virtual": true
-  },
-  {
     "icao": "EXU",
     "name": "EXECUTIVE AIRLINES VIRTUAL",
     "callsign": "SACIR",
@@ -1517,24 +1499,6 @@
     "icao": "PPA",
     "name": "POP! Airways",
     "callsign": "Popair",
-    "virtual": true
-  },
-  {
-    "icao": "YUM",
-    "name": "Yume Wings",
-    "callsign": "DREAM WING",
-    "virtual": true
-  },
-  {
-    "icao": "YEC",
-    "name": "Yume Cargo",
-    "callsign": "DREAM CARGO",
-    "virtual": true
-  },
-  {
-    "icao": "SCC",
-    "name": "Air Scotland Cargo Virtual",
-    "callsign": "Braveheart-Cargo",
     "virtual": true
   },
   {
@@ -1637,13 +1601,13 @@
     "icao": "TROY",
     "name": "US Department of Homeland Security",
     "callsign": "TROY",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "FEMA",
     "name": "US Federal Emergency Management Agency",
     "callsign": "FEMA",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "AKJ",
@@ -1676,12 +1640,6 @@
     "virtual": true
   },
   {
-    "icao": "AXI",
-    "name": "Axiom",
-    "callsign": "AXIOM",
-    "virtual": true
-  },
-  {
     "icao": "IRM",
     "name": "vMahan Air",
     "callsign": "Mahan Air",
@@ -1697,12 +1655,6 @@
     "icao": "SAA",
     "name": "South African Virtual Airways",
     "callsign": "SPRINGBOK",
-    "virtual": true
-  },
-  {
-    "icao": "JHL",
-    "name": "JeeHell Air",
-    "callsign": "JEEHELL",
     "virtual": true
   },
   {
@@ -1847,6 +1799,240 @@
     "icao": "TLM",
     "name": "VIRTUAL LION AIR GROUP",
     "callsign": "MENTARI",
+    "virtual": true
+  },
+  {
+    "icao": "SNC",
+    "name": "SANRIO CARGO AIRLINE",
+    "callsign": "SANRIO",
+    "virtual": true
+  },
+  {
+    "icao": "ITY",
+    "name": "ITA Airways virtual",
+    "callsign": "ITARROW",
+    "virtual": true
+  },
+  {
+    "icao": "MAS",
+    "name": "VMAS",
+    "callsign": "MALAYSIAN",
+    "virtual": true
+  },
+  {
+    "icao": "FFM",
+    "name": "VMAS",
+    "callsign": "FIREFLY",
+    "virtual": true
+  },
+  {
+    "icao": "MWG",
+    "name": "VMAS",
+    "callsign": "AIRBORNEO",
+    "virtual": true
+  },
+  {
+    "icao": "HGE",
+    "name": "SUDLINE",
+    "callsign": "HOPSOUTH",
+    "virtual": true
+  },
+  {
+    "icao": "OAL",
+    "name": "Olympic Aegean Virtual",
+    "callsign": "Olympic",
+    "virtual": true
+  },
+  {
+    "icao": "AEE",
+    "name": "Olympic Aegean Virtual",
+    "callsign": "Aegean",
+    "virtual": true
+  },
+  {
+    "icao": "EFA",
+    "name": "Express Freighters Australia",
+    "callsign": "Express Freight Qantas",
+    "virtual": true
+  },
+  {
+    "icao": "AXM",
+    "name": "vAirAsia",
+    "callsign": "RED CAP",
+    "virtual": true
+  },
+  {
+    "icao": "XAX",
+    "name": "vAirAsia",
+    "callsign": "XANADU",
+    "virtual": true
+  },
+  {
+    "icao": "AIQ",
+    "name": "vAirAsia",
+    "callsign": "THAI ASIA",
+    "virtual": true
+  },
+  {
+    "icao": "AWQ",
+    "name": "vAirAsia",
+    "callsign": "WAGON AIR",
+    "virtual": true
+  },
+  {
+    "icao": "APG",
+    "name": "vAirAsia",
+    "callsign": "COOL RED",
+    "virtual": true
+  },
+  {
+    "icao": "KTC",
+    "name": "vAirAsia",
+    "callsign": "RED NAGA",
+    "virtual": true
+  },
+  {
+    "icao": "IAD",
+    "name": "vAirAsia",
+    "callsign": "RED KNIGHT",
+    "virtual": true
+  },
+  {
+    "icao": "WAJ",
+    "name": "vAirAsia",
+    "callsign": "WING ASIA",
+    "virtual": true
+  },
+  {
+    "icao": "DOJ",
+    "name": "DOJ PRISONER AND ALIEN TRANSPORTATION SERVICE",
+    "callsign": "JUSTICE",
+    "virtual": true
+  },
+  {
+    "icao": "CCA",
+    "name": "Air China Virtual",
+    "callsign": "AIR CHINA",
+    "virtual": true
+  },
+  {
+    "icao": "BJN",
+    "name": "Air China Virtual (Beijing Airlines)",
+    "callsign": "AIR JINGHUA",
+    "virtual": true
+  },
+  {
+    "icao": "CCD",
+    "name": "Air China Virtual (Dalian Airlines)",
+    "callsign": "XIANGJIAN",
+    "virtual": true
+  },
+  {
+    "icao": "VYA",
+    "name": "Voyager Aviation",
+    "callsign": "Voyager",
+    "virtual": true
+  },
+  {
+    "icao": "WCM",
+    "name": "WORLDCARGOAIRLINES",
+    "callsign": "WORLD CARGO",
+    "virtual": true
+  },
+  {
+    "icao": "MSR",
+    "name": "EgyptAir Virtual",
+    "callsign": "EgyptAir",
+    "virtual": true
+  },
+  {
+    "icao": "TALN",
+    "name": "Royal Australian Air Force",
+    "callsign": "Talon",
+    "virtual": false
+  },
+  {
+    "icao": "CTV",
+    "name": "Garuda Virtual",
+    "callsign": "Supergreen",
+    "virtual": true
+  },
+  {
+    "icao": "GIA",
+    "name": "Garuda Virtual",
+    "callsign": "Indonesia",
+    "virtual": true
+  },
+  {
+    "icao": "MSC",
+    "name": "Air Cairo Virtual",
+    "callsign": "Air Cairo",
+    "virtual": true
+  },
+  {
+    "icao": "KOA",
+    "name": "Koala Air",
+    "callsign": "KOALA",
+    "virtual": false
+  },
+  {
+    "icao": "XCO",
+    "name": "AeroColombia",
+    "callsign": "AeroColombia",
+    "virtual": true
+  },
+  {
+    "icao": "TUI",
+    "name": "vTUI",
+    "callsign": "Blue Jet",
+    "virtual": true
+  },
+  {
+    "icao": "TFL",
+    "name": "vTUI",
+    "callsign": "Orange",
+    "virtual": true
+  },
+  {
+    "icao": "TOM",
+    "name": "vTUI",
+    "callsign": "Tomjet",
+    "virtual": true
+  },
+  {
+    "icao": "JAF",
+    "name": "vTUI",
+    "callsign": "Beauty",
+    "virtual": true
+  },
+  {
+    "icao": "BLX",
+    "name": "vTUI",
+    "callsign": "Bluescan",
+    "virtual": true
+  },
+  {
+    "icao": "AIR",
+    "name": "AirMed",
+    "callsign": "AIRMED",
+    "virtual": true
+  },
+  {
+    "icao": "MEJ",
+    "name": "AirMed",
+    "callsign": "MEDJET",
+    "virtual": true
+  },
+  {
+    "icao": "PEG",
+    "name": "AirMed",
+    "callsign": "PEGASO",
+    "virtual": true
+  },
+  {
+    "icao": "STA",
+    "name": "AirMed",
+    "callsign": "STARS",
     "virtual": true
   }
 ]
