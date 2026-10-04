@@ -2048,12 +2048,6 @@
     "virtual": true
   },
   {
-    "icao": "CXA",
-    "name": "Virtual Xiamen Airlines",
-    "callsign": "XIAMEN AIR",
-    "virtual": true
-  },
-  {
     "icao": "CJX",
     "name": "Virtual Xiamen Airlines (Jiangxi AIr)",
     "callsign": "AIR CRANE",
