@@ -1928,6 +1928,60 @@
     "virtual": true
   },
   {
+    "icao": "CSN",
+    "name": "Virtual China Southern Airlines",
+    "callsign": "CHINA SOUTHERN",
+    "virtual": true
+  },
+  {
+    "icao": "CSG",
+    "name": "Virtual China Southern Airlines (Cargo)",
+    "callsign": "SOUTHERN CARGO",
+    "virtual": true
+  },
+  {
+    "icao": "SAG",
+    "name": "Virtual China Southern Airlines (General Aviation)",
+    "callsign": "AERO EAGLE",
+    "virtual": true
+  },
+  {
+    "icao": "CES",
+    "name": "Virtual China Eastern",
+    "callsign": "CHINA EASTERN",
+    "virtual": true
+  },
+  {
+    "icao": "CSH",
+    "name": "Virtual China Eastern (Shanghai Air)",
+    "callsign": "SHANGHAI AIR",
+    "virtual": true
+  },
+  {
+    "icao": "CKK",
+    "name": "Virtual China Eastern (Cargo)",
+    "callsign": "CARGO KING",
+    "virtual": true
+  },
+  {
+    "icao": "CUA",
+    "name": "Virtual China Eastern (China United)",
+    "callsign": "CHINA UNITED",
+    "virtual": true
+  },
+  {
+    "icao": "CJX",
+    "name": "Virtual Xiamen Airlines (Jiangxi Air)",
+    "callsign": "AIR CRANE",
+    "virtual": true
+  },
+  {
+    "icao": "HBH",
+    "name": "Virtual Xiamen Airlines (Hebei Air)",
+    "callsign": "HEBEI AIR",
+    "virtual": true
+  },
+  {
     "icao": "VYA",
     "name": "Voyager Aviation",
     "callsign": "Voyager",
