@@ -2030,18 +2030,6 @@
     "virtual": true
   },
   {
-    "icao": "VSK",
-    "name": "Skylines Virtual",
-    "callsign": "SKYLARK",
-    "virtual": true
-  },
-  {
-    "icao": "PNN",
-    "name": "Pennine Air",
-    "callsign": "PENNINE",
-    "virtual": true
-  },
-  {
     "icao": "GRF",
     "name": "Greif Airlines",
     "callsign": "GRIFFIN",
