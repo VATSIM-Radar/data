@@ -1087,12 +1087,6 @@
     "virtual": true
   },
   {
-    "icao": "EUS",
-    "name": "Euroscot/Air Scotland Virtual",
-    "callsign": "Euroscot",
-    "virtual": true
-  },
-  {
     "icao": "VAF",
     "name": "Flying Friend VA",
     "callsign": "SkyFriend",
@@ -1169,12 +1163,6 @@
     "callsign": "ARMY",
     "country": "UNITED STATES",
     "virtual": false
-  },
-  {
-    "icao": "AIC",
-    "name": "Air India Virtual",
-    "callsign": "AIRINDIA",
-    "virtual": true
   },
   {
     "icao": "AXB",
@@ -1411,12 +1399,6 @@
     "virtual": true
   },
   {
-    "icao": "VEC",
-    "name": "vDHL Group",
-    "callsign": "Vecar",
-    "virtual": true
-  },
-  {
     "icao": "EXU",
     "name": "EXECUTIVE AIRLINES VIRTUAL",
     "callsign": "SACIR",
@@ -1511,24 +1493,6 @@
     "icao": "PPA",
     "name": "POP! Airways",
     "callsign": "Popair",
-    "virtual": true
-  },
-  {
-    "icao": "YUM",
-    "name": "Yume Wings",
-    "callsign": "DREAM WING",
-    "virtual": true
-  },
-  {
-    "icao": "YEC",
-    "name": "Yume Cargo",
-    "callsign": "DREAM CARGO",
-    "virtual": true
-  },
-  {
-    "icao": "SCC",
-    "name": "Air Scotland Cargo Virtual",
-    "callsign": "Braveheart-Cargo",
     "virtual": true
   },
   {
@@ -1670,12 +1634,6 @@
     "virtual": true
   },
   {
-    "icao": "AXI",
-    "name": "Axiom",
-    "callsign": "AXIOM",
-    "virtual": true
-  },
-  {
     "icao": "IRM",
     "name": "vMahan Air",
     "callsign": "Mahan Air",
@@ -1691,12 +1649,6 @@
     "icao": "SAA",
     "name": "South African Virtual Airways",
     "callsign": "SPRINGBOK",
-    "virtual": true
-  },
-  {
-    "icao": "JHL",
-    "name": "JeeHell Air",
-    "callsign": "JEEHELL",
     "virtual": true
   },
   {
@@ -1874,33 +1826,9 @@
     "virtual": true
   },
   {
-    "icao": "SGE",
-    "name": "SUDWEST VIRTUAL",
-    "callsign": "YELLOWDOT",
-    "virtual": true
-  },
-  {
     "icao": "HGE",
     "name": "SUDLINE",
     "callsign": "HOPSOUTH",
-    "virtual": true
-  },
-  {
-    "icao": "ALA",
-    "name": "Alpaca Airlines",
-    "callsign": "ALPACA",
-    "virtual": true
-  },
-  {
-    "icao": "WLF",
-    "name": "Wolfair Aviation",
-    "callsign": "Wolfair",
-    "virtual": true
-  },
-  {
-    "icao": "PNF",
-    "name": "Pan-African Virtual Airlines",
-    "callsign": "PanAF",
     "virtual": true
   },
   {
@@ -1976,21 +1904,9 @@
     "virtual": true
   },
   {
-    "icao": "DOE",
-    "name": "National Nuclear Security Administration",
-    "callsign": "ENERGY",
-    "virtual": true
-  },
-  {
     "icao": "CCA",
     "name": "Air China Virtual",
     "callsign": "AIR CHINA",
-    "virtual": true
-  },
-  {
-    "icao": "CAO",
-    "name": "Air China Virtual (Cargo)",
-    "callsign": "AIR CHINA FREIGHT",
     "virtual": true
   },
   {
@@ -2009,12 +1925,6 @@
     "icao": "VYA",
     "name": "Voyager Aviation",
     "callsign": "Voyager",
-    "virtual": true
-  },
-  {
-    "icao": "PCX",
-    "name": "Panther Charters, LLC",
-    "callsign": "PANTHER",
     "virtual": true
   },
   {
@@ -2060,24 +1970,6 @@
     "virtual": false
   },
   {
-    "icao": "CLF",
-    "name": "Clearance Cargo",
-    "callsign": "Clearance Cargo",
-    "virtual": true
-  },
-  {
-    "icao": "CLR",
-    "name": "Clearance",
-    "callsign": "Clearance",
-    "virtual": true
-  },
-  {
-    "icao": "FFP",
-    "name": "Fischer Air",
-    "callsign": "Flying Fish",
-    "virtual": true
-  },
-  {
     "icao": "XCO",
     "name": "AeroColombia",
     "callsign": "AeroColombia",
@@ -2114,18 +2006,6 @@
     "virtual": true
   },
   {
-    "icao": "EGV",
-    "name": "Eagle Airways Virtual",
-    "callsign": "SKYRISE",
-    "virtual": true
-  },
-  {
-    "icao": "BNV",
-    "name": "BlueNova Virtual Airlines",
-    "callsign": "BLUENOVA",
-    "virtual": true
-  },
-  {
     "icao": "AIR",
     "name": "AirMed",
     "callsign": "AIRMED",
@@ -2150,21 +2030,9 @@
     "virtual": true
   },
   {
-    "icao": "VSK",
-    "name": "Skylines Virtual",
-    "callsign": "SKYLARK",
-    "virtual": true
-  },
-  {
-    "icao": "PNN",
-    "name": "Pennine Air",
-    "callsign": "PENNINE",
-    "virtual": true
-  },
-  {
     "icao": "BKC",
     "name": "Kecen Virtual",
     "callsign": "BLOSSOM",
     "virtual": true
-}
+  }
 ]
