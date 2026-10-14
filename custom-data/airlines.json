@@ -2088,5 +2088,10 @@
     "name": "AirMed",
     "callsign": "STARS",
     "virtual": true
-  }
+  },
+  { 
+    "icao": "BNE",
+    "name": "AirBorneo",
+    "callsign": "BORNEO",
+    "virtual": false
 ]
