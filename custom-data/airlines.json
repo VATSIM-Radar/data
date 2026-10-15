@@ -837,163 +837,163 @@
     "icao": "VV",
     "name": "United States Navy",
     "callsign": "NAVY",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VVAB",
     "name": "United States Navy CVW-1",
     "callsign": "NAVY ALPHA BRAVO",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VVLA",
     "name": "United States Navy VP-5",
     "callsign": "NAVY LIMA ALPHA",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VVAG",
     "name": "United States Navy CVW-7",
     "callsign": "NAVY ALPHA GULF",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VVJW",
     "name": "United States Navy VR-62",
     "callsign": "NAVY JULIET WHISKEY",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VVJM",
     "name": "United States Navy VRM-40",
     "callsign": "NAVY ALPHA GULF",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VVA",
     "name": "United States Navy TAW-1",
     "callsign": "NAVY ALPHA",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VVAJ",
     "name": "United States Navy CVW-8",
     "callsign": "NAVY ALPHA JULIET",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VVNE",
     "name": "United States Navy CVW-2",
     "callsign": "NAVY NOVEMBER ECHO",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VVTC",
     "name": "United States Navy VQ-3",
     "callsign": "NAVY TANGO CHARLIE",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VVJU",
     "name": "United States Navy VR-56",
     "callsign": "NAVY JULIET UNIFORM",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VM",
     "name": "United States Marine Corps",
     "callsign": "MARINE",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VMED",
     "name": "United States Marine Corps VMFA-533",
     "callsign": "MARINE ECHO DELTA",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VMVM",
     "name": "United States Marine Corps VMFAT-501",
     "callsign": "MARINE VICTOR MIKE",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "WRLRD",
     "name": "United States Marine Corps VMFAT-501",
     "callsign": "WARLORD",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "SWEDE",
     "name": "United States Marine Corps VMFAT-501",
     "callsign": "SWEDE",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "HAWK",
     "name": "United States Navy",
     "callsign": "HAWK",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VCTRY",
     "name": "United States Navy VFA-103",
     "callsign": "VICTORY",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "SLAYR",
     "name": "United States Navy HSC-11",
     "callsign": "SLAYER",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "BUMPY",
     "name": "United States Navy VQ-3",
     "callsign": "BUMPY",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "NOMAD",
     "name": "United States Navy VR-62",
     "callsign": "NOMAD",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "MADFX",
     "name": "United States Navy VP-5",
     "callsign": "MAD FOX",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "CDFLE",
     "name": "United States Navy VP-5",
     "callsign": "CARDFILE",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "BISON",
     "name": "United States Navy VRM-40",
     "callsign": "BISON",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "VVBA",
     "name": "United States Navy Flight Demonstration Squadron",
     "callsign": "NAVY BLUE ANGEL",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "BERT",
     "name": "United States Navy Flight Demonstration Squadron",
     "callsign": "ALBERT",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "SH",
     "name": "United States Navy VT-6",
     "callsign": "SHOOTER",
-    "virtual": false
+    "virtual": true
   },
   {
     "icao": "NWS",
@@ -1162,6 +1162,440 @@
     "callsign": "AIR GUARD",
     "country": "UNITED STATES",
     "virtual": false
+  },
+  {
+    "icao": "KNIFE",
+    "name": "vUSNGB 1-140th AR A-Co",
+    "callsign": "KNIFE",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "DEATH",
+    "name": "vUSNGB 110th BS",
+    "callsign": "DEATH",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "GHOST",
+    "name": "vUSNGB 110th BS",
+    "callsign": "GHOST",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "MISTY",
+    "name": "vUSNGB 110th BS",
+    "callsign": "MISTY",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "REAPR",
+    "name": "vUSNGB 110th BS",
+    "callsign": "REAPER",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "ROCK",
+    "name": "vUSNGB 123rd FS, 142nd FW",
+    "callsign": "ROCK",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "RDHWK",
+    "name": "vUSNGB 123rd FS, 142nd FW",
+    "callsign": "REDHAWK",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "JOLLY ",
+    "name": "vUSNGB 129th RQS",
+    "callsign": "JOLLY",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "RDEYE",
+    "name": "vUSNGB 120th FS, 140th Wing",
+    "callsign": "REDEYE",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "SNAKE",
+    "name": "vUSNGB 120th FS, 140th Wing",
+    "callsign": "SNAKE",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "DILON",
+    "name": "vUSNGB 200th AS, 140th Wing",
+    "callsign": "DILLON",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "DEDLY",
+    "name": "vUSNGB 149th FS, 192nd FW",
+    "callsign": "DEADLY",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "DEMON",
+    "name": "vUSNGB 149th FS, 192nd FW",
+    "callsign": "DEMON",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "DICE",
+    "name": "vUSNGB 149th FS, 192nd FW",
+    "callsign": "DICE",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "DIDDY",
+    "name": "vUSNGB 149th FS, 192nd FW",
+    "callsign": "DIDDY",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "DOOM",
+    "name": "vUSNGB 149th FS, 192nd FW",
+    "callsign": "DOOM",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "TRAIN",
+    "name": "vUSNGB 153rd ALW",
+    "callsign": "TRAIN",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "WYOMG",
+    "name": "vUSNGB 153rd ALW",
+    "callsign": "WYOMING",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "REX",
+    "name": "vUSNGB 159th FS",
+    "callsign": "REX",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "FANG",
+    "name": "vUSNGB 159th FS",
+    "callsign": "FANG",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "BAYOU",
+    "name": "vUSNGB 159th FW",
+    "callsign": "BAYOU",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "MILTA",
+    "name": "vUSNGB 159th FW",
+    "callsign": "MILTIA",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "EPOXY",
+    "name": "vUSNGB 161st ARW",
+    "callsign": "EPOXY",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "COPER",
+    "name": "vUSNGB 161st ARW",
+    "callsign": "COPPER",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "CAPRA",
+    "name": "vUSNGB 161st ARW",
+    "callsign": "CAPRA",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "STEEL",
+    "name": "vUSNGB 171st ARW",
+    "callsign": "STEEL",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "SHAKE",
+    "name": "vUSNGB 171st ARW",
+    "callsign": "SHAKE",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "JEEP",
+    "name": "vUSNGB 171st ARW",
+    "callsign": "JEEP",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "BROOK",
+    "name": "vUSNGB 187th AS",
+    "callsign": "BROOK",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "SURF",
+    "name": "vUSNGB 194th FS",
+    "callsign": "SURF",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "MYTAI",
+    "name": "vUSNGB 199th FS, 154th Wing",
+    "callsign": "MYTAI",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "HUMER",
+    "name": "vUSNGB 199th FS, 154th Wing",
+    "callsign": "HUMMER",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "APCHE",
+    "name": "vUSNGB 1st Bat, 211th AR",
+    "callsign": "APACHE",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "BOXER",
+    "name": "vUSNGB 201st AS, 113th Wing",
+    "callsign": "BOXER",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "G",
+    "name": "vUSNGB 121th/223rd AR",
+    "callsign": "GUARD",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "BLITZ",
+    "name": "vUSNGB 28th ECAB",
+    "callsign": "BLITZ",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "HEART",
+    "name": "vUSNGB 28th ECAB",
+    "callsign": "HEART",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "NOMAD",
+    "name": "vUSNGB 28th ECAB",
+    "callsign": "NOMAD",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "AGONY",
+    "name": "vUSNGB 28th ECAB",
+    "callsign": "AGONY",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "MYSTIC",
+    "name": "vUSNGB 28th ECAB",
+    "callsign": "MYSTIC",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "MUSL",
+    "name": "vUSNGB 316th Ops Group",
+    "callsign": "MUSCLE",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "DRAGN",
+    "name": "vUSNGB 345th BS, 489th BG",
+    "callsign": "DRAGON",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "HOWLR",
+    "name": "vUSNGB 345th BS, 489th BG",
+    "callsign": "HOWLER",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "JUICE",
+    "name": "vUSNGB 345th BS, 489th BG",
+    "callsign": "JUICE",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "MOCHA",
+    "name": "vUSNGB 345th BS, 489th BG",
+    "callsign": "MOCHA",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "NITER",
+    "name": "vUSNGB 345th BS, 489th BG",
+    "callsign": "NITER",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "CASH",
+    "name": "vUSNGB 47th FTW",
+    "callsign": "CASH",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "COOL",
+    "name": "vUSNGB 47th FTW",
+    "callsign": "COOL",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "CAJUN",
+    "name": "vUSNGB 706th AG, 926th Wing",
+    "callsign": "CAJUN",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "SUMIT",
+    "name": "vUSNGB 731st AS",
+    "callsign": "SUMMIT",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "BOLT",
+    "name": "vUSNGB 73rd FRS",
+    "callsign": "BOLT",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "GREEN",
+    "name": "vUSNGB 73rd FRS",
+    "callsign": "GREEN",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "PITT",
+    "name": "vUSNGB 758th ALS",
+    "callsign": "PITT",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "EVANS",
+    "name": "vUSNGB A/B-CO 3-140th AR",
+    "callsign": "EVANS",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "SABRE",
+    "name": "vUSNGB AFTC, DET3",
+    "callsign": "SABRE",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "RSCUE",
+    "name": "vUSNGB AFTC, DET3",
+    "callsign": "RESCUE",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "ARROW",
+    "name": "vUSNGB C-CO 2-135th AR",
+    "callsign": "ARROW",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "CC",
+    "name": "vUSNGB C-CO 2-135th AR",
+    "callsign": "ARROW",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "DET1",
+    "name": "vUSNGB B-CO 2-135th, DET1",
+    "callsign": "VAIL",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "VAIL",
+    "name": "vUSNGB B-CO 2-135th, DET1",
+    "callsign": "VAIL",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "HAATS",
+    "name": "vUSNGB H.A.A.T.S.",
+    "callsign": "TALON",
+    "country": "UNITED STATES",
+    "virtual": true
+  },
+  {
+    "icao": "TALON",
+    "name": "vUSNGB H.A.A.T.S.",
+    "callsign": "TALON",
+    "country": "UNITED STATES",
+    "virtual": true
   },
   {
     "icao": "R",
