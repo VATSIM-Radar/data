@@ -1423,13 +1423,6 @@
     "virtual": true
   },
   {
-    "icao": "NOMAD",
-    "name": "vUSNGB 28th ECAB",
-    "callsign": "NOMAD",
-    "country": "UNITED STATES",
-    "virtual": true
-  },
-  {
     "icao": "AGONY",
     "name": "vUSNGB 28th ECAB",
     "callsign": "AGONY",
