@@ -2088,5 +2088,11 @@
     "name": "AirMed",
     "callsign": "STARS",
     "virtual": true
+  },
+  {
+    "icao": "CBF",
+    "name": "China Northern Airlines",
+    "callsign": "CHINA NORTHERN",
+    "virtual": false
   }
 ]
