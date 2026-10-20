@@ -1550,6 +1550,12 @@
     "virtual": true
   },
   {
+    "icao": "HOP",
+    "name": "AFKLVIRTUAL",
+    "callsign": "AIR HOP",
+    "virtual": true
+  },
+  {
     "icao": "KLM",
     "name": "AFKLVIRTUAL",
     "callsign": "KLM",
