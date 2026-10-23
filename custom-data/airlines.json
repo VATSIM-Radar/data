@@ -2088,5 +2088,11 @@
     "name": "AirMed",
     "callsign": "STARS",
     "virtual": true
+  },
+  {
+    "icao": "QVA",
+    "name": "QVirtual",
+    "callsign": "QVIRTUAL",
+    "virtual": true
   }
 ]
