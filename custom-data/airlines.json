@@ -2106,11 +2106,5 @@
     "name": "AirBorneo",
     "callsign": "BORNEO",
     "virtual": false
-  },
-  {
-    "icao": "QVA",
-    "name": "QVirtual",
-    "callsign": "QVIRTUAL",
-    "virtual": true
   }
 ]
