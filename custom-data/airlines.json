@@ -1,10 +1,10 @@
 [
-{ 
-  "icao": "VNR", 
-  "name": "VinciAir", 
-  "callsign": "WINAIR", 
-  "virtual": true 
-},
+  {
+    "icao": "VNR",
+    "name": "VinciAir",
+    "callsign": "WINAIR",
+    "virtual": true
+  },
   {
     "icao": "ASK",
     "name": "AIRSKY",
@@ -2515,5 +2515,23 @@
     "name": "AirMed",
     "callsign": "STARS",
     "virtual": true
+  },
+  {
+    "icao": "VCR",
+    "name": "Vector Airlines",
+    "callsign": "VECTOR",
+    "virtual": true
+  },
+  {
+    "icao": "CBF",
+    "name": "China Northern Airlines",
+    "callsign": "CHINA NORTHERN",
+    "virtual": false
+  },
+  {
+    "icao": "BNE",
+    "name": "AirBorneo",
+    "callsign": "BORNEO",
+    "virtual": false
   }
 ]
