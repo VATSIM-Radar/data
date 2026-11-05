@@ -1,4 +1,10 @@
 [
+  {    
+    "icao": "DUS",
+    "name": "Dutch Air Services",
+    "callsign": "Dutch Air",
+    "virtual": true
+  },
   {
     "icao": "VNR",
     "name": "VinciAir",
