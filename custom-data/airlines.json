@@ -1,5 +1,11 @@
 [
   {
+  "icao": "FMV",
+  "name": "FLYMUC Virtual Airlines",
+  "callsign": "FLYMUC",
+  "virtual": true
+},
+  {
     "icao": "VNR",
     "name": "VinciAir",
     "callsign": "WINAIR",
