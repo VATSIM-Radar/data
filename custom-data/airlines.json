@@ -2533,5 +2533,65 @@
     "name": "AirBorneo",
     "callsign": "BORNEO",
     "virtual": false
+  },
+  {
+    "icao": "KTE",
+    "name": "Auskite Airways",
+    "callsign": "AUSKITE",
+    "virtual": true
+  },
+  {
+    "icao": "NBF",
+    "name": "Alliance air",
+    "callsign": "ALLIANCE AIR",
+    "virtual": true
+  },
+  {
+    "icao": "LXO",
+    "name": "LUXORA AIRLINES",
+    "callsign": "LUXORA",
+    "virtual": true
+  },
+  {
+    "icao": "AUW",
+    "name": "Aurora Wings",
+    "callsign": "AURORA WINGS",
+    "virtual": true
+  },
+  {
+    "icao": "FAL",
+    "name": "Fahrad Airline",
+    "callsign": "FAHRAD AIRLINE",
+    "virtual": true
+  },
+  {
+    "icao": "EPI",
+    "name": "HOMA",
+    "callsign": "HOMA",
+    "virtual": true
+  },
+  {
+    "icao": "MCH",
+    "name": "MachAir International",
+    "callsign": "MACHAIR INTERNATIONAL",
+    "virtual": true
+  },
+  {
+    "icao": "RJA",
+    "name": "Royal jordanian Virtual",
+    "callsign": "ROYAL JORDANIAN",
+    "virtual": true
+  },
+  {
+    "icao": "TRX",
+    "name": "Tira Airlines",
+    "callsign": "TIRA AIRLINES",
+    "virtual": true
+  },
+  {
+    "icao": "VLX",
+    "name": "Veltrix",
+    "callsign": "VELTRIX",
+    "virtual": true
   }
 ]
