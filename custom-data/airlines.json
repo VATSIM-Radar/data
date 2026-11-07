@@ -2533,5 +2533,11 @@
     "name": "AirBorneo",
     "callsign": "BORNEO",
     "virtual": false
-  }
+  },
+  {
+    "icao": "UKE",
+    "name": "Air Ukraine",
+    "callsign": "AIRUKRAINE",
+    "virtual": true
+    }
 ]
