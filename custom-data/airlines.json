@@ -1894,7 +1894,7 @@
   },
   {
     "icao": "QAF",
-    "name": "Oryx Virtual",
+    "name": "Oryx Royal",
     "callsign": "AMIRI",
     "virtual": true
   },
@@ -2533,5 +2533,12 @@
     "name": "AirBorneo",
     "callsign": "BORNEO",
     "virtual": false
+  }
+    },
+  {
+    "icao": "EQE",
+    "name": "Oryx Executive Europe",
+    "callsign": "EUROJET",
+    "virtual": true
   }
 ]
