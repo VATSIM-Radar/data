@@ -1,4 +1,10 @@
 [
+ {
+    "icao": "VAF",
+    "name": "VA Flyinfriends",
+    "callsign": "SKYFRIEND",
+    "virtual": true
+  },
   {
     "icao": "VNR",
     "name": "VinciAir",
