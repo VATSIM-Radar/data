@@ -2533,5 +2533,11 @@
     "name": "AirBorneo",
     "callsign": "BORNEO",
     "virtual": false
+  },
+  {
+  "icao": "PDA",
+  "name": "Podillia Avia",
+  "callsign": "PODILIA",
+  "virtual": true
   }
 ]
