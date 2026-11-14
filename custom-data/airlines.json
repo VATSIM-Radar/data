@@ -2533,5 +2533,101 @@
     "name": "AirBorneo",
     "callsign": "BORNEO",
     "virtual": false
+  },
+  {
+    "icao": "KTE",
+    "name": "Auskite Airways",
+    "callsign": "AUSKITE",
+    "virtual": true
+  },
+  {
+    "icao": "NBF",
+    "name": "Alliance air",
+    "callsign": "ALLIANCE AIR",
+    "virtual": true
+  },
+  {
+    "icao": "LXO",
+    "name": "LUXORA AIRLINES",
+    "callsign": "LUXORA",
+    "virtual": true
+  },
+  {
+    "icao": "AUW",
+    "name": "Aurora Wings",
+    "callsign": "AURORA WINGS",
+    "virtual": true
+  },
+  {
+    "icao": "FAL",
+    "name": "Fahrad Airline",
+    "callsign": "FAHRAD AIRLINE",
+    "virtual": true
+  },
+  {
+    "icao": "EPI",
+    "name": "HOMA",
+    "callsign": "HOMA",
+    "virtual": true
+  },
+  {
+    "icao": "MCH",
+    "name": "MachAir International",
+    "callsign": "MACHAIR INTERNATIONAL",
+    "virtual": true
+  },
+  {
+    "icao": "RJA",
+    "name": "Royal jordanian Virtual",
+    "callsign": "ROYAL JORDANIAN",
+    "virtual": true
+  },
+  {
+    "icao": "TRX",
+    "name": "Tira Airlines",
+    "callsign": "TIRA AIRLINES",
+    "virtual": true
+  },
+  {
+    "icao": "VLX",
+    "name": "Veltrix Airways",
+    "callsign": "VELTRIX AIRWAYS",
+    "virtual": true
+  },
+  {
+    "icao": "VIA",
+    "name": "Aerovia",
+    "callsign": "AEROVIA",
+    "virtual": true
+  },
+  {
+    "icao": "AVG",
+    "name": "Aloha Virtual Group",
+    "callsign": "ALOHA VIRTUAL GROUP",
+    "virtual": true
+  },
+  {
+    "icao": "GMI",
+    "name": "VIP Business CharterService",
+    "callsign": "VIP BUSINESS CHARTERSERVICE",
+    "virtual": true
+  },
+  {
+    "icao": "HFV",
+    "name": "hifly Virtual airline",
+    "callsign": "HIFLY",
+    "virtual": true
+  },
+  {
+    "icao": "RAM",
+    "name": "Royal Air Maroc",
+    "callsign": "ROYAL AIR MAROC",
+    "virtual": true
+  },
+  {
+    "icao": "YUN",
+    "name": "China Yunnan Airlines",
+    "callsign": "CHINA YUNNAN AIRLINES",
+    "virtual": true
   }
 ]
