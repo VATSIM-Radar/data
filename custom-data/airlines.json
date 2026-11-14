@@ -2590,8 +2590,44 @@
   },
   {
     "icao": "VLX",
-    "name": "Veltrix",
-    "callsign": "VELTRIX",
+    "name": "Veltrix Airways",
+    "callsign": "VELTRIX AIRWAYS",
+    "virtual": true
+  },
+  {
+    "icao": "VIA",
+    "name": "Aerovia",
+    "callsign": "AEROVIA",
+    "virtual": true
+  },
+  {
+    "icao": "AVG",
+    "name": "Aloha Virtual Group",
+    "callsign": "ALOHA VIRTUAL GROUP",
+    "virtual": true
+  },
+  {
+    "icao": "GMI",
+    "name": "VIP Business CharterService",
+    "callsign": "VIP BUSINESS CHARTERSERVICE",
+    "virtual": true
+  },
+  {
+    "icao": "HFV",
+    "name": "hifly Virtual airline",
+    "callsign": "HIFLY",
+    "virtual": true
+  },
+  {
+    "icao": "RAM",
+    "name": "Royal Air Maroc",
+    "callsign": "ROYAL AIR MAROC",
+    "virtual": true
+  },
+  {
+    "icao": "YUN",
+    "name": "China Yunnan Airlines",
+    "callsign": "CHINA YUNNAN AIRLINES",
     "virtual": true
   }
 ]
