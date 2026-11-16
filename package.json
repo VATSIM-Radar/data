@@ -13,7 +13,7 @@
   },
   "packageManager": "yarn@4.18.1",
   "dependencies": {
-    "croner": "11.0.0",
+    "croner": "11.0.1",
     "sharp": "0.35.5"
   }
 }
