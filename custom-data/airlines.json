@@ -1250,24 +1250,6 @@
     "virtual": true
   },
   {
-    "icao": "DHS",
-    "name": "US Department of Homeland Security",
-    "callsign": "DHS",
-    "virtual": true
-  },
-  {
-    "icao": "TROY",
-    "name": "US Department of Homeland Security",
-    "callsign": "TROY",
-    "virtual": true
-  },
-  {
-    "icao": "FEMA",
-    "name": "US Federal Emergency Management Agency",
-    "callsign": "FEMA",
-    "virtual": true
-  },
-  {
     "icao": "AKJ",
     "name": "Akasa Air",
     "callsign": "AKASA AIR",
