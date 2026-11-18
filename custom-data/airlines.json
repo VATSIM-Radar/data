@@ -1,4 +1,10 @@
 [
+   {
+    "icao": "SWU",
+    "name": "SkyAlps Virtual",
+    "callsign": "SKYALPS",
+    "virtual": true
+  }, 
   {
     "icao": "VNR",
     "name": "VinciAir",
