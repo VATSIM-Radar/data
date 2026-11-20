@@ -1746,5 +1746,11 @@
     "name": "AirBorneo",
     "callsign": "BORNEO",
     "virtual": false
+  },
+  {
+    "icao": "DUS",
+    "name": "Dutch Air Services",
+    "callsign": "Dutch Air",
+    "vitrual": true
   }
 ]
