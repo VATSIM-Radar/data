@@ -1746,5 +1746,11 @@
     "name": "AirBorneo",
     "callsign": "BORNEO",
     "virtual": false
-  }
+  },
+  {
+  "icao": "MAI",
+  "name": "MAI Airways",
+  "callsign": "MAI",
+  "virtual": true
+}
 ]
