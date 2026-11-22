@@ -1746,5 +1746,11 @@
     "name": "AirBorneo",
     "callsign": "BORNEO",
     "virtual": false
+  },
+  {
+    "icao": "JTV",
+    "name": "JetStream Virtual",
+    "callsign": "JETSTREAM",
+    "virtual": true
   }
 ]
