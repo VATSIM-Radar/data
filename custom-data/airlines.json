@@ -1746,5 +1746,11 @@
     "name": "AirBorneo",
     "callsign": "BORNEO",
     "virtual": false
-  }
+  },
+ {
+    "icao": "AQC"
+    "name": "Austral Pacific Airways"
+    "callsign": "AUSTRAL"
+    "virtual": true
+}
 ]
