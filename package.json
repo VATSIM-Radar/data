@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@types/node": "26.6.6",
-    "nitropack": "2.13.6"
+    "nitropack": "2.14.0"
   },
   "packageManager": "yarn@4.19.0",
   "dependencies": {
